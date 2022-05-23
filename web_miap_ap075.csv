@@ -1,0 +1,2251 @@
+"","Gender","Age","Corruption","Severity","Service","sum_AP","n"
+"1","Predominantly Feminine","Young","gaussian-noise",1,"AWS",1288.54675467547,1370
+"2","Predominantly Feminine","Young","gaussian-noise",1,"Azure",1191.31188118812,1293
+"3","Predominantly Feminine","Young","gaussian-noise",1,"GCP",1201.10396039604,1271
+"4","Predominantly Feminine","Young","gaussian-noise",2,"AWS",1251.47123998114,1370
+"5","Predominantly Feminine","Young","gaussian-noise",2,"Azure",1110.08415841584,1293
+"6","Predominantly Feminine","Young","gaussian-noise",2,"GCP",1141.61881188119,1271
+"7","Predominantly Feminine","Young","gaussian-noise",3,"AWS",1178.09900990099,1370
+"8","Predominantly Feminine","Young","gaussian-noise",3,"Azure",979.925742574257,1293
+"9","Predominantly Feminine","Young","gaussian-noise",3,"GCP",1073.62376237624,1271
+"10","Predominantly Feminine","Young","gaussian-noise",4,"AWS",1050.10066006601,1370
+"11","Predominantly Feminine","Young","gaussian-noise",4,"Azure",815.910891089109,1293
+"12","Predominantly Feminine","Young","gaussian-noise",4,"GCP",953.504950495049,1271
+"13","Predominantly Feminine","Young","gaussian-noise",5,"AWS",865.321782178218,1370
+"14","Predominantly Feminine","Young","gaussian-noise",5,"Azure",562.891089108911,1293
+"15","Predominantly Feminine","Young","gaussian-noise",5,"GCP",707.138613861386,1271
+"16","Predominantly Feminine","Young","shot-noise",1,"AWS",1308.16625412541,1370
+"17","Predominantly Feminine","Young","shot-noise",1,"Azure",1203.84158415842,1293
+"18","Predominantly Feminine","Young","shot-noise",1,"GCP",1204.61386138614,1271
+"19","Predominantly Feminine","Young","shot-noise",2,"AWS",1242.78802880288,1370
+"20","Predominantly Feminine","Young","shot-noise",2,"Azure",1112.29207920792,1293
+"21","Predominantly Feminine","Young","shot-noise",2,"GCP",1134.61881188119,1271
+"22","Predominantly Feminine","Young","shot-noise",3,"AWS",1185.44059405941,1370
+"23","Predominantly Feminine","Young","shot-noise",3,"Azure",1001.16336633663,1293
+"24","Predominantly Feminine","Young","shot-noise",3,"GCP",1072.72772277228,1271
+"25","Predominantly Feminine","Young","shot-noise",4,"AWS",1037.51485148515,1370
+"26","Predominantly Feminine","Young","shot-noise",4,"Azure",763.757425742574,1293
+"27","Predominantly Feminine","Young","shot-noise",4,"GCP",901.480198019802,1271
+"28","Predominantly Feminine","Young","shot-noise",5,"AWS",891.960396039604,1370
+"29","Predominantly Feminine","Young","shot-noise",5,"Azure",566.415841584158,1293
+"30","Predominantly Feminine","Young","shot-noise",5,"GCP",748.009900990099,1271
+"31","Predominantly Feminine","Young","impulse-noise",1,"AWS",1268.12101210121,1370
+"32","Predominantly Feminine","Young","impulse-noise",1,"Azure",1193.18811881188,1293
+"33","Predominantly Feminine","Young","impulse-noise",1,"GCP",1164.35148514851,1271
+"34","Predominantly Feminine","Young","impulse-noise",2,"AWS",1215.30198019802,1370
+"35","Predominantly Feminine","Young","impulse-noise",2,"Azure",1101.77227722772,1293
+"36","Predominantly Feminine","Young","impulse-noise",2,"GCP",1124.29702970297,1271
+"37","Predominantly Feminine","Young","impulse-noise",3,"AWS",1175.69801980198,1370
+"38","Predominantly Feminine","Young","impulse-noise",3,"Azure",1011.42079207921,1293
+"39","Predominantly Feminine","Young","impulse-noise",3,"GCP",1083.62376237624,1271
+"40","Predominantly Feminine","Young","impulse-noise",4,"AWS",1055.34900990099,1370
+"41","Predominantly Feminine","Young","impulse-noise",4,"Azure",817.752475247525,1293
+"42","Predominantly Feminine","Young","impulse-noise",4,"GCP",927.945544554455,1271
+"43","Predominantly Feminine","Young","impulse-noise",5,"AWS",875.745874587459,1370
+"44","Predominantly Feminine","Young","impulse-noise",5,"Azure",567.89603960396,1293
+"45","Predominantly Feminine","Young","impulse-noise",5,"GCP",729.39603960396,1271
+"46","Predominantly Feminine","Young","defocus-blur",1,"AWS",1318.93250825083,1370
+"47","Predominantly Feminine","Young","defocus-blur",1,"Azure",1244.26379066478,1293
+"48","Predominantly Feminine","Young","defocus-blur",1,"GCP",1189.84653465347,1271
+"49","Predominantly Feminine","Young","defocus-blur",2,"AWS",1286.57920792079,1370
+"50","Predominantly Feminine","Young","defocus-blur",2,"Azure",1212.28877887789,1293
+"51","Predominantly Feminine","Young","defocus-blur",2,"GCP",1124.31683168317,1271
+"52","Predominantly Feminine","Young","defocus-blur",3,"AWS",1211.4,1370
+"53","Predominantly Feminine","Young","defocus-blur",3,"Azure",1145.63861386139,1293
+"54","Predominantly Feminine","Young","defocus-blur",3,"GCP",1010.77722772277,1271
+"55","Predominantly Feminine","Young","defocus-blur",4,"AWS",1142.6798679868,1370
+"56","Predominantly Feminine","Young","defocus-blur",4,"Azure",1074.97524752475,1293
+"57","Predominantly Feminine","Young","defocus-blur",4,"GCP",923.19801980198,1271
+"58","Predominantly Feminine","Young","defocus-blur",5,"AWS",1067.71782178218,1370
+"59","Predominantly Feminine","Young","defocus-blur",5,"Azure",1025.40099009901,1293
+"60","Predominantly Feminine","Young","defocus-blur",5,"GCP",842.366336633663,1271
+"61","Predominantly Feminine","Young","glass-blur",1,"AWS",1343.11386138614,1370
+"62","Predominantly Feminine","Young","glass-blur",1,"Azure",1268.64521452145,1293
+"63","Predominantly Feminine","Young","glass-blur",1,"GCP",1225.09405940594,1271
+"64","Predominantly Feminine","Young","glass-blur",2,"AWS",1338.30578827113,1370
+"65","Predominantly Feminine","Young","glass-blur",2,"Azure",1263.07355021216,1293
+"66","Predominantly Feminine","Young","glass-blur",2,"GCP",1220.09900990099,1271
+"67","Predominantly Feminine","Young","glass-blur",3,"AWS",1324.72873825844,1370
+"68","Predominantly Feminine","Young","glass-blur",3,"Azure",1251.18069306931,1293
+"69","Predominantly Feminine","Young","glass-blur",3,"GCP",1210.74257425743,1271
+"70","Predominantly Feminine","Young","glass-blur",4,"AWS",1317.56380638064,1370
+"71","Predominantly Feminine","Young","glass-blur",4,"Azure",1249.59335219236,1293
+"72","Predominantly Feminine","Young","glass-blur",4,"GCP",1197.23762376238,1271
+"73","Predominantly Feminine","Young","glass-blur",5,"AWS",1285.61138613861,1370
+"74","Predominantly Feminine","Young","glass-blur",5,"Azure",1227.77722772277,1293
+"75","Predominantly Feminine","Young","glass-blur",5,"GCP",1134.41584158416,1271
+"76","Predominantly Feminine","Young","motion-blur",1,"AWS",1314.28684582744,1370
+"77","Predominantly Feminine","Young","motion-blur",1,"Azure",1251.24752475248,1293
+"78","Predominantly Feminine","Young","motion-blur",1,"GCP",1202.73267326733,1271
+"79","Predominantly Feminine","Young","motion-blur",2,"AWS",1238.29702970297,1370
+"80","Predominantly Feminine","Young","motion-blur",2,"Azure",1199.44059405941,1293
+"81","Predominantly Feminine","Young","motion-blur",2,"GCP",1142.44554455446,1271
+"82","Predominantly Feminine","Young","motion-blur",3,"AWS",1131.91089108911,1370
+"83","Predominantly Feminine","Young","motion-blur",3,"Azure",1080.47524752475,1293
+"84","Predominantly Feminine","Young","motion-blur",3,"GCP",1048.5198019802,1271
+"85","Predominantly Feminine","Young","motion-blur",4,"AWS",982.321782178218,1370
+"86","Predominantly Feminine","Young","motion-blur",4,"Azure",917.064356435644,1293
+"87","Predominantly Feminine","Young","motion-blur",4,"GCP",935.188118811881,1271
+"88","Predominantly Feminine","Young","motion-blur",5,"AWS",888.237623762376,1370
+"89","Predominantly Feminine","Young","motion-blur",5,"Azure",811.212871287129,1293
+"90","Predominantly Feminine","Young","motion-blur",5,"GCP",815.356435643564,1271
+"91","Predominantly Feminine","Young","zoom-blur",1,"AWS",732.79702970297,1370
+"92","Predominantly Feminine","Young","zoom-blur",1,"Azure",661.069306930693,1293
+"93","Predominantly Feminine","Young","zoom-blur",1,"GCP",731.029702970297,1271
+"94","Predominantly Feminine","Young","zoom-blur",2,"AWS",509.871287128713,1370
+"95","Predominantly Feminine","Young","zoom-blur",2,"Azure",433.470297029703,1293
+"96","Predominantly Feminine","Young","zoom-blur",2,"GCP",546.514851485148,1271
+"97","Predominantly Feminine","Young","zoom-blur",3,"AWS",472.158415841584,1370
+"98","Predominantly Feminine","Young","zoom-blur",3,"Azure",342.871287128713,1293
+"99","Predominantly Feminine","Young","zoom-blur",3,"GCP",456,1271
+"100","Predominantly Feminine","Young","zoom-blur",4,"AWS",332.628712871287,1370
+"101","Predominantly Feminine","Young","zoom-blur",4,"Azure",250.534653465347,1293
+"102","Predominantly Feminine","Young","zoom-blur",4,"GCP",336.336633663366,1271
+"103","Predominantly Feminine","Young","zoom-blur",5,"AWS",331.138613861386,1370
+"104","Predominantly Feminine","Young","zoom-blur",5,"Azure",222.108910891089,1293
+"105","Predominantly Feminine","Young","zoom-blur",5,"GCP",241.336633663366,1271
+"106","Predominantly Feminine","Young","snow",1,"AWS",1235.52185218522,1370
+"107","Predominantly Feminine","Young","snow",1,"Azure",1197.34653465347,1293
+"108","Predominantly Feminine","Young","snow",1,"GCP",1084.29702970297,1271
+"109","Predominantly Feminine","Young","snow",2,"AWS",1133.43564356436,1370
+"110","Predominantly Feminine","Young","snow",2,"Azure",1066.71584158416,1293
+"111","Predominantly Feminine","Young","snow",2,"GCP",953.514851485148,1271
+"112","Predominantly Feminine","Young","snow",3,"AWS",1124.21452145215,1370
+"113","Predominantly Feminine","Young","snow",3,"Azure",1075.80198019802,1293
+"114","Predominantly Feminine","Young","snow",3,"GCP",823.841584158416,1271
+"115","Predominantly Feminine","Young","snow",4,"AWS",1035.08910891089,1370
+"116","Predominantly Feminine","Young","snow",4,"Azure",970.405940594059,1293
+"117","Predominantly Feminine","Young","snow",4,"GCP",635.326732673267,1271
+"118","Predominantly Feminine","Young","snow",5,"AWS",1057.35148514851,1370
+"119","Predominantly Feminine","Young","snow",5,"Azure",959.584158415842,1293
+"120","Predominantly Feminine","Young","snow",5,"GCP",750.346534653465,1271
+"121","Predominantly Feminine","Young","frost",1,"AWS",1289.54455445545,1370
+"122","Predominantly Feminine","Young","frost",1,"Azure",1200.62871287129,1293
+"123","Predominantly Feminine","Young","frost",1,"GCP",1133.91089108911,1271
+"124","Predominantly Feminine","Young","frost",2,"AWS",1174.27902790279,1370
+"125","Predominantly Feminine","Young","frost",2,"Azure",1097.31683168317,1293
+"126","Predominantly Feminine","Young","frost",2,"GCP",957.265676567657,1271
+"127","Predominantly Feminine","Young","frost",3,"AWS",1078.48762376238,1370
+"128","Predominantly Feminine","Young","frost",3,"Azure",1011.24257425743,1293
+"129","Predominantly Feminine","Young","frost",3,"GCP",771.613861386139,1271
+"130","Predominantly Feminine","Young","frost",4,"AWS",1047,1370
+"131","Predominantly Feminine","Young","frost",4,"Azure",985.242574257426,1293
+"132","Predominantly Feminine","Young","frost",4,"GCP",770.470297029703,1271
+"133","Predominantly Feminine","Young","frost",5,"AWS",960.584158415842,1370
+"134","Predominantly Feminine","Young","frost",5,"Azure",932.742574257426,1293
+"135","Predominantly Feminine","Young","frost",5,"GCP",648.143564356436,1271
+"136","Predominantly Feminine","Young","fog",1,"AWS",1320.10891089109,1370
+"137","Predominantly Feminine","Young","fog",1,"Azure",1247.56435643564,1293
+"138","Predominantly Feminine","Young","fog",1,"GCP",1133.74257425743,1271
+"139","Predominantly Feminine","Young","fog",2,"AWS",1308.70297029703,1370
+"140","Predominantly Feminine","Young","fog",2,"Azure",1230.48514851485,1293
+"141","Predominantly Feminine","Young","fog",2,"GCP",1067.60396039604,1271
+"142","Predominantly Feminine","Young","fog",3,"AWS",1284.41254125413,1370
+"143","Predominantly Feminine","Young","fog",3,"Azure",1209.37128712871,1293
+"144","Predominantly Feminine","Young","fog",3,"GCP",1008.73267326733,1271
+"145","Predominantly Feminine","Young","fog",4,"AWS",1281.58085808581,1370
+"146","Predominantly Feminine","Young","fog",4,"Azure",1214.20792079208,1293
+"147","Predominantly Feminine","Young","fog",4,"GCP",989.871287128713,1271
+"148","Predominantly Feminine","Young","fog",5,"AWS",1254.95859585959,1370
+"149","Predominantly Feminine","Young","fog",5,"Azure",1191.4801980198,1293
+"150","Predominantly Feminine","Young","fog",5,"GCP",909.564356435644,1271
+"151","Predominantly Feminine","Young","brightness",1,"AWS",1349.0396039604,1370
+"152","Predominantly Feminine","Young","brightness",1,"Azure",1279.75445544554,1293
+"153","Predominantly Feminine","Young","brightness",1,"GCP",1241.49133663366,1271
+"154","Predominantly Feminine","Young","brightness",2,"AWS",1336.87585681645,1370
+"155","Predominantly Feminine","Young","brightness",2,"Azure",1272.63415841584,1293
+"156","Predominantly Feminine","Young","brightness",2,"GCP",1222.36633663366,1271
+"157","Predominantly Feminine","Young","brightness",3,"AWS",1324.35643564356,1370
+"158","Predominantly Feminine","Young","brightness",3,"Azure",1255.5797579758,1293
+"159","Predominantly Feminine","Young","brightness",3,"GCP",1193.17326732673,1271
+"160","Predominantly Feminine","Young","brightness",4,"AWS",1315.95184518452,1370
+"161","Predominantly Feminine","Young","brightness",4,"Azure",1234.66336633663,1293
+"162","Predominantly Feminine","Young","brightness",4,"GCP",1141.32178217822,1271
+"163","Predominantly Feminine","Young","brightness",5,"AWS",1286.18564356436,1370
+"164","Predominantly Feminine","Young","brightness",5,"Azure",1211.30198019802,1293
+"165","Predominantly Feminine","Young","brightness",5,"GCP",1067.34653465347,1271
+"166","Predominantly Feminine","Young","contrast",1,"AWS",1318.93069306931,1370
+"167","Predominantly Feminine","Young","contrast",1,"Azure",1242.60176017602,1293
+"168","Predominantly Feminine","Young","contrast",1,"GCP",1133.74257425743,1271
+"169","Predominantly Feminine","Young","contrast",2,"AWS",1295.58415841584,1370
+"170","Predominantly Feminine","Young","contrast",2,"Azure",1222.14356435644,1293
+"171","Predominantly Feminine","Young","contrast",2,"GCP",1055.84158415842,1271
+"172","Predominantly Feminine","Young","contrast",3,"AWS",1244.4504950495,1370
+"173","Predominantly Feminine","Young","contrast",3,"Azure",1177.13861386139,1293
+"174","Predominantly Feminine","Young","contrast",3,"GCP",907.475247524752,1271
+"175","Predominantly Feminine","Young","contrast",4,"AWS",1075.26237623762,1370
+"176","Predominantly Feminine","Young","contrast",4,"Azure",992.267326732673,1293
+"177","Predominantly Feminine","Young","contrast",4,"GCP",545.138613861386,1271
+"178","Predominantly Feminine","Young","contrast",5,"AWS",722.831683168317,1370
+"179","Predominantly Feminine","Young","contrast",5,"Azure",633.722772277228,1293
+"180","Predominantly Feminine","Young","contrast",5,"GCP",86.5049504950495,1271
+"181","Predominantly Feminine","Young","elastic-transform",1,"AWS",580.79702970297,1370
+"182","Predominantly Feminine","Young","elastic-transform",1,"Azure",582.975247524752,1293
+"183","Predominantly Feminine","Young","elastic-transform",1,"GCP",735.262376237624,1271
+"184","Predominantly Feminine","Young","elastic-transform",2,"AWS",269.009900990099,1370
+"185","Predominantly Feminine","Young","elastic-transform",2,"Azure",278.554455445545,1293
+"186","Predominantly Feminine","Young","elastic-transform",2,"GCP",404.851485148515,1271
+"187","Predominantly Feminine","Young","elastic-transform",3,"AWS",1231.04455445545,1370
+"188","Predominantly Feminine","Young","elastic-transform",3,"Azure",1183.09207920792,1293
+"189","Predominantly Feminine","Young","elastic-transform",3,"GCP",1181.72442244224,1271
+"190","Predominantly Feminine","Young","elastic-transform",4,"AWS",1208.31683168317,1370
+"191","Predominantly Feminine","Young","elastic-transform",4,"Azure",1162.01650165017,1293
+"192","Predominantly Feminine","Young","elastic-transform",4,"GCP",1152.14686468647,1271
+"193","Predominantly Feminine","Young","elastic-transform",5,"AWS",1068.92079207921,1370
+"194","Predominantly Feminine","Young","elastic-transform",5,"Azure",1055.92079207921,1293
+"195","Predominantly Feminine","Young","elastic-transform",5,"GCP",1050.87623762376,1271
+"196","Predominantly Feminine","Young","pixelate",1,"AWS",1341.82178217822,1370
+"197","Predominantly Feminine","Young","pixelate",1,"Azure",1278.08345120226,1293
+"198","Predominantly Feminine","Young","pixelate",1,"GCP",1235.36633663366,1271
+"199","Predominantly Feminine","Young","pixelate",2,"AWS",1321.39405190519,1370
+"200","Predominantly Feminine","Young","pixelate",2,"Azure",1267.36987270156,1293
+"201","Predominantly Feminine","Young","pixelate",2,"GCP",1223.87623762376,1271
+"202","Predominantly Feminine","Young","pixelate",3,"AWS",1269.95214521452,1370
+"203","Predominantly Feminine","Young","pixelate",3,"Azure",1237.55198019802,1293
+"204","Predominantly Feminine","Young","pixelate",3,"GCP",1186.73762376238,1271
+"205","Predominantly Feminine","Young","pixelate",4,"AWS",1115.56435643564,1370
+"206","Predominantly Feminine","Young","pixelate",4,"Azure",1142.91914191419,1293
+"207","Predominantly Feminine","Young","pixelate",4,"GCP",1065.64851485149,1271
+"208","Predominantly Feminine","Young","pixelate",5,"AWS",501.866336633663,1370
+"209","Predominantly Feminine","Young","pixelate",5,"Azure",914.420792079208,1293
+"210","Predominantly Feminine","Young","pixelate",5,"GCP",740.856435643564,1271
+"211","Predominantly Feminine","Young","jpeg-compression",1,"AWS",1334.06435643564,1370
+"212","Predominantly Feminine","Young","jpeg-compression",1,"Azure",1264.9702970297,1293
+"213","Predominantly Feminine","Young","jpeg-compression",1,"GCP",1230.73762376238,1271
+"214","Predominantly Feminine","Young","jpeg-compression",2,"AWS",1313.33841076415,1370
+"215","Predominantly Feminine","Young","jpeg-compression",2,"Azure",1248.59405940594,1293
+"216","Predominantly Feminine","Young","jpeg-compression",2,"GCP",1230.86633663366,1271
+"217","Predominantly Feminine","Young","jpeg-compression",3,"AWS",1310.34356435644,1370
+"218","Predominantly Feminine","Young","jpeg-compression",3,"Azure",1234.44059405941,1293
+"219","Predominantly Feminine","Young","jpeg-compression",3,"GCP",1228.72772277228,1271
+"220","Predominantly Feminine","Young","jpeg-compression",4,"AWS",1261.10396039604,1370
+"221","Predominantly Feminine","Young","jpeg-compression",4,"Azure",1186.93069306931,1293
+"222","Predominantly Feminine","Young","jpeg-compression",4,"GCP",1196.37623762376,1271
+"223","Predominantly Feminine","Young","jpeg-compression",5,"AWS",1161.19801980198,1370
+"224","Predominantly Feminine","Young","jpeg-compression",5,"Azure",1135.41089108911,1293
+"225","Predominantly Feminine","Young","jpeg-compression",5,"GCP",1132.77227722772,1271
+"226","Predominantly Feminine","Middle","gaussian-noise",1,"AWS",197.50495049505,202
+"227","Predominantly Feminine","Middle","gaussian-noise",1,"Azure",190.009900990099,200
+"228","Predominantly Feminine","Middle","gaussian-noise",1,"GCP",186.336633663366,191
+"229","Predominantly Feminine","Middle","gaussian-noise",2,"AWS",196.009900990099,202
+"230","Predominantly Feminine","Middle","gaussian-noise",2,"Azure",185.50495049505,200
+"231","Predominantly Feminine","Middle","gaussian-noise",2,"GCP",184.336633663366,191
+"232","Predominantly Feminine","Middle","gaussian-noise",3,"AWS",189.009900990099,202
+"233","Predominantly Feminine","Middle","gaussian-noise",3,"Azure",168.009900990099,200
+"234","Predominantly Feminine","Middle","gaussian-noise",3,"GCP",173.5,191
+"235","Predominantly Feminine","Middle","gaussian-noise",4,"AWS",171.343234323432,202
+"236","Predominantly Feminine","Middle","gaussian-noise",4,"Azure",132.009900990099,200
+"237","Predominantly Feminine","Middle","gaussian-noise",4,"GCP",160,191
+"238","Predominantly Feminine","Middle","gaussian-noise",5,"AWS",136.5,202
+"239","Predominantly Feminine","Middle","gaussian-noise",5,"Azure",89.5049504950495,200
+"240","Predominantly Feminine","Middle","gaussian-noise",5,"GCP",117,191
+"241","Predominantly Feminine","Middle","shot-noise",1,"AWS",200.009900990099,202
+"242","Predominantly Feminine","Middle","shot-noise",1,"Azure",191.009900990099,200
+"243","Predominantly Feminine","Middle","shot-noise",1,"GCP",185.336633663366,191
+"244","Predominantly Feminine","Middle","shot-noise",2,"AWS",194.009900990099,202
+"245","Predominantly Feminine","Middle","shot-noise",2,"Azure",183.009900990099,200
+"246","Predominantly Feminine","Middle","shot-noise",2,"GCP",184.336633663366,191
+"247","Predominantly Feminine","Middle","shot-noise",3,"AWS",188.009900990099,202
+"248","Predominantly Feminine","Middle","shot-noise",3,"Azure",160.009900990099,200
+"249","Predominantly Feminine","Middle","shot-noise",3,"GCP",174,191
+"250","Predominantly Feminine","Middle","shot-noise",4,"AWS",166.009900990099,202
+"251","Predominantly Feminine","Middle","shot-noise",4,"Azure",124.009900990099,200
+"252","Predominantly Feminine","Middle","shot-noise",4,"GCP",143,191
+"253","Predominantly Feminine","Middle","shot-noise",5,"AWS",143.509900990099,202
+"254","Predominantly Feminine","Middle","shot-noise",5,"Azure",87.009900990099,200
+"255","Predominantly Feminine","Middle","shot-noise",5,"GCP",118.5,191
+"256","Predominantly Feminine","Middle","impulse-noise",1,"AWS",196.009900990099,202
+"257","Predominantly Feminine","Middle","impulse-noise",1,"Azure",192.50495049505,200
+"258","Predominantly Feminine","Middle","impulse-noise",1,"GCP",184,191
+"259","Predominantly Feminine","Middle","impulse-noise",2,"AWS",193.009900990099,202
+"260","Predominantly Feminine","Middle","impulse-noise",2,"Azure",183.009900990099,200
+"261","Predominantly Feminine","Middle","impulse-noise",2,"GCP",182,191
+"262","Predominantly Feminine","Middle","impulse-noise",3,"AWS",189.009900990099,202
+"263","Predominantly Feminine","Middle","impulse-noise",3,"Azure",168.50495049505,200
+"264","Predominantly Feminine","Middle","impulse-noise",3,"GCP",172.336633663366,191
+"265","Predominantly Feminine","Middle","impulse-noise",4,"AWS",170.009900990099,202
+"266","Predominantly Feminine","Middle","impulse-noise",4,"Azure",144.009900990099,200
+"267","Predominantly Feminine","Middle","impulse-noise",4,"GCP",152.5,191
+"268","Predominantly Feminine","Middle","impulse-noise",5,"AWS",143.009900990099,202
+"269","Predominantly Feminine","Middle","impulse-noise",5,"Azure",93.5049504950495,200
+"270","Predominantly Feminine","Middle","impulse-noise",5,"GCP",118.5,191
+"271","Predominantly Feminine","Middle","defocus-blur",1,"AWS",199.50495049505,202
+"272","Predominantly Feminine","Middle","defocus-blur",1,"Azure",198,200
+"273","Predominantly Feminine","Middle","defocus-blur",1,"GCP",186,191
+"274","Predominantly Feminine","Middle","defocus-blur",2,"AWS",198.50495049505,202
+"275","Predominantly Feminine","Middle","defocus-blur",2,"Azure",195,200
+"276","Predominantly Feminine","Middle","defocus-blur",2,"GCP",182,191
+"277","Predominantly Feminine","Middle","defocus-blur",3,"AWS",190.009900990099,202
+"278","Predominantly Feminine","Middle","defocus-blur",3,"Azure",191,200
+"279","Predominantly Feminine","Middle","defocus-blur",3,"GCP",174,191
+"280","Predominantly Feminine","Middle","defocus-blur",4,"AWS",191.009900990099,202
+"281","Predominantly Feminine","Middle","defocus-blur",4,"Azure",177.50495049505,200
+"282","Predominantly Feminine","Middle","defocus-blur",4,"GCP",163,191
+"283","Predominantly Feminine","Middle","defocus-blur",5,"AWS",181.009900990099,202
+"284","Predominantly Feminine","Middle","defocus-blur",5,"Azure",172.00495049505,200
+"285","Predominantly Feminine","Middle","defocus-blur",5,"GCP",148,191
+"286","Predominantly Feminine","Middle","glass-blur",1,"AWS",199.50495049505,202
+"287","Predominantly Feminine","Middle","glass-blur",1,"Azure",199,200
+"288","Predominantly Feminine","Middle","glass-blur",1,"GCP",187.336633663366,191
+"289","Predominantly Feminine","Middle","glass-blur",2,"AWS",199.50495049505,202
+"290","Predominantly Feminine","Middle","glass-blur",2,"Azure",199,200
+"291","Predominantly Feminine","Middle","glass-blur",2,"GCP",187.336633663366,191
+"292","Predominantly Feminine","Middle","glass-blur",3,"AWS",199.50495049505,202
+"293","Predominantly Feminine","Middle","glass-blur",3,"Azure",199,200
+"294","Predominantly Feminine","Middle","glass-blur",3,"GCP",187.336633663366,191
+"295","Predominantly Feminine","Middle","glass-blur",4,"AWS",199.50495049505,202
+"296","Predominantly Feminine","Middle","glass-blur",4,"Azure",199,200
+"297","Predominantly Feminine","Middle","glass-blur",4,"GCP",186.336633663366,191
+"298","Predominantly Feminine","Middle","glass-blur",5,"AWS",198.50495049505,202
+"299","Predominantly Feminine","Middle","glass-blur",5,"Azure",196,200
+"300","Predominantly Feminine","Middle","glass-blur",5,"GCP",184,191
+"301","Predominantly Feminine","Middle","motion-blur",1,"AWS",198.50495049505,202
+"302","Predominantly Feminine","Middle","motion-blur",1,"Azure",197,200
+"303","Predominantly Feminine","Middle","motion-blur",1,"GCP",184,191
+"304","Predominantly Feminine","Middle","motion-blur",2,"AWS",194.50495049505,202
+"305","Predominantly Feminine","Middle","motion-blur",2,"Azure",193,200
+"306","Predominantly Feminine","Middle","motion-blur",2,"GCP",180,191
+"307","Predominantly Feminine","Middle","motion-blur",3,"AWS",186.50495049505,202
+"308","Predominantly Feminine","Middle","motion-blur",3,"Azure",180.50495049505,200
+"309","Predominantly Feminine","Middle","motion-blur",3,"GCP",173,191
+"310","Predominantly Feminine","Middle","motion-blur",4,"AWS",165.757425742574,202
+"311","Predominantly Feminine","Middle","motion-blur",4,"Azure",164.50495049505,200
+"312","Predominantly Feminine","Middle","motion-blur",4,"GCP",160,191
+"313","Predominantly Feminine","Middle","motion-blur",5,"AWS",160,202
+"314","Predominantly Feminine","Middle","motion-blur",5,"Azure",147.50495049505,200
+"315","Predominantly Feminine","Middle","motion-blur",5,"GCP",149,191
+"316","Predominantly Feminine","Middle","zoom-blur",1,"AWS",142,202
+"317","Predominantly Feminine","Middle","zoom-blur",1,"Azure",123.504950495049,200
+"318","Predominantly Feminine","Middle","zoom-blur",1,"GCP",132,191
+"319","Predominantly Feminine","Middle","zoom-blur",2,"AWS",104,202
+"320","Predominantly Feminine","Middle","zoom-blur",2,"Azure",77,200
+"321","Predominantly Feminine","Middle","zoom-blur",2,"GCP",108,191
+"322","Predominantly Feminine","Middle","zoom-blur",3,"AWS",100,202
+"323","Predominantly Feminine","Middle","zoom-blur",3,"Azure",65,200
+"324","Predominantly Feminine","Middle","zoom-blur",3,"GCP",93,191
+"325","Predominantly Feminine","Middle","zoom-blur",4,"AWS",69,202
+"326","Predominantly Feminine","Middle","zoom-blur",4,"Azure",41,200
+"327","Predominantly Feminine","Middle","zoom-blur",4,"GCP",70,191
+"328","Predominantly Feminine","Middle","zoom-blur",5,"AWS",56,202
+"329","Predominantly Feminine","Middle","zoom-blur",5,"Azure",36,200
+"330","Predominantly Feminine","Middle","zoom-blur",5,"GCP",53,191
+"331","Predominantly Feminine","Middle","snow",1,"AWS",193.009900990099,202
+"332","Predominantly Feminine","Middle","snow",1,"Azure",191.009900990099,200
+"333","Predominantly Feminine","Middle","snow",1,"GCP",168.336633663366,191
+"334","Predominantly Feminine","Middle","snow",2,"AWS",185.009900990099,202
+"335","Predominantly Feminine","Middle","snow",2,"Azure",174.009900990099,200
+"336","Predominantly Feminine","Middle","snow",2,"GCP",162,191
+"337","Predominantly Feminine","Middle","snow",3,"AWS",174.009900990099,202
+"338","Predominantly Feminine","Middle","snow",3,"Azure",172.50495049505,200
+"339","Predominantly Feminine","Middle","snow",3,"GCP",129,191
+"340","Predominantly Feminine","Middle","snow",4,"AWS",159.009900990099,202
+"341","Predominantly Feminine","Middle","snow",4,"Azure",153.00495049505,200
+"342","Predominantly Feminine","Middle","snow",4,"GCP",96,191
+"343","Predominantly Feminine","Middle","snow",5,"AWS",167.009900990099,202
+"344","Predominantly Feminine","Middle","snow",5,"Azure",159.50495049505,200
+"345","Predominantly Feminine","Middle","snow",5,"GCP",118,191
+"346","Predominantly Feminine","Middle","frost",1,"AWS",197.009900990099,202
+"347","Predominantly Feminine","Middle","frost",1,"Azure",193.50495049505,200
+"348","Predominantly Feminine","Middle","frost",1,"GCP",174,191
+"349","Predominantly Feminine","Middle","frost",2,"AWS",184.009900990099,202
+"350","Predominantly Feminine","Middle","frost",2,"Azure",177.50495049505,200
+"351","Predominantly Feminine","Middle","frost",2,"GCP",134,191
+"352","Predominantly Feminine","Middle","frost",3,"AWS",162.009900990099,202
+"353","Predominantly Feminine","Middle","frost",3,"Azure",163.009900990099,200
+"354","Predominantly Feminine","Middle","frost",3,"GCP",106.336633663366,191
+"355","Predominantly Feminine","Middle","frost",4,"AWS",155.009900990099,202
+"356","Predominantly Feminine","Middle","frost",4,"Azure",155.009900990099,200
+"357","Predominantly Feminine","Middle","frost",4,"GCP",108.336633663366,191
+"358","Predominantly Feminine","Middle","frost",5,"AWS",138.009900990099,202
+"359","Predominantly Feminine","Middle","frost",5,"Azure",142.50495049505,200
+"360","Predominantly Feminine","Middle","frost",5,"GCP",85,191
+"361","Predominantly Feminine","Middle","fog",1,"AWS",201.00495049505,202
+"362","Predominantly Feminine","Middle","fog",1,"Azure",198,200
+"363","Predominantly Feminine","Middle","fog",1,"GCP",167.336633663366,191
+"364","Predominantly Feminine","Middle","fog",2,"AWS",199.50495049505,202
+"365","Predominantly Feminine","Middle","fog",2,"Azure",195.50495049505,200
+"366","Predominantly Feminine","Middle","fog",2,"GCP",156,191
+"367","Predominantly Feminine","Middle","fog",3,"AWS",197.50495049505,202
+"368","Predominantly Feminine","Middle","fog",3,"Azure",195.50495049505,200
+"369","Predominantly Feminine","Middle","fog",3,"GCP",154,191
+"370","Predominantly Feminine","Middle","fog",4,"AWS",198.50495049505,202
+"371","Predominantly Feminine","Middle","fog",4,"Azure",194.50495049505,200
+"372","Predominantly Feminine","Middle","fog",4,"GCP",153,191
+"373","Predominantly Feminine","Middle","fog",5,"AWS",197.50495049505,202
+"374","Predominantly Feminine","Middle","fog",5,"Azure",192.009900990099,200
+"375","Predominantly Feminine","Middle","fog",5,"GCP",138,191
+"376","Predominantly Feminine","Middle","brightness",1,"AWS",200.50495049505,202
+"377","Predominantly Feminine","Middle","brightness",1,"Azure",199.50495049505,200
+"378","Predominantly Feminine","Middle","brightness",1,"GCP",189.442244224422,191
+"379","Predominantly Feminine","Middle","brightness",2,"AWS",200.50495049505,202
+"380","Predominantly Feminine","Middle","brightness",2,"Azure",198.50495049505,200
+"381","Predominantly Feminine","Middle","brightness",2,"GCP",186,191
+"382","Predominantly Feminine","Middle","brightness",3,"AWS",200.50495049505,202
+"383","Predominantly Feminine","Middle","brightness",3,"Azure",197.50495049505,200
+"384","Predominantly Feminine","Middle","brightness",3,"GCP",182.336633663366,191
+"385","Predominantly Feminine","Middle","brightness",4,"AWS",200.009900990099,202
+"386","Predominantly Feminine","Middle","brightness",4,"Azure",195.009900990099,200
+"387","Predominantly Feminine","Middle","brightness",4,"GCP",183.336633663366,191
+"388","Predominantly Feminine","Middle","brightness",5,"AWS",198.009900990099,202
+"389","Predominantly Feminine","Middle","brightness",5,"Azure",190.009900990099,200
+"390","Predominantly Feminine","Middle","brightness",5,"GCP",175,191
+"391","Predominantly Feminine","Middle","contrast",1,"AWS",200.50495049505,202
+"392","Predominantly Feminine","Middle","contrast",1,"Azure",196,200
+"393","Predominantly Feminine","Middle","contrast",1,"GCP",167.336633663366,191
+"394","Predominantly Feminine","Middle","contrast",2,"AWS",197.50495049505,202
+"395","Predominantly Feminine","Middle","contrast",2,"Azure",195.50495049505,200
+"396","Predominantly Feminine","Middle","contrast",2,"GCP",152,191
+"397","Predominantly Feminine","Middle","contrast",3,"AWS",196.009900990099,202
+"398","Predominantly Feminine","Middle","contrast",3,"Azure",190.50495049505,200
+"399","Predominantly Feminine","Middle","contrast",3,"GCP",136,191
+"400","Predominantly Feminine","Middle","contrast",4,"AWS",168.009900990099,202
+"401","Predominantly Feminine","Middle","contrast",4,"Azure",166.50495049505,200
+"402","Predominantly Feminine","Middle","contrast",4,"GCP",60,191
+"403","Predominantly Feminine","Middle","contrast",5,"AWS",102,202
+"404","Predominantly Feminine","Middle","contrast",5,"Azure",92.5049504950495,200
+"405","Predominantly Feminine","Middle","contrast",5,"GCP",11,191
+"406","Predominantly Feminine","Middle","elastic-transform",1,"AWS",122,202
+"407","Predominantly Feminine","Middle","elastic-transform",1,"Azure",123,200
+"408","Predominantly Feminine","Middle","elastic-transform",1,"GCP",139,191
+"409","Predominantly Feminine","Middle","elastic-transform",2,"AWS",55,202
+"410","Predominantly Feminine","Middle","elastic-transform",2,"Azure",57,200
+"411","Predominantly Feminine","Middle","elastic-transform",2,"GCP",78,191
+"412","Predominantly Feminine","Middle","elastic-transform",3,"AWS",193.00495049505,202
+"413","Predominantly Feminine","Middle","elastic-transform",3,"Azure",191.50495049505,200
+"414","Predominantly Feminine","Middle","elastic-transform",3,"GCP",185.168316831683,191
+"415","Predominantly Feminine","Middle","elastic-transform",4,"AWS",193.50495049505,202
+"416","Predominantly Feminine","Middle","elastic-transform",4,"Azure",194,200
+"417","Predominantly Feminine","Middle","elastic-transform",4,"GCP",183,191
+"418","Predominantly Feminine","Middle","elastic-transform",5,"AWS",178.009900990099,202
+"419","Predominantly Feminine","Middle","elastic-transform",5,"Azure",185.509900990099,200
+"420","Predominantly Feminine","Middle","elastic-transform",5,"GCP",169,191
+"421","Predominantly Feminine","Middle","pixelate",1,"AWS",200.5,202
+"422","Predominantly Feminine","Middle","pixelate",1,"Azure",199,200
+"423","Predominantly Feminine","Middle","pixelate",1,"GCP",188.336633663366,191
+"424","Predominantly Feminine","Middle","pixelate",2,"AWS",199.50495049505,202
+"425","Predominantly Feminine","Middle","pixelate",2,"Azure",199,200
+"426","Predominantly Feminine","Middle","pixelate",2,"GCP",187.336633663366,191
+"427","Predominantly Feminine","Middle","pixelate",3,"AWS",194.50495049505,202
+"428","Predominantly Feminine","Middle","pixelate",3,"Azure",196.50495049505,200
+"429","Predominantly Feminine","Middle","pixelate",3,"GCP",185,191
+"430","Predominantly Feminine","Middle","pixelate",4,"AWS",187.50495049505,202
+"431","Predominantly Feminine","Middle","pixelate",4,"Azure",188,200
+"432","Predominantly Feminine","Middle","pixelate",4,"GCP",178,191
+"433","Predominantly Feminine","Middle","pixelate",5,"AWS",115.5,202
+"434","Predominantly Feminine","Middle","pixelate",5,"Azure",161.00495049505,200
+"435","Predominantly Feminine","Middle","pixelate",5,"GCP",142,191
+"436","Predominantly Feminine","Middle","jpeg-compression",1,"AWS",199.009900990099,202
+"437","Predominantly Feminine","Middle","jpeg-compression",1,"Azure",197.50495049505,200
+"438","Predominantly Feminine","Middle","jpeg-compression",1,"GCP",188.336633663366,191
+"439","Predominantly Feminine","Middle","jpeg-compression",2,"AWS",199.009900990099,202
+"440","Predominantly Feminine","Middle","jpeg-compression",2,"Azure",196.50495049505,200
+"441","Predominantly Feminine","Middle","jpeg-compression",2,"GCP",187.336633663366,191
+"442","Predominantly Feminine","Middle","jpeg-compression",3,"AWS",200.009900990099,202
+"443","Predominantly Feminine","Middle","jpeg-compression",3,"Azure",197.50495049505,200
+"444","Predominantly Feminine","Middle","jpeg-compression",3,"GCP",186.336633663366,191
+"445","Predominantly Feminine","Middle","jpeg-compression",4,"AWS",196.009900990099,202
+"446","Predominantly Feminine","Middle","jpeg-compression",4,"Azure",198,200
+"447","Predominantly Feminine","Middle","jpeg-compression",4,"GCP",184.336633663366,191
+"448","Predominantly Feminine","Middle","jpeg-compression",5,"AWS",186.009900990099,202
+"449","Predominantly Feminine","Middle","jpeg-compression",5,"Azure",191.009900990099,200
+"450","Predominantly Feminine","Middle","jpeg-compression",5,"GCP",182.336633663366,191
+"451","Predominantly Feminine","Older","gaussian-noise",1,"AWS",65.9009900990099,108
+"452","Predominantly Feminine","Older","gaussian-noise",1,"Azure",53.3069306930693,83
+"453","Predominantly Feminine","Older","gaussian-noise",1,"GCP",39.5049504950495,54
+"454","Predominantly Feminine","Older","gaussian-noise",2,"AWS",58.7425742574257,108
+"455","Predominantly Feminine","Older","gaussian-noise",2,"Azure",44,83
+"456","Predominantly Feminine","Older","gaussian-noise",2,"GCP",32.4059405940594,54
+"457","Predominantly Feminine","Older","gaussian-noise",3,"AWS",42.3168316831683,108
+"458","Predominantly Feminine","Older","gaussian-noise",3,"Azure",36.1980198019802,83
+"459","Predominantly Feminine","Older","gaussian-noise",3,"GCP",30.4059405940594,54
+"460","Predominantly Feminine","Older","gaussian-noise",4,"AWS",33.7326732673267,108
+"461","Predominantly Feminine","Older","gaussian-noise",4,"Azure",22.1089108910891,83
+"462","Predominantly Feminine","Older","gaussian-noise",4,"GCP",27.4059405940594,54
+"463","Predominantly Feminine","Older","gaussian-noise",5,"AWS",31.6435643564356,108
+"464","Predominantly Feminine","Older","gaussian-noise",5,"Azure",19.3069306930693,83
+"465","Predominantly Feminine","Older","gaussian-noise",5,"GCP",17.4299858557284,54
+"466","Predominantly Feminine","Older","shot-noise",1,"AWS",77.3366336633663,108
+"467","Predominantly Feminine","Older","shot-noise",1,"Azure",57.2376237623762,83
+"468","Predominantly Feminine","Older","shot-noise",1,"GCP",39,54
+"469","Predominantly Feminine","Older","shot-noise",2,"AWS",59.5049504950495,108
+"470","Predominantly Feminine","Older","shot-noise",2,"Azure",44,83
+"471","Predominantly Feminine","Older","shot-noise",2,"GCP",34,54
+"472","Predominantly Feminine","Older","shot-noise",3,"AWS",43.9108910891089,108
+"473","Predominantly Feminine","Older","shot-noise",3,"Azure",35.3069306930693,83
+"474","Predominantly Feminine","Older","shot-noise",3,"GCP",32.4059405940594,54
+"475","Predominantly Feminine","Older","shot-noise",4,"AWS",38.3217821782178,108
+"476","Predominantly Feminine","Older","shot-noise",4,"Azure",23.9257425742574,83
+"477","Predominantly Feminine","Older","shot-noise",4,"GCP",27.4059405940594,54
+"478","Predominantly Feminine","Older","shot-noise",5,"AWS",31.011315417256,108
+"479","Predominantly Feminine","Older","shot-noise",5,"Azure",19.3069306930693,83
+"480","Predominantly Feminine","Older","shot-noise",5,"GCP",20.3069306930693,54
+"481","Predominantly Feminine","Older","impulse-noise",1,"AWS",58.8415841584158,108
+"482","Predominantly Feminine","Older","impulse-noise",1,"Azure",53.3861386138614,83
+"483","Predominantly Feminine","Older","impulse-noise",1,"GCP",40.009900990099,54
+"484","Predominantly Feminine","Older","impulse-noise",2,"AWS",46.2475247524753,108
+"485","Predominantly Feminine","Older","impulse-noise",2,"Azure",40.5049504950495,83
+"486","Predominantly Feminine","Older","impulse-noise",2,"GCP",32,54
+"487","Predominantly Feminine","Older","impulse-noise",3,"AWS",40.8217821782178,108
+"488","Predominantly Feminine","Older","impulse-noise",3,"Azure",35.9009900990099,83
+"489","Predominantly Feminine","Older","impulse-noise",3,"GCP",29.9009900990099,54
+"490","Predominantly Feminine","Older","impulse-noise",4,"AWS",38.7956795679568,108
+"491","Predominantly Feminine","Older","impulse-noise",4,"Azure",29.7029702970297,83
+"492","Predominantly Feminine","Older","impulse-noise",4,"GCP",29.9009900990099,54
+"493","Predominantly Feminine","Older","impulse-noise",5,"AWS",29.6386138613861,108
+"494","Predominantly Feminine","Older","impulse-noise",5,"Azure",17.4059405940594,83
+"495","Predominantly Feminine","Older","impulse-noise",5,"GCP",23.0676567656766,54
+"496","Predominantly Feminine","Older","defocus-blur",1,"AWS",83.2475247524752,108
+"497","Predominantly Feminine","Older","defocus-blur",1,"Azure",70.6048604860486,83
+"498","Predominantly Feminine","Older","defocus-blur",1,"GCP",39.009900990099,54
+"499","Predominantly Feminine","Older","defocus-blur",2,"AWS",78.0016501650165,108
+"500","Predominantly Feminine","Older","defocus-blur",2,"Azure",65.3976111896904,83
+"501","Predominantly Feminine","Older","defocus-blur",2,"GCP",33.009900990099,54
+"502","Predominantly Feminine","Older","defocus-blur",3,"AWS",57.1633663366337,108
+"503","Predominantly Feminine","Older","defocus-blur",3,"Azure",55.8415841584158,83
+"504","Predominantly Feminine","Older","defocus-blur",3,"GCP",26.6980198019802,54
+"505","Predominantly Feminine","Older","defocus-blur",4,"AWS",50.2277227722772,108
+"506","Predominantly Feminine","Older","defocus-blur",4,"Azure",51.6039603960396,83
+"507","Predominantly Feminine","Older","defocus-blur",4,"GCP",24.1089108910891,54
+"508","Predominantly Feminine","Older","defocus-blur",5,"AWS",44.1386138613861,108
+"509","Predominantly Feminine","Older","defocus-blur",5,"Azure",48.1089108910891,83
+"510","Predominantly Feminine","Older","defocus-blur",5,"GCP",23.2178217821782,54
+"511","Predominantly Feminine","Older","glass-blur",1,"AWS",92.3564356435644,108
+"512","Predominantly Feminine","Older","glass-blur",1,"Azure",77.9207920792079,83
+"513","Predominantly Feminine","Older","glass-blur",1,"GCP",43.5049504950495,54
+"514","Predominantly Feminine","Older","glass-blur",2,"AWS",84.4752475247525,108
+"515","Predominantly Feminine","Older","glass-blur",2,"Azure",74.9117911791179,83
+"516","Predominantly Feminine","Older","glass-blur",2,"GCP",39.5049504950495,54
+"517","Predominantly Feminine","Older","glass-blur",3,"AWS",86.8613861386139,108
+"518","Predominantly Feminine","Older","glass-blur",3,"Azure",70.8415841584158,83
+"519","Predominantly Feminine","Older","glass-blur",3,"GCP",36.5049504950495,54
+"520","Predominantly Feminine","Older","glass-blur",4,"AWS",87.1287128712871,108
+"521","Predominantly Feminine","Older","glass-blur",4,"Azure",69.7533753375338,83
+"522","Predominantly Feminine","Older","glass-blur",4,"GCP",35.5049504950495,54
+"523","Predominantly Feminine","Older","glass-blur",5,"AWS",79.009900990099,108
+"524","Predominantly Feminine","Older","glass-blur",5,"Azure",65.5646939693969,83
+"525","Predominantly Feminine","Older","glass-blur",5,"GCP",32.4059405940594,54
+"526","Predominantly Feminine","Older","motion-blur",1,"AWS",81.8019801980198,108
+"527","Predominantly Feminine","Older","motion-blur",1,"Azure",71.8807380738074,83
+"528","Predominantly Feminine","Older","motion-blur",1,"GCP",39.5049504950495,54
+"529","Predominantly Feminine","Older","motion-blur",2,"AWS",66.9207920792079,108
+"530","Predominantly Feminine","Older","motion-blur",2,"Azure",58.992927864215,83
+"531","Predominantly Feminine","Older","motion-blur",2,"GCP",32.5049504950495,54
+"532","Predominantly Feminine","Older","motion-blur",3,"AWS",53.9009900990099,108
+"533","Predominantly Feminine","Older","motion-blur",3,"Azure",54.6930693069307,83
+"534","Predominantly Feminine","Older","motion-blur",3,"GCP",24.4059405940594,54
+"535","Predominantly Feminine","Older","motion-blur",4,"AWS",44.4554455445545,108
+"536","Predominantly Feminine","Older","motion-blur",4,"Azure",45.1584158415842,83
+"537","Predominantly Feminine","Older","motion-blur",4,"GCP",18.8283828382838,54
+"538","Predominantly Feminine","Older","motion-blur",5,"AWS",40.3366336633663,108
+"539","Predominantly Feminine","Older","motion-blur",5,"Azure",42,83
+"540","Predominantly Feminine","Older","motion-blur",5,"GCP",15.6138613861386,54
+"541","Predominantly Feminine","Older","zoom-blur",1,"AWS",36.4331683168317,108
+"542","Predominantly Feminine","Older","zoom-blur",1,"Azure",35.9876237623762,83
+"543","Predominantly Feminine","Older","zoom-blur",1,"GCP",18.3168316831683,54
+"544","Predominantly Feminine","Older","zoom-blur",2,"AWS",27.5915841584158,108
+"545","Predominantly Feminine","Older","zoom-blur",2,"Azure",27.5594059405941,83
+"546","Predominantly Feminine","Older","zoom-blur",2,"GCP",15.7128712871287,54
+"547","Predominantly Feminine","Older","zoom-blur",3,"AWS",23.3366336633663,108
+"548","Predominantly Feminine","Older","zoom-blur",3,"Azure",22,83
+"549","Predominantly Feminine","Older","zoom-blur",3,"GCP",10.5049504950495,54
+"550","Predominantly Feminine","Older","zoom-blur",4,"AWS",16.3366336633663,108
+"551","Predominantly Feminine","Older","zoom-blur",4,"Azure",16,83
+"552","Predominantly Feminine","Older","zoom-blur",4,"GCP",8.5049504950495,54
+"553","Predominantly Feminine","Older","zoom-blur",5,"AWS",9,108
+"554","Predominantly Feminine","Older","zoom-blur",5,"Azure",11,83
+"555","Predominantly Feminine","Older","zoom-blur",5,"GCP",8,54
+"556","Predominantly Feminine","Older","snow",1,"AWS",51.8514851485149,108
+"557","Predominantly Feminine","Older","snow",1,"Azure",54,83
+"558","Predominantly Feminine","Older","snow",1,"GCP",29.5049504950495,54
+"559","Predominantly Feminine","Older","snow",2,"AWS",39.7524752475247,108
+"560","Predominantly Feminine","Older","snow",2,"Azure",41,83
+"561","Predominantly Feminine","Older","snow",2,"GCP",25.009900990099,54
+"562","Predominantly Feminine","Older","snow",3,"AWS",33.9108910891089,108
+"563","Predominantly Feminine","Older","snow",3,"Azure",42.5841584158416,83
+"564","Predominantly Feminine","Older","snow",3,"GCP",19.5049504950495,54
+"565","Predominantly Feminine","Older","snow",4,"AWS",27.9108910891089,108
+"566","Predominantly Feminine","Older","snow",4,"Azure",29.9108910891089,83
+"567","Predominantly Feminine","Older","snow",4,"GCP",16,54
+"568","Predominantly Feminine","Older","snow",5,"AWS",29.4059405940594,108
+"569","Predominantly Feminine","Older","snow",5,"Azure",32.5049504950495,83
+"570","Predominantly Feminine","Older","snow",5,"GCP",14.9009900990099,54
+"571","Predominantly Feminine","Older","frost",1,"AWS",60.9257425742574,108
+"572","Predominantly Feminine","Older","frost",1,"Azure",52.9377652050919,83
+"573","Predominantly Feminine","Older","frost",1,"GCP",37.5049504950495,54
+"574","Predominantly Feminine","Older","frost",2,"AWS",51.6683168316832,108
+"575","Predominantly Feminine","Older","frost",2,"Azure",47,83
+"576","Predominantly Feminine","Older","frost",2,"GCP",27.5049504950495,54
+"577","Predominantly Feminine","Older","frost",3,"AWS",39.5148514851485,108
+"578","Predominantly Feminine","Older","frost",3,"Azure",35.0792079207921,83
+"579","Predominantly Feminine","Older","frost",3,"GCP",19.5049504950495,54
+"580","Predominantly Feminine","Older","frost",4,"AWS",34.1495049504951,108
+"581","Predominantly Feminine","Older","frost",4,"Azure",32.6695544554455,83
+"582","Predominantly Feminine","Older","frost",4,"GCP",19.1980198019802,54
+"583","Predominantly Feminine","Older","frost",5,"AWS",30.5049504950495,108
+"584","Predominantly Feminine","Older","frost",5,"Azure",26.5049504950495,83
+"585","Predominantly Feminine","Older","frost",5,"GCP",16,54
+"586","Predominantly Feminine","Older","fog",1,"AWS",79.8118811881188,108
+"587","Predominantly Feminine","Older","fog",1,"Azure",69.3861386138614,83
+"588","Predominantly Feminine","Older","fog",1,"GCP",29,54
+"589","Predominantly Feminine","Older","fog",2,"AWS",73.6237623762376,108
+"590","Predominantly Feminine","Older","fog",2,"Azure",66.2376237623762,83
+"591","Predominantly Feminine","Older","fog",2,"GCP",21.4059405940594,54
+"592","Predominantly Feminine","Older","fog",3,"AWS",66.2871287128713,108
+"593","Predominantly Feminine","Older","fog",3,"Azure",61.0792079207921,83
+"594","Predominantly Feminine","Older","fog",3,"GCP",21,54
+"595","Predominantly Feminine","Older","fog",4,"AWS",66.8564356435644,108
+"596","Predominantly Feminine","Older","fog",4,"Azure",56.0792079207921,83
+"597","Predominantly Feminine","Older","fog",4,"GCP",21,54
+"598","Predominantly Feminine","Older","fog",5,"AWS",57.2277227722772,108
+"599","Predominantly Feminine","Older","fog",5,"Azure",46,83
+"600","Predominantly Feminine","Older","fog",5,"GCP",21.4059405940594,54
+"601","Predominantly Feminine","Older","brightness",1,"AWS",91.5534250257605,108
+"602","Predominantly Feminine","Older","brightness",1,"Azure",77,83
+"603","Predominantly Feminine","Older","brightness",1,"GCP",50.009900990099,54
+"604","Predominantly Feminine","Older","brightness",2,"AWS",88.7432343234323,108
+"605","Predominantly Feminine","Older","brightness",2,"Azure",74.3881811258049,83
+"606","Predominantly Feminine","Older","brightness",2,"GCP",46.5148514851485,54
+"607","Predominantly Feminine","Older","brightness",3,"AWS",81.7021746817539,108
+"608","Predominantly Feminine","Older","brightness",3,"Azure",73.377369165488,83
+"609","Predominantly Feminine","Older","brightness",3,"GCP",41.5148514851485,54
+"610","Predominantly Feminine","Older","brightness",4,"AWS",74.970297029703,108
+"611","Predominantly Feminine","Older","brightness",4,"Azure",69.9476661951909,83
+"612","Predominantly Feminine","Older","brightness",4,"GCP",34.5148514851485,54
+"613","Predominantly Feminine","Older","brightness",5,"AWS",70.6583396801219,108
+"614","Predominantly Feminine","Older","brightness",5,"Azure",61.5445544554455,83
+"615","Predominantly Feminine","Older","brightness",5,"GCP",28.4059405940594,54
+"616","Predominantly Feminine","Older","contrast",1,"AWS",78.7524752475248,108
+"617","Predominantly Feminine","Older","contrast",1,"Azure",67.4653465346535,83
+"618","Predominantly Feminine","Older","contrast",1,"GCP",30.5049504950495,54
+"619","Predominantly Feminine","Older","contrast",2,"AWS",69.7920792079208,108
+"620","Predominantly Feminine","Older","contrast",2,"Azure",64.2376237623762,83
+"621","Predominantly Feminine","Older","contrast",2,"GCP",23.9009900990099,54
+"622","Predominantly Feminine","Older","contrast",3,"AWS",52.0693069306931,108
+"623","Predominantly Feminine","Older","contrast",3,"Azure",49,83
+"624","Predominantly Feminine","Older","contrast",3,"GCP",18.4059405940594,54
+"625","Predominantly Feminine","Older","contrast",4,"AWS",40.4158415841584,108
+"626","Predominantly Feminine","Older","contrast",4,"Azure",35.6930693069307,83
+"627","Predominantly Feminine","Older","contrast",4,"GCP",14.1089108910891,54
+"628","Predominantly Feminine","Older","contrast",5,"AWS",19.6039603960396,108
+"629","Predominantly Feminine","Older","contrast",5,"Azure",19.8118811881188,83
+"630","Predominantly Feminine","Older","contrast",5,"GCP",4,54
+"631","Predominantly Feminine","Older","elastic-transform",1,"AWS",42.8415841584158,108
+"632","Predominantly Feminine","Older","elastic-transform",1,"Azure",41.5106082036775,83
+"633","Predominantly Feminine","Older","elastic-transform",1,"GCP",23.009900990099,54
+"634","Predominantly Feminine","Older","elastic-transform",2,"AWS",22.2524752475248,108
+"635","Predominantly Feminine","Older","elastic-transform",2,"Azure",26.5049504950495,83
+"636","Predominantly Feminine","Older","elastic-transform",2,"GCP",14,54
+"637","Predominantly Feminine","Older","elastic-transform",3,"AWS",67.990099009901,108
+"638","Predominantly Feminine","Older","elastic-transform",3,"Azure",62,83
+"639","Predominantly Feminine","Older","elastic-transform",3,"GCP",39.5049504950495,54
+"640","Predominantly Feminine","Older","elastic-transform",4,"AWS",65.9402340234023,108
+"641","Predominantly Feminine","Older","elastic-transform",4,"Azure",59.2319660537482,83
+"642","Predominantly Feminine","Older","elastic-transform",4,"GCP",34.8799504950495,54
+"643","Predominantly Feminine","Older","elastic-transform",5,"AWS",45.1322489391796,108
+"644","Predominantly Feminine","Older","elastic-transform",5,"Azure",54.0831683168317,83
+"645","Predominantly Feminine","Older","elastic-transform",5,"GCP",29.2805280528053,54
+"646","Predominantly Feminine","Older","pixelate",1,"AWS",90.5247524752475,108
+"647","Predominantly Feminine","Older","pixelate",1,"Azure",77.9207920792079,83
+"648","Predominantly Feminine","Older","pixelate",1,"GCP",44.5049504950495,54
+"649","Predominantly Feminine","Older","pixelate",2,"AWS",82.5940594059406,108
+"650","Predominantly Feminine","Older","pixelate",2,"Azure",71.6930693069307,83
+"651","Predominantly Feminine","Older","pixelate",2,"GCP",42.009900990099,54
+"652","Predominantly Feminine","Older","pixelate",3,"AWS",74.0693069306931,108
+"653","Predominantly Feminine","Older","pixelate",3,"Azure",66.0594059405941,83
+"654","Predominantly Feminine","Older","pixelate",3,"GCP",38.0049504950495,54
+"655","Predominantly Feminine","Older","pixelate",4,"AWS",53.5445544554455,108
+"656","Predominantly Feminine","Older","pixelate",4,"Azure",57.7722772277228,83
+"657","Predominantly Feminine","Older","pixelate",4,"GCP",25.4059405940594,54
+"658","Predominantly Feminine","Older","pixelate",5,"AWS",28.3366336633663,108
+"659","Predominantly Feminine","Older","pixelate",5,"Azure",41.009900990099,83
+"660","Predominantly Feminine","Older","pixelate",5,"GCP",18,54
+"661","Predominantly Feminine","Older","jpeg-compression",1,"AWS",87.7821782178218,108
+"662","Predominantly Feminine","Older","jpeg-compression",1,"Azure",69.7123212321232,83
+"663","Predominantly Feminine","Older","jpeg-compression",1,"GCP",46.5049504950495,54
+"664","Predominantly Feminine","Older","jpeg-compression",2,"AWS",77.5371287128713,108
+"665","Predominantly Feminine","Older","jpeg-compression",2,"Azure",65.3069306930693,83
+"666","Predominantly Feminine","Older","jpeg-compression",2,"GCP",44.5049504950495,54
+"667","Predominantly Feminine","Older","jpeg-compression",3,"AWS",74.6831683168317,108
+"668","Predominantly Feminine","Older","jpeg-compression",3,"Azure",70.6584158415842,83
+"669","Predominantly Feminine","Older","jpeg-compression",3,"GCP",43.5049504950495,54
+"670","Predominantly Feminine","Older","jpeg-compression",4,"AWS",65.2475247524752,108
+"671","Predominantly Feminine","Older","jpeg-compression",4,"Azure",59,83
+"672","Predominantly Feminine","Older","jpeg-compression",4,"GCP",38.5049504950495,54
+"673","Predominantly Feminine","Older","jpeg-compression",5,"AWS",49.8514851485149,108
+"674","Predominantly Feminine","Older","jpeg-compression",5,"Azure",50.8829882988299,83
+"675","Predominantly Feminine","Older","jpeg-compression",5,"GCP",27.009900990099,54
+"676","Predominantly Masculine","Young","gaussian-noise",1,"AWS",1257.35148514851,1367
+"677","Predominantly Masculine","Young","gaussian-noise",1,"Azure",1158.98514851485,1275
+"678","Predominantly Masculine","Young","gaussian-noise",1,"GCP",1141.5396039604,1236
+"679","Predominantly Masculine","Young","gaussian-noise",2,"AWS",1214.1699669967,1367
+"680","Predominantly Masculine","Young","gaussian-noise",2,"Azure",1062.31683168317,1275
+"681","Predominantly Masculine","Young","gaussian-noise",2,"GCP",1067.34653465347,1236
+"682","Predominantly Masculine","Young","gaussian-noise",3,"AWS",1121.26732673267,1367
+"683","Predominantly Masculine","Young","gaussian-noise",3,"Azure",907.643564356436,1275
+"684","Predominantly Masculine","Young","gaussian-noise",3,"GCP",1003.33168316832,1236
+"685","Predominantly Masculine","Young","gaussian-noise",4,"AWS",980.158415841584,1367
+"686","Predominantly Masculine","Young","gaussian-noise",4,"Azure",727.623762376238,1275
+"687","Predominantly Masculine","Young","gaussian-noise",4,"GCP",875.876237623762,1236
+"688","Predominantly Masculine","Young","gaussian-noise",5,"AWS",772.724422442244,1367
+"689","Predominantly Masculine","Young","gaussian-noise",5,"Azure",468.712871287129,1275
+"690","Predominantly Masculine","Young","gaussian-noise",5,"GCP",641.821782178218,1236
+"691","Predominantly Masculine","Young","shot-noise",1,"AWS",1280.0099009901,1367
+"692","Predominantly Masculine","Young","shot-noise",1,"Azure",1188.37128712871,1275
+"693","Predominantly Masculine","Young","shot-noise",1,"GCP",1141,1236
+"694","Predominantly Masculine","Young","shot-noise",2,"AWS",1229.76897689769,1367
+"695","Predominantly Masculine","Young","shot-noise",2,"Azure",1083.48514851485,1275
+"696","Predominantly Masculine","Young","shot-noise",2,"GCP",1088.76237623762,1236
+"697","Predominantly Masculine","Young","shot-noise",3,"AWS",1151.81683168317,1367
+"698","Predominantly Masculine","Young","shot-noise",3,"Azure",957.148514851485,1275
+"699","Predominantly Masculine","Young","shot-noise",3,"GCP",1007.99504950495,1236
+"700","Predominantly Masculine","Young","shot-noise",4,"AWS",986.064356435644,1367
+"701","Predominantly Masculine","Young","shot-noise",4,"Azure",713.480198019802,1275
+"702","Predominantly Masculine","Young","shot-noise",4,"GCP",853.422442244224,1236
+"703","Predominantly Masculine","Young","shot-noise",5,"AWS",845.403465346535,1367
+"704","Predominantly Masculine","Young","shot-noise",5,"Azure",523.633663366337,1275
+"705","Predominantly Masculine","Young","shot-noise",5,"GCP",719.40099009901,1236
+"706","Predominantly Masculine","Young","impulse-noise",1,"AWS",1238.0297029703,1367
+"707","Predominantly Masculine","Young","impulse-noise",1,"Azure",1143.65181518152,1275
+"708","Predominantly Masculine","Young","impulse-noise",1,"GCP",1108.84653465347,1236
+"709","Predominantly Masculine","Young","impulse-noise",2,"AWS",1176.0198019802,1367
+"710","Predominantly Masculine","Young","impulse-noise",2,"Azure",1034.82178217822,1275
+"711","Predominantly Masculine","Young","impulse-noise",2,"GCP",1046.84653465347,1236
+"712","Predominantly Masculine","Young","impulse-noise",3,"AWS",1115.76732673267,1367
+"713","Predominantly Masculine","Young","impulse-noise",3,"Azure",938.811881188119,1275
+"714","Predominantly Masculine","Young","impulse-noise",3,"GCP",991.336633663366,1236
+"715","Predominantly Masculine","Young","impulse-noise",4,"AWS",966.990099009901,1367
+"716","Predominantly Masculine","Young","impulse-noise",4,"Azure",733.970297029703,1275
+"717","Predominantly Masculine","Young","impulse-noise",4,"GCP",873.173267326733,1236
+"718","Predominantly Masculine","Young","impulse-noise",5,"AWS",790.56600660066,1367
+"719","Predominantly Masculine","Young","impulse-noise",5,"Azure",493.029702970297,1275
+"720","Predominantly Masculine","Young","impulse-noise",5,"GCP",648.663366336634,1236
+"721","Predominantly Masculine","Young","defocus-blur",1,"AWS",1295.59405940594,1367
+"722","Predominantly Masculine","Young","defocus-blur",1,"Azure",1210.23432343234,1275
+"723","Predominantly Masculine","Young","defocus-blur",1,"GCP",1124.0198019802,1236
+"724","Predominantly Masculine","Young","defocus-blur",2,"AWS",1260.58415841584,1367
+"725","Predominantly Masculine","Young","defocus-blur",2,"Azure",1176.40264026403,1275
+"726","Predominantly Masculine","Young","defocus-blur",2,"GCP",1056.0297029703,1236
+"727","Predominantly Masculine","Young","defocus-blur",3,"AWS",1161.43069306931,1367
+"728","Predominantly Masculine","Young","defocus-blur",3,"Azure",1099.1699669967,1275
+"729","Predominantly Masculine","Young","defocus-blur",3,"GCP",933.39603960396,1236
+"730","Predominantly Masculine","Young","defocus-blur",4,"AWS",1079.92574257426,1367
+"731","Predominantly Masculine","Young","defocus-blur",4,"Azure",1036.16171617162,1275
+"732","Predominantly Masculine","Young","defocus-blur",4,"GCP",857.188118811881,1236
+"733","Predominantly Masculine","Young","defocus-blur",5,"AWS",1008.57821782178,1367
+"734","Predominantly Masculine","Young","defocus-blur",5,"Azure",982.10396039604,1275
+"735","Predominantly Masculine","Young","defocus-blur",5,"GCP",748.39603960396,1236
+"736","Predominantly Masculine","Young","glass-blur",1,"AWS",1331.66336633663,1367
+"737","Predominantly Masculine","Young","glass-blur",1,"Azure",1252.30363036304,1275
+"738","Predominantly Masculine","Young","glass-blur",1,"GCP",1177.0297029703,1236
+"739","Predominantly Masculine","Young","glass-blur",2,"AWS",1314.18811881188,1367
+"740","Predominantly Masculine","Young","glass-blur",2,"Azure",1240.55610561056,1275
+"741","Predominantly Masculine","Young","glass-blur",2,"GCP",1164.0297029703,1236
+"742","Predominantly Masculine","Young","glass-blur",3,"AWS",1309.43069306931,1367
+"743","Predominantly Masculine","Young","glass-blur",3,"Azure",1232.47194719472,1275
+"744","Predominantly Masculine","Young","glass-blur",3,"GCP",1138.24752475248,1236
+"745","Predominantly Masculine","Young","glass-blur",4,"AWS",1301.4504950495,1367
+"746","Predominantly Masculine","Young","glass-blur",4,"Azure",1223.05610561056,1275
+"747","Predominantly Masculine","Young","glass-blur",4,"GCP",1113.24752475248,1236
+"748","Predominantly Masculine","Young","glass-blur",5,"AWS",1273.34653465347,1367
+"749","Predominantly Masculine","Young","glass-blur",5,"Azure",1183.07095709571,1275
+"750","Predominantly Masculine","Young","glass-blur",5,"GCP",1057.24752475248,1236
+"751","Predominantly Masculine","Young","motion-blur",1,"AWS",1284.93729372937,1367
+"752","Predominantly Masculine","Young","motion-blur",1,"Azure",1219.81848184818,1275
+"753","Predominantly Masculine","Young","motion-blur",1,"GCP",1124.53465346535,1236
+"754","Predominantly Masculine","Young","motion-blur",2,"AWS",1204.41584158416,1367
+"755","Predominantly Masculine","Young","motion-blur",2,"Azure",1155.66501650165,1275
+"756","Predominantly Masculine","Young","motion-blur",2,"GCP",1069.83663366337,1236
+"757","Predominantly Masculine","Young","motion-blur",3,"AWS",1084.0099009901,1367
+"758","Predominantly Masculine","Young","motion-blur",3,"Azure",1054.58085808581,1275
+"759","Predominantly Masculine","Young","motion-blur",3,"GCP",982.90099009901,1236
+"760","Predominantly Masculine","Young","motion-blur",4,"AWS",948.737623762376,1367
+"761","Predominantly Masculine","Young","motion-blur",4,"Azure",903.123762376238,1275
+"762","Predominantly Masculine","Young","motion-blur",4,"GCP",867.792079207921,1236
+"763","Predominantly Masculine","Young","motion-blur",5,"AWS",842,1367
+"764","Predominantly Masculine","Young","motion-blur",5,"Azure",798.36303630363,1275
+"765","Predominantly Masculine","Young","motion-blur",5,"GCP",737.787128712871,1236
+"766","Predominantly Masculine","Young","zoom-blur",1,"AWS",687.074257425743,1367
+"767","Predominantly Masculine","Young","zoom-blur",1,"Azure",597.465346534653,1275
+"768","Predominantly Masculine","Young","zoom-blur",1,"GCP",660.356435643564,1236
+"769","Predominantly Masculine","Young","zoom-blur",2,"AWS",495.554455445545,1367
+"770","Predominantly Masculine","Young","zoom-blur",2,"Azure",431.391089108911,1275
+"771","Predominantly Masculine","Young","zoom-blur",2,"GCP",524.227722772277,1236
+"772","Predominantly Masculine","Young","zoom-blur",3,"AWS",454.80198019802,1367
+"773","Predominantly Masculine","Young","zoom-blur",3,"Azure",347.80198019802,1275
+"774","Predominantly Masculine","Young","zoom-blur",3,"GCP",409.227722772277,1236
+"775","Predominantly Masculine","Young","zoom-blur",4,"AWS",344.118811881188,1367
+"776","Predominantly Masculine","Young","zoom-blur",4,"Azure",233.70297029703,1275
+"777","Predominantly Masculine","Young","zoom-blur",4,"GCP",329.722772277228,1236
+"778","Predominantly Masculine","Young","zoom-blur",5,"AWS",316.950495049505,1367
+"779","Predominantly Masculine","Young","zoom-blur",5,"Azure",200.608910891089,1275
+"780","Predominantly Masculine","Young","zoom-blur",5,"GCP",247.217821782178,1236
+"781","Predominantly Masculine","Young","snow",1,"AWS",1207.0396039604,1367
+"782","Predominantly Masculine","Young","snow",1,"Azure",1163.48514851485,1275
+"783","Predominantly Masculine","Young","snow",1,"GCP",1023.91584158416,1236
+"784","Predominantly Masculine","Young","snow",2,"AWS",1060.0099009901,1367
+"785","Predominantly Masculine","Young","snow",2,"Azure",991.143564356436,1275
+"786","Predominantly Masculine","Young","snow",2,"GCP",877.90099009901,1236
+"787","Predominantly Masculine","Young","snow",3,"AWS",1049.92574257426,1367
+"788","Predominantly Masculine","Young","snow",3,"Azure",1023.9900990099,1275
+"789","Predominantly Masculine","Young","snow",3,"GCP",733.089108910891,1236
+"790","Predominantly Masculine","Young","snow",4,"AWS",899.326732673267,1367
+"791","Predominantly Masculine","Young","snow",4,"Azure",871.465346534653,1275
+"792","Predominantly Masculine","Young","snow",4,"GCP",541.742574257426,1236
+"793","Predominantly Masculine","Young","snow",5,"AWS",976.148514851485,1367
+"794","Predominantly Masculine","Young","snow",5,"Azure",865.970297029703,1275
+"795","Predominantly Masculine","Young","snow",5,"GCP",677.079207920792,1236
+"796","Predominantly Masculine","Young","frost",1,"AWS",1254.85148514851,1367
+"797","Predominantly Masculine","Young","frost",1,"Azure",1172.63861386139,1275
+"798","Predominantly Masculine","Young","frost",1,"GCP",1088.15346534653,1236
+"799","Predominantly Masculine","Young","frost",2,"AWS",1113.84158415842,1367
+"800","Predominantly Masculine","Young","frost",2,"Azure",1049.64356435644,1275
+"801","Predominantly Masculine","Young","frost",2,"GCP",890.465346534653,1236
+"802","Predominantly Masculine","Young","frost",3,"AWS",1011.43564356436,1367
+"803","Predominantly Masculine","Young","frost",3,"Azure",948.316831683168,1275
+"804","Predominantly Masculine","Young","frost",3,"GCP",732.534653465347,1236
+"805","Predominantly Masculine","Young","frost",4,"AWS",976.336633663366,1367
+"806","Predominantly Masculine","Young","frost",4,"Azure",903.554455445545,1275
+"807","Predominantly Masculine","Young","frost",4,"GCP",659.70297029703,1236
+"808","Predominantly Masculine","Young","frost",5,"AWS",911.673267326733,1367
+"809","Predominantly Masculine","Young","frost",5,"Azure",828.148514851485,1275
+"810","Predominantly Masculine","Young","frost",5,"GCP",571.237623762376,1236
+"811","Predominantly Masculine","Young","fog",1,"AWS",1280.59405940594,1367
+"812","Predominantly Masculine","Young","fog",1,"Azure",1204.80693069307,1275
+"813","Predominantly Masculine","Young","fog",1,"GCP",1057.59900990099,1236
+"814","Predominantly Masculine","Young","fog",2,"AWS",1269.52475247525,1367
+"815","Predominantly Masculine","Young","fog",2,"Azure",1183.14851485149,1275
+"816","Predominantly Masculine","Young","fog",2,"GCP",1007.0396039604,1236
+"817","Predominantly Masculine","Young","fog",3,"AWS",1254.77227722772,1367
+"818","Predominantly Masculine","Young","fog",3,"Azure",1162.48514851485,1275
+"819","Predominantly Masculine","Young","fog",3,"GCP",940.638613861386,1236
+"820","Predominantly Masculine","Young","fog",4,"AWS",1255.10891089109,1367
+"821","Predominantly Masculine","Young","fog",4,"Azure",1163.14851485149,1275
+"822","Predominantly Masculine","Young","fog",4,"GCP",918.643564356436,1236
+"823","Predominantly Masculine","Young","fog",5,"AWS",1217.10891089109,1367
+"824","Predominantly Masculine","Young","fog",5,"Azure",1135.14851485149,1275
+"825","Predominantly Masculine","Young","fog",5,"GCP",837.143564356436,1236
+"826","Predominantly Masculine","Young","brightness",1,"AWS",1333.48514851485,1367
+"827","Predominantly Masculine","Young","brightness",1,"Azure",1260.56105610561,1275
+"828","Predominantly Masculine","Young","brightness",1,"GCP",1201.5297029703,1236
+"829","Predominantly Masculine","Young","brightness",2,"AWS",1332.16336633663,1367
+"830","Predominantly Masculine","Young","brightness",2,"Azure",1245.20297029703,1275
+"831","Predominantly Masculine","Young","brightness",2,"GCP",1178.03465346535,1236
+"832","Predominantly Masculine","Young","brightness",3,"AWS",1313.17821782178,1367
+"833","Predominantly Masculine","Young","brightness",3,"Azure",1227.38118811881,1275
+"834","Predominantly Masculine","Young","brightness",3,"GCP",1159.04455445545,1236
+"835","Predominantly Masculine","Young","brightness",4,"AWS",1295.52475247525,1367
+"836","Predominantly Masculine","Young","brightness",4,"Azure",1206.06435643564,1275
+"837","Predominantly Masculine","Young","brightness",4,"GCP",1102.5495049505,1236
+"838","Predominantly Masculine","Young","brightness",5,"AWS",1278.0297029703,1367
+"839","Predominantly Masculine","Young","brightness",5,"Azure",1184.89603960396,1275
+"840","Predominantly Masculine","Young","brightness",5,"GCP",1026.84158415842,1236
+"841","Predominantly Masculine","Young","contrast",1,"AWS",1288.58910891089,1367
+"842","Predominantly Masculine","Young","contrast",1,"Azure",1203.55940594059,1275
+"843","Predominantly Masculine","Young","contrast",1,"GCP",1070.54455445545,1236
+"844","Predominantly Masculine","Young","contrast",2,"AWS",1260.08910891089,1367
+"845","Predominantly Masculine","Young","contrast",2,"Azure",1175.31683168317,1275
+"846","Predominantly Masculine","Young","contrast",2,"GCP",981.351485148515,1236
+"847","Predominantly Masculine","Young","contrast",3,"AWS",1203.94059405941,1367
+"848","Predominantly Masculine","Young","contrast",3,"Azure",1113.38613861386,1275
+"849","Predominantly Masculine","Young","contrast",3,"GCP",836.153465346535,1236
+"850","Predominantly Masculine","Young","contrast",4,"AWS",970.673267326733,1367
+"851","Predominantly Masculine","Young","contrast",4,"Azure",919.980198019802,1275
+"852","Predominantly Masculine","Young","contrast",4,"GCP",450.39603960396,1236
+"853","Predominantly Masculine","Young","contrast",5,"AWS",576.306930693069,1367
+"854","Predominantly Masculine","Young","contrast",5,"Azure",543.475247524752,1275
+"855","Predominantly Masculine","Young","contrast",5,"GCP",65.5148514851485,1236
+"856","Predominantly Masculine","Young","elastic-transform",1,"AWS",579.30198019802,1367
+"857","Predominantly Masculine","Young","elastic-transform",1,"Azure",586.693069306931,1275
+"858","Predominantly Masculine","Young","elastic-transform",1,"GCP",707.922442244224,1236
+"859","Predominantly Masculine","Young","elastic-transform",2,"AWS",271.287128712871,1367
+"860","Predominantly Masculine","Young","elastic-transform",2,"Azure",267.10396039604,1275
+"861","Predominantly Masculine","Young","elastic-transform",2,"GCP",358.235148514851,1236
+"862","Predominantly Masculine","Young","elastic-transform",3,"AWS",1173.33663366337,1367
+"863","Predominantly Masculine","Young","elastic-transform",3,"Azure",1123.8597359736,1275
+"864","Predominantly Masculine","Young","elastic-transform",3,"GCP",1113.52475247525,1236
+"865","Predominantly Masculine","Young","elastic-transform",4,"AWS",1162.17326732673,1367
+"866","Predominantly Masculine","Young","elastic-transform",4,"Azure",1117.45544554455,1275
+"867","Predominantly Masculine","Young","elastic-transform",4,"GCP",1079.33663366337,1236
+"868","Predominantly Masculine","Young","elastic-transform",5,"AWS",1016.66336633663,1367
+"869","Predominantly Masculine","Young","elastic-transform",5,"Azure",1016.71782178218,1275
+"870","Predominantly Masculine","Young","elastic-transform",5,"GCP",963.292079207921,1236
+"871","Predominantly Masculine","Young","pixelate",1,"AWS",1333.15841584158,1367
+"872","Predominantly Masculine","Young","pixelate",1,"Azure",1253.75907590759,1275
+"873","Predominantly Masculine","Young","pixelate",1,"GCP",1191.52475247525,1236
+"874","Predominantly Masculine","Young","pixelate",2,"AWS",1305.26732673267,1367
+"875","Predominantly Masculine","Young","pixelate",2,"Azure",1234.79867986799,1275
+"876","Predominantly Masculine","Young","pixelate",2,"GCP",1153.52475247525,1236
+"877","Predominantly Masculine","Young","pixelate",3,"AWS",1238.09900990099,1367
+"878","Predominantly Masculine","Young","pixelate",3,"Azure",1204.55610561056,1275
+"879","Predominantly Masculine","Young","pixelate",3,"GCP",1137.33663366337,1236
+"880","Predominantly Masculine","Young","pixelate",4,"AWS",1057.08910891089,1367
+"881","Predominantly Masculine","Young","pixelate",4,"Azure",1114.33828382838,1275
+"882","Predominantly Masculine","Young","pixelate",4,"GCP",977.539603960396,1236
+"883","Predominantly Masculine","Young","pixelate",5,"AWS",485.688118811881,1367
+"884","Predominantly Masculine","Young","pixelate",5,"Azure",893.851485148515,1275
+"885","Predominantly Masculine","Young","pixelate",5,"GCP",677.569306930693,1236
+"886","Predominantly Masculine","Young","jpeg-compression",1,"AWS",1315.09405940594,1367
+"887","Predominantly Masculine","Young","jpeg-compression",1,"Azure",1236.80198019802,1275
+"888","Predominantly Masculine","Young","jpeg-compression",1,"GCP",1188.03465346535,1236
+"889","Predominantly Masculine","Young","jpeg-compression",2,"AWS",1303.43564356436,1367
+"890","Predominantly Masculine","Young","jpeg-compression",2,"Azure",1219.52475247525,1275
+"891","Predominantly Masculine","Young","jpeg-compression",2,"GCP",1163.5198019802,1236
+"892","Predominantly Masculine","Young","jpeg-compression",3,"AWS",1280.37128712871,1367
+"893","Predominantly Masculine","Young","jpeg-compression",3,"Azure",1213.12871287129,1275
+"894","Predominantly Masculine","Young","jpeg-compression",3,"GCP",1160.07920792079,1236
+"895","Predominantly Masculine","Young","jpeg-compression",4,"AWS",1214.61386138614,1367
+"896","Predominantly Masculine","Young","jpeg-compression",4,"Azure",1146.9801980198,1275
+"897","Predominantly Masculine","Young","jpeg-compression",4,"GCP",1124.92574257426,1236
+"898","Predominantly Masculine","Young","jpeg-compression",5,"AWS",1114.61716171617,1367
+"899","Predominantly Masculine","Young","jpeg-compression",5,"Azure",1086.92244224422,1275
+"900","Predominantly Masculine","Young","jpeg-compression",5,"GCP",1056.10891089109,1236
+"901","Predominantly Masculine","Middle","gaussian-noise",1,"AWS",701.393069306931,725
+"902","Predominantly Masculine","Middle","gaussian-noise",1,"Azure",655.113861386139,702
+"903","Predominantly Masculine","Middle","gaussian-noise",1,"GCP",647.485148514852,683
+"904","Predominantly Masculine","Middle","gaussian-noise",2,"AWS",674.879207920792,725
+"905","Predominantly Masculine","Middle","gaussian-noise",2,"Azure",610.059405940594,702
+"906","Predominantly Masculine","Middle","gaussian-noise",2,"GCP",619.732673267327,683
+"907","Predominantly Masculine","Middle","gaussian-noise",3,"AWS",636.260726072607,725
+"908","Predominantly Masculine","Middle","gaussian-noise",3,"Azure",526.049504950495,702
+"909","Predominantly Masculine","Middle","gaussian-noise",3,"GCP",579.732673267327,682
+"910","Predominantly Masculine","Middle","gaussian-noise",4,"AWS",573.633663366337,725
+"911","Predominantly Masculine","Middle","gaussian-noise",4,"Azure",418.712871287129,702
+"912","Predominantly Masculine","Middle","gaussian-noise",4,"GCP",498.014851485149,682
+"913","Predominantly Masculine","Middle","gaussian-noise",5,"AWS",477.222772277228,725
+"914","Predominantly Masculine","Middle","gaussian-noise",5,"Azure",286.376237623762,702
+"915","Predominantly Masculine","Middle","gaussian-noise",5,"GCP",351.618811881188,682
+"916","Predominantly Masculine","Middle","shot-noise",1,"AWS",700.188118811881,725
+"917","Predominantly Masculine","Middle","shot-noise",1,"Azure",661.539603960396,702
+"918","Predominantly Masculine","Middle","shot-noise",1,"GCP",641.874587458746,683
+"919","Predominantly Masculine","Middle","shot-noise",2,"AWS",680.988684582744,725
+"920","Predominantly Masculine","Middle","shot-noise",2,"Azure",601.049504950495,702
+"921","Predominantly Masculine","Middle","shot-noise",2,"GCP",602.732673267327,683
+"922","Predominantly Masculine","Middle","shot-noise",3,"AWS",649.821782178218,725
+"923","Predominantly Masculine","Middle","shot-noise",3,"Azure",528.376237623762,702
+"924","Predominantly Masculine","Middle","shot-noise",3,"GCP",575.732673267327,682
+"925","Predominantly Masculine","Middle","shot-noise",4,"AWS",559.574257425743,725
+"926","Predominantly Masculine","Middle","shot-noise",4,"Azure",381.376237623762,702
+"927","Predominantly Masculine","Middle","shot-noise",4,"GCP",476.222772277228,682
+"928","Predominantly Masculine","Middle","shot-noise",5,"AWS",493.559405940594,725
+"929","Predominantly Masculine","Middle","shot-noise",5,"Azure",279.376237623762,702
+"930","Predominantly Masculine","Middle","shot-noise",5,"GCP",367.848184818482,682
+"931","Predominantly Masculine","Middle","impulse-noise",1,"AWS",691.947277227723,725
+"932","Predominantly Masculine","Middle","impulse-noise",1,"Azure",651.054455445545,702
+"933","Predominantly Masculine","Middle","impulse-noise",1,"GCP",632.237623762376,683
+"934","Predominantly Masculine","Middle","impulse-noise",2,"AWS",668.059405940594,725
+"935","Predominantly Masculine","Middle","impulse-noise",2,"Azure",595.049504950495,702
+"936","Predominantly Masculine","Middle","impulse-noise",2,"GCP",602.732673267327,682
+"937","Predominantly Masculine","Middle","impulse-noise",3,"AWS",645.509900990099,725
+"938","Predominantly Masculine","Middle","impulse-noise",3,"Azure",553.049504950495,702
+"939","Predominantly Masculine","Middle","impulse-noise",3,"GCP",573.217821782178,682
+"940","Predominantly Masculine","Middle","impulse-noise",4,"AWS",578.128712871287,725
+"941","Predominantly Masculine","Middle","impulse-noise",4,"Azure",426.712871287129,702
+"942","Predominantly Masculine","Middle","impulse-noise",4,"GCP",508.717821782178,682
+"943","Predominantly Masculine","Middle","impulse-noise",5,"AWS",484.397689768977,725
+"944","Predominantly Masculine","Middle","impulse-noise",5,"Azure",291.534653465347,702
+"945","Predominantly Masculine","Middle","impulse-noise",5,"GCP",367.681518151815,682
+"946","Predominantly Masculine","Middle","defocus-blur",1,"AWS",707.039603960396,725
+"947","Predominantly Masculine","Middle","defocus-blur",1,"Azure",688.689768976898,702
+"948","Predominantly Masculine","Middle","defocus-blur",1,"GCP",637.732673267327,683
+"949","Predominantly Masculine","Middle","defocus-blur",2,"AWS",690.587458745875,725
+"950","Predominantly Masculine","Middle","defocus-blur",2,"Azure",676.861386138614,702
+"951","Predominantly Masculine","Middle","defocus-blur",2,"GCP",599.742574257426,683
+"952","Predominantly Masculine","Middle","defocus-blur",3,"AWS",675.188118811881,725
+"953","Predominantly Masculine","Middle","defocus-blur",3,"Azure",640.539603960396,702
+"954","Predominantly Masculine","Middle","defocus-blur",3,"GCP",552.227722772277,683
+"955","Predominantly Masculine","Middle","defocus-blur",4,"AWS",632.069306930693,725
+"956","Predominantly Masculine","Middle","defocus-blur",4,"Azure",611.211221122112,702
+"957","Predominantly Masculine","Middle","defocus-blur",4,"GCP",510.227722772277,683
+"958","Predominantly Masculine","Middle","defocus-blur",5,"AWS",594.564356435644,725
+"959","Predominantly Masculine","Middle","defocus-blur",5,"Azure",576.217821782178,702
+"960","Predominantly Masculine","Middle","defocus-blur",5,"GCP",467.019801980198,683
+"961","Predominantly Masculine","Middle","glass-blur",1,"AWS",717.188118811881,725
+"962","Predominantly Masculine","Middle","glass-blur",1,"Azure",693.838283828383,702
+"963","Predominantly Masculine","Middle","glass-blur",1,"GCP",659.39603960396,683
+"964","Predominantly Masculine","Middle","glass-blur",2,"AWS",710.945544554455,725
+"965","Predominantly Masculine","Middle","glass-blur",2,"Azure",691.097359735974,702
+"966","Predominantly Masculine","Middle","glass-blur",2,"GCP",645.237623762376,683
+"967","Predominantly Masculine","Middle","glass-blur",3,"AWS",705.881188118812,725
+"968","Predominantly Masculine","Middle","glass-blur",3,"Azure",686.518151815182,702
+"969","Predominantly Masculine","Middle","glass-blur",3,"GCP",643.742574257426,683
+"970","Predominantly Masculine","Middle","glass-blur",4,"AWS",701.627062706271,725
+"971","Predominantly Masculine","Middle","glass-blur",4,"Azure",685.194719471947,702
+"972","Predominantly Masculine","Middle","glass-blur",4,"GCP",637.237623762376,683
+"973","Predominantly Masculine","Middle","glass-blur",5,"AWS",689.564356435644,725
+"974","Predominantly Masculine","Middle","glass-blur",5,"Azure",676.029702970297,702
+"975","Predominantly Masculine","Middle","glass-blur",5,"GCP",610.237623762376,683
+"976","Predominantly Masculine","Middle","motion-blur",1,"AWS",709.83102310231,725
+"977","Predominantly Masculine","Middle","motion-blur",1,"Azure",687.841584158416,702
+"978","Predominantly Masculine","Middle","motion-blur",1,"GCP",636.237623762376,683
+"979","Predominantly Masculine","Middle","motion-blur",2,"AWS",680.623762376238,725
+"980","Predominantly Masculine","Middle","motion-blur",2,"Azure",667.846534653465,702
+"981","Predominantly Masculine","Middle","motion-blur",2,"GCP",615.237623762376,683
+"982","Predominantly Masculine","Middle","motion-blur",3,"AWS",638.257425742574,725
+"983","Predominantly Masculine","Middle","motion-blur",3,"Azure",610.717821782178,702
+"984","Predominantly Masculine","Middle","motion-blur",3,"GCP",578.237623762376,683
+"985","Predominantly Masculine","Middle","motion-blur",4,"AWS",550.059405940594,725
+"986","Predominantly Masculine","Middle","motion-blur",4,"Azure",543.79702970297,702
+"987","Predominantly Masculine","Middle","motion-blur",4,"GCP",496.019801980198,683
+"988","Predominantly Masculine","Middle","motion-blur",5,"AWS",518.851485148515,725
+"989","Predominantly Masculine","Middle","motion-blur",5,"Azure",493.376237623762,702
+"990","Predominantly Masculine","Middle","motion-blur",5,"GCP",436.514851485149,683
+"991","Predominantly Masculine","Middle","zoom-blur",1,"AWS",453.816831683168,725
+"992","Predominantly Masculine","Middle","zoom-blur",1,"Azure",426.70297029703,702
+"993","Predominantly Masculine","Middle","zoom-blur",1,"GCP",423.722772277228,683
+"994","Predominantly Masculine","Middle","zoom-blur",2,"AWS",360.009900990099,725
+"995","Predominantly Masculine","Middle","zoom-blur",2,"Azure",308.693069306931,702
+"996","Predominantly Masculine","Middle","zoom-blur",2,"GCP",345.227722772277,683
+"997","Predominantly Masculine","Middle","zoom-blur",3,"AWS",299.712871287129,725
+"998","Predominantly Masculine","Middle","zoom-blur",3,"Azure",227.851485148515,702
+"999","Predominantly Masculine","Middle","zoom-blur",3,"GCP",283.009900990099,683
+"1000","Predominantly Masculine","Middle","zoom-blur",4,"AWS",207.50495049505,725
+"1001","Predominantly Masculine","Middle","zoom-blur",4,"Azure",159.019801980198,702
+"1002","Predominantly Masculine","Middle","zoom-blur",4,"GCP",214.009900990099,683
+"1003","Predominantly Masculine","Middle","zoom-blur",5,"AWS",171.50495049505,725
+"1004","Predominantly Masculine","Middle","zoom-blur",5,"Azure",118.346534653465,702
+"1005","Predominantly Masculine","Middle","zoom-blur",5,"GCP",161.50495049505,683
+"1006","Predominantly Masculine","Middle","snow",1,"AWS",668.765676567657,725
+"1007","Predominantly Masculine","Middle","snow",1,"Azure",658.780528052805,702
+"1008","Predominantly Masculine","Middle","snow",1,"GCP",572.227722772277,683
+"1009","Predominantly Masculine","Middle","snow",2,"AWS",607.331683168317,725
+"1010","Predominantly Masculine","Middle","snow",2,"Azure",565.30198019802,702
+"1011","Predominantly Masculine","Middle","snow",2,"GCP",489.514851485149,683
+"1012","Predominantly Masculine","Middle","snow",3,"AWS",583.910891089109,725
+"1013","Predominantly Masculine","Middle","snow",3,"Azure",561.549504950495,702
+"1014","Predominantly Masculine","Middle","snow",3,"GCP",381.514851485149,683
+"1015","Predominantly Masculine","Middle","snow",4,"AWS",509.19801980198,725
+"1016","Predominantly Masculine","Middle","snow",4,"Azure",468.712871287129,702
+"1017","Predominantly Masculine","Middle","snow",4,"GCP",267.009900990099,683
+"1018","Predominantly Masculine","Middle","snow",5,"AWS",538,725
+"1019","Predominantly Masculine","Middle","snow",5,"Azure",472.712871287129,702
+"1020","Predominantly Masculine","Middle","snow",5,"GCP",363.009900990099,683
+"1021","Predominantly Masculine","Middle","frost",1,"AWS",694.737623762376,725
+"1022","Predominantly Masculine","Middle","frost",1,"Azure",663.864686468647,702
+"1023","Predominantly Masculine","Middle","frost",1,"GCP",596.425742574257,683
+"1024","Predominantly Masculine","Middle","frost",2,"AWS",623.425082508251,725
+"1025","Predominantly Masculine","Middle","frost",2,"Azure",586.042904290429,702
+"1026","Predominantly Masculine","Middle","frost",2,"GCP",461.366336633663,683
+"1027","Predominantly Masculine","Middle","frost",3,"AWS",560.425742574257,725
+"1028","Predominantly Masculine","Middle","frost",3,"Azure",519.292079207921,702
+"1029","Predominantly Masculine","Middle","frost",3,"GCP",337.069306930693,683
+"1030","Predominantly Masculine","Middle","frost",4,"AWS",549.856435643564,725
+"1031","Predominantly Masculine","Middle","frost",4,"Azure",506.386138613861,702
+"1032","Predominantly Masculine","Middle","frost",4,"GCP",320.50495049505,683
+"1033","Predominantly Masculine","Middle","frost",5,"AWS",481.138613861386,725
+"1034","Predominantly Masculine","Middle","frost",5,"Azure",452.049504950495,702
+"1035","Predominantly Masculine","Middle","frost",5,"GCP",262.217821782178,683
+"1036","Predominantly Masculine","Middle","fog",1,"AWS",705.118811881188,725
+"1037","Predominantly Masculine","Middle","fog",1,"Azure",680.193069306931,702
+"1038","Predominantly Masculine","Middle","fog",1,"GCP",559.237623762376,683
+"1039","Predominantly Masculine","Middle","fog",2,"AWS",700.346534653465,725
+"1040","Predominantly Masculine","Middle","fog",2,"Azure",670.123762376238,702
+"1041","Predominantly Masculine","Middle","fog",2,"GCP",502.237623762376,683
+"1042","Predominantly Masculine","Middle","fog",3,"AWS",691.207920792079,725
+"1043","Predominantly Masculine","Middle","fog",3,"Azure",665.876237623762,702
+"1044","Predominantly Masculine","Middle","fog",3,"GCP",463.514851485149,683
+"1045","Predominantly Masculine","Middle","fog",4,"AWS",693.019801980198,725
+"1046","Predominantly Masculine","Middle","fog",4,"Azure",662.69801980198,702
+"1047","Predominantly Masculine","Middle","fog",4,"GCP",449.514851485149,683
+"1048","Predominantly Masculine","Middle","fog",5,"AWS",685.790664780764,725
+"1049","Predominantly Masculine","Middle","fog",5,"Azure",645.445544554455,702
+"1050","Predominantly Masculine","Middle","fog",5,"GCP",404.009900990099,683
+"1051","Predominantly Masculine","Middle","brightness",1,"AWS",719.782178217822,725
+"1052","Predominantly Masculine","Middle","brightness",1,"Azure",695.389438943894,702
+"1053","Predominantly Masculine","Middle","brightness",1,"GCP",667.960396039604,683
+"1054","Predominantly Masculine","Middle","brightness",2,"AWS",717.514851485148,725
+"1055","Predominantly Masculine","Middle","brightness",2,"Azure",690.082508250825,702
+"1056","Predominantly Masculine","Middle","brightness",2,"GCP",658.470297029703,683
+"1057","Predominantly Masculine","Middle","brightness",3,"AWS",711.90099009901,725
+"1058","Predominantly Masculine","Middle","brightness",3,"Azure",682.696369636964,702
+"1059","Predominantly Masculine","Middle","brightness",3,"GCP",633.277227722772,683
+"1060","Predominantly Masculine","Middle","brightness",4,"AWS",704.752318088952,725
+"1061","Predominantly Masculine","Middle","brightness",4,"Azure",669.869636963696,702
+"1062","Predominantly Masculine","Middle","brightness",4,"GCP",609.074257425743,683
+"1063","Predominantly Masculine","Middle","brightness",5,"AWS",692.881188118812,725
+"1064","Predominantly Masculine","Middle","brightness",5,"Azure",656.379537953795,702
+"1065","Predominantly Masculine","Middle","brightness",5,"GCP",563.732673267327,683
+"1066","Predominantly Masculine","Middle","contrast",1,"AWS",708.025302530253,725
+"1067","Predominantly Masculine","Middle","contrast",1,"Azure",677.863861386139,702
+"1068","Predominantly Masculine","Middle","contrast",1,"GCP",574.727722772277,683
+"1069","Predominantly Masculine","Middle","contrast",2,"AWS",691.09900990099,725
+"1070","Predominantly Masculine","Middle","contrast",2,"Azure",664.53795379538,702
+"1071","Predominantly Masculine","Middle","contrast",2,"GCP",500.09900990099,683
+"1072","Predominantly Masculine","Middle","contrast",3,"AWS",676.09900990099,725
+"1073","Predominantly Masculine","Middle","contrast",3,"Azure",631.29702970297,702
+"1074","Predominantly Masculine","Middle","contrast",3,"GCP",399.009900990099,683
+"1075","Predominantly Masculine","Middle","contrast",4,"AWS",554.564356435644,725
+"1076","Predominantly Masculine","Middle","contrast",4,"Azure",534.049504950495,702
+"1077","Predominantly Masculine","Middle","contrast",4,"GCP",175.009900990099,683
+"1078","Predominantly Masculine","Middle","contrast",5,"AWS",294.346534653465,725
+"1079","Predominantly Masculine","Middle","contrast",5,"Azure",323.534653465347,702
+"1080","Predominantly Masculine","Middle","contrast",5,"GCP",21.5049504950495,683
+"1081","Predominantly Masculine","Middle","elastic-transform",1,"AWS",387,725
+"1082","Predominantly Masculine","Middle","elastic-transform",1,"Azure",402.861386138614,702
+"1083","Predominantly Masculine","Middle","elastic-transform",1,"GCP",465.227722772277,683
+"1084","Predominantly Masculine","Middle","elastic-transform",2,"AWS",209,725
+"1085","Predominantly Masculine","Middle","elastic-transform",2,"Azure",211.851485148515,702
+"1086","Predominantly Masculine","Middle","elastic-transform",2,"GCP",269.50495049505,683
+"1087","Predominantly Masculine","Middle","elastic-transform",3,"AWS",674.854785478548,725
+"1088","Predominantly Masculine","Middle","elastic-transform",3,"Azure",653.693069306931,702
+"1089","Predominantly Masculine","Middle","elastic-transform",3,"GCP",633.831683168317,683
+"1090","Predominantly Masculine","Middle","elastic-transform",4,"AWS",671.09900990099,725
+"1091","Predominantly Masculine","Middle","elastic-transform",4,"Azure",651.118811881188,702
+"1092","Predominantly Masculine","Middle","elastic-transform",4,"GCP",630.737623762376,683
+"1093","Predominantly Masculine","Middle","elastic-transform",5,"AWS",604.069306930693,725
+"1094","Predominantly Masculine","Middle","elastic-transform",5,"Azure",608.881188118812,702
+"1095","Predominantly Masculine","Middle","elastic-transform",5,"GCP",566.777227722772,683
+"1096","Predominantly Masculine","Middle","pixelate",1,"AWS",715.772277227723,725
+"1097","Predominantly Masculine","Middle","pixelate",1,"Azure",694.420792079208,702
+"1098","Predominantly Masculine","Middle","pixelate",1,"GCP",665.019801980198,683
+"1099","Predominantly Masculine","Middle","pixelate",2,"AWS",707.673267326733,725
+"1100","Predominantly Masculine","Middle","pixelate",2,"Azure",691.430693069307,702
+"1101","Predominantly Masculine","Middle","pixelate",2,"GCP",652.029702970297,683
+"1102","Predominantly Masculine","Middle","pixelate",3,"AWS",693.20297029703,725
+"1103","Predominantly Masculine","Middle","pixelate",3,"Azure",685.108910891089,702
+"1104","Predominantly Masculine","Middle","pixelate",3,"GCP",630.742574257426,683
+"1105","Predominantly Masculine","Middle","pixelate",4,"AWS",638.891089108911,725
+"1106","Predominantly Masculine","Middle","pixelate",4,"Azure",656.529702970297,702
+"1107","Predominantly Masculine","Middle","pixelate",4,"GCP",580.227722772277,683
+"1108","Predominantly Masculine","Middle","pixelate",5,"AWS",374.514851485149,725
+"1109","Predominantly Masculine","Middle","pixelate",5,"Azure",538.039603960396,702
+"1110","Predominantly Masculine","Middle","pixelate",5,"GCP",421.480198019802,683
+"1111","Predominantly Masculine","Middle","jpeg-compression",1,"AWS",716.289957567185,725
+"1112","Predominantly Masculine","Middle","jpeg-compression",1,"Azure",693.009900990099,702
+"1113","Predominantly Masculine","Middle","jpeg-compression",1,"GCP",661.069306930693,683
+"1114","Predominantly Masculine","Middle","jpeg-compression",2,"AWS",709.118811881188,725
+"1115","Predominantly Masculine","Middle","jpeg-compression",2,"Azure",682.023102310231,702
+"1116","Predominantly Masculine","Middle","jpeg-compression",2,"GCP",656.693069306931,683
+"1117","Predominantly Masculine","Middle","jpeg-compression",3,"AWS",706.973125884017,725
+"1118","Predominantly Masculine","Middle","jpeg-compression",3,"Azure",673.701320132013,702
+"1119","Predominantly Masculine","Middle","jpeg-compression",3,"GCP",649.336633663366,683
+"1120","Predominantly Masculine","Middle","jpeg-compression",4,"AWS",683.19801980198,725
+"1121","Predominantly Masculine","Middle","jpeg-compression",4,"Azure",654.958745874587,702
+"1122","Predominantly Masculine","Middle","jpeg-compression",4,"GCP",633.237623762376,683
+"1123","Predominantly Masculine","Middle","jpeg-compression",5,"AWS",637.019801980198,725
+"1124","Predominantly Masculine","Middle","jpeg-compression",5,"Azure",625.049504950495,702
+"1125","Predominantly Masculine","Middle","jpeg-compression",5,"GCP",591.737623762376,683
+"1126","Predominantly Masculine","Older","gaussian-noise",1,"AWS",110.263684989189,179
+"1127","Predominantly Masculine","Older","gaussian-noise",1,"Azure",65.4554455445545,118
+"1128","Predominantly Masculine","Older","gaussian-noise",1,"GCP",64.9158415841584,110
+"1129","Predominantly Masculine","Older","gaussian-noise",2,"AWS",88.8914149211435,179
+"1130","Predominantly Masculine","Older","gaussian-noise",2,"Azure",52.6633663366337,118
+"1131","Predominantly Masculine","Older","gaussian-noise",2,"GCP",52.8118811881188,110
+"1132","Predominantly Masculine","Older","gaussian-noise",3,"AWS",69.5747785972929,179
+"1133","Predominantly Masculine","Older","gaussian-noise",3,"Azure",35.5940594059406,117
+"1134","Predominantly Masculine","Older","gaussian-noise",3,"GCP",38.493399339934,110
+"1135","Predominantly Masculine","Older","gaussian-noise",4,"AWS",48.7642387816973,179
+"1136","Predominantly Masculine","Older","gaussian-noise",4,"Azure",30,117
+"1137","Predominantly Masculine","Older","gaussian-noise",4,"GCP",32.5412541254125,109
+"1138","Predominantly Masculine","Older","gaussian-noise",5,"AWS",30.4554455445545,179
+"1139","Predominantly Masculine","Older","gaussian-noise",5,"Azure",22,117
+"1140","Predominantly Masculine","Older","gaussian-noise",5,"GCP",24.5544554455446,109
+"1141","Predominantly Masculine","Older","shot-noise",1,"AWS",116.159689425359,179
+"1142","Predominantly Masculine","Older","shot-noise",1,"Azure",76,118
+"1143","Predominantly Masculine","Older","shot-noise",1,"GCP",65.6138613861386,110
+"1144","Predominantly Masculine","Older","shot-noise",2,"AWS",97.0342434097841,179
+"1145","Predominantly Masculine","Older","shot-noise",2,"Azure",56.9207920792079,118
+"1146","Predominantly Masculine","Older","shot-noise",2,"GCP",53.2849284928493,110
+"1147","Predominantly Masculine","Older","shot-noise",3,"AWS",72.811517729734,179
+"1148","Predominantly Masculine","Older","shot-noise",3,"Azure",44.3366336633663,117
+"1149","Predominantly Masculine","Older","shot-noise",3,"GCP",42.2517680339462,110
+"1150","Predominantly Masculine","Older","shot-noise",4,"AWS",43.976897689769,179
+"1151","Predominantly Masculine","Older","shot-noise",4,"Azure",35.0891089108911,117
+"1152","Predominantly Masculine","Older","shot-noise",4,"GCP",34.5049504950495,109
+"1153","Predominantly Masculine","Older","shot-noise",5,"AWS",35.7925742574257,179
+"1154","Predominantly Masculine","Older","shot-noise",5,"Azure",25,117
+"1155","Predominantly Masculine","Older","shot-noise",5,"GCP",29.5,109
+"1156","Predominantly Masculine","Older","impulse-noise",1,"AWS",98.3703849138619,179
+"1157","Predominantly Masculine","Older","impulse-noise",1,"Azure",64.6633663366337,118
+"1158","Predominantly Masculine","Older","impulse-noise",1,"GCP",53.2524752475247,110
+"1159","Predominantly Masculine","Older","impulse-noise",2,"AWS",72.3876773227095,179
+"1160","Predominantly Masculine","Older","impulse-noise",2,"Azure",45.960396039604,117
+"1161","Predominantly Masculine","Older","impulse-noise",2,"GCP",44.2740099009901,109
+"1162","Predominantly Masculine","Older","impulse-noise",3,"AWS",53.101585715127,179
+"1163","Predominantly Masculine","Older","impulse-noise",3,"Azure",39.3207920792079,117
+"1164","Predominantly Masculine","Older","impulse-noise",3,"GCP",38.1089108910891,109
+"1165","Predominantly Masculine","Older","impulse-noise",4,"AWS",43.0598016541511,179
+"1166","Predominantly Masculine","Older","impulse-noise",4,"Azure",31.2178217821782,117
+"1167","Predominantly Masculine","Older","impulse-noise",4,"GCP",32.2079207920792,109
+"1168","Predominantly Masculine","Older","impulse-noise",5,"AWS",29.9950495049505,179
+"1169","Predominantly Masculine","Older","impulse-noise",5,"Azure",20,117
+"1170","Predominantly Masculine","Older","impulse-noise",5,"GCP",25.0544554455446,109
+"1171","Predominantly Masculine","Older","defocus-blur",1,"AWS",117.702305484265,179
+"1172","Predominantly Masculine","Older","defocus-blur",1,"Azure",94.0581683168317,118
+"1173","Predominantly Masculine","Older","defocus-blur",1,"GCP",53.6695544554455,110
+"1174","Predominantly Masculine","Older","defocus-blur",2,"AWS",112.799587458746,179
+"1175","Predominantly Masculine","Older","defocus-blur",2,"Azure",84.1683168316832,118
+"1176","Predominantly Masculine","Older","defocus-blur",2,"GCP",48.3069306930693,110
+"1177","Predominantly Masculine","Older","defocus-blur",3,"AWS",84.7673267326733,179
+"1178","Predominantly Masculine","Older","defocus-blur",3,"Azure",70.5891089108911,118
+"1179","Predominantly Masculine","Older","defocus-blur",3,"GCP",40,110
+"1180","Predominantly Masculine","Older","defocus-blur",4,"AWS",75.3514851485149,179
+"1181","Predominantly Masculine","Older","defocus-blur",4,"Azure",65.5,118
+"1182","Predominantly Masculine","Older","defocus-blur",4,"GCP",35,110
+"1183","Predominantly Masculine","Older","defocus-blur",5,"AWS",62.3366336633663,179
+"1184","Predominantly Masculine","Older","defocus-blur",5,"Azure",61,118
+"1185","Predominantly Masculine","Older","defocus-blur",5,"GCP",28,110
+"1186","Predominantly Masculine","Older","glass-blur",1,"AWS",142.419328454585,179
+"1187","Predominantly Masculine","Older","glass-blur",1,"Azure",105.608910891089,118
+"1188","Predominantly Masculine","Older","glass-blur",1,"GCP",72.4059405940594,110
+"1189","Predominantly Masculine","Older","glass-blur",2,"AWS",128.108815689261,179
+"1190","Predominantly Masculine","Older","glass-blur",2,"Azure",97.4315181518152,118
+"1191","Predominantly Masculine","Older","glass-blur",2,"GCP",64.3069306930693,110
+"1192","Predominantly Masculine","Older","glass-blur",3,"AWS",121.62400990099,179
+"1193","Predominantly Masculine","Older","glass-blur",3,"Azure",100.267043847242,118
+"1194","Predominantly Masculine","Older","glass-blur",3,"GCP",60.8019801980198,110
+"1195","Predominantly Masculine","Older","glass-blur",4,"AWS",121.791336633663,179
+"1196","Predominantly Masculine","Older","glass-blur",4,"Azure",96.1595159515952,118
+"1197","Predominantly Masculine","Older","glass-blur",4,"GCP",57.3069306930693,110
+"1198","Predominantly Masculine","Older","glass-blur",5,"AWS",111.399614961496,179
+"1199","Predominantly Masculine","Older","glass-blur",5,"Azure",82.2128712871287,118
+"1200","Predominantly Masculine","Older","glass-blur",5,"GCP",46.8069306930693,110
+"1201","Predominantly Masculine","Older","motion-blur",1,"AWS",110.118971177753,179
+"1202","Predominantly Masculine","Older","motion-blur",1,"Azure",96.034103410341,118
+"1203","Predominantly Masculine","Older","motion-blur",1,"GCP",61.3851485148515,110
+"1204","Predominantly Masculine","Older","motion-blur",2,"AWS",89.872329338197,179
+"1205","Predominantly Masculine","Older","motion-blur",2,"Azure",84.1419141914191,118
+"1206","Predominantly Masculine","Older","motion-blur",2,"GCP",51.7128712871287,110
+"1207","Predominantly Masculine","Older","motion-blur",3,"AWS",64.4257425742574,179
+"1208","Predominantly Masculine","Older","motion-blur",3,"Azure",68.0891089108911,118
+"1209","Predominantly Masculine","Older","motion-blur",3,"GCP",42.5049504950495,110
+"1210","Predominantly Masculine","Older","motion-blur",4,"AWS",44.3366336633663,179
+"1211","Predominantly Masculine","Older","motion-blur",4,"Azure",54,118
+"1212","Predominantly Masculine","Older","motion-blur",4,"GCP",34,110
+"1213","Predominantly Masculine","Older","motion-blur",5,"AWS",41.5049504950495,179
+"1214","Predominantly Masculine","Older","motion-blur",5,"Azure",44,118
+"1215","Predominantly Masculine","Older","motion-blur",5,"GCP",30,110
+"1216","Predominantly Masculine","Older","zoom-blur",1,"AWS",42,179
+"1217","Predominantly Masculine","Older","zoom-blur",1,"Azure",37,118
+"1218","Predominantly Masculine","Older","zoom-blur",1,"GCP",33,110
+"1219","Predominantly Masculine","Older","zoom-blur",2,"AWS",29,179
+"1220","Predominantly Masculine","Older","zoom-blur",2,"Azure",27,118
+"1221","Predominantly Masculine","Older","zoom-blur",2,"GCP",21,110
+"1222","Predominantly Masculine","Older","zoom-blur",3,"AWS",18,179
+"1223","Predominantly Masculine","Older","zoom-blur",3,"Azure",18,118
+"1224","Predominantly Masculine","Older","zoom-blur",3,"GCP",17,110
+"1225","Predominantly Masculine","Older","zoom-blur",4,"AWS",15,179
+"1226","Predominantly Masculine","Older","zoom-blur",4,"Azure",14,118
+"1227","Predominantly Masculine","Older","zoom-blur",4,"GCP",15,110
+"1228","Predominantly Masculine","Older","zoom-blur",5,"AWS",9,179
+"1229","Predominantly Masculine","Older","zoom-blur",5,"Azure",12,118
+"1230","Predominantly Masculine","Older","zoom-blur",5,"GCP",8,110
+"1231","Predominantly Masculine","Older","snow",1,"AWS",90.8135465854278,179
+"1232","Predominantly Masculine","Older","snow",1,"Azure",76.5148514851485,118
+"1233","Predominantly Masculine","Older","snow",1,"GCP",40.4059405940594,110
+"1234","Predominantly Masculine","Older","snow",2,"AWS",54.3518443605012,179
+"1235","Predominantly Masculine","Older","snow",2,"Azure",47.1683168316832,118
+"1236","Predominantly Masculine","Older","snow",2,"GCP",30.3019801980198,110
+"1237","Predominantly Masculine","Older","snow",3,"AWS",52.8834440645526,179
+"1238","Predominantly Masculine","Older","snow",3,"Azure",38.8205445544554,118
+"1239","Predominantly Masculine","Older","snow",3,"GCP",19.7623762376238,110
+"1240","Predominantly Masculine","Older","snow",4,"AWS",45.2839408464117,179
+"1241","Predominantly Masculine","Older","snow",4,"Azure",33.8415841584158,118
+"1242","Predominantly Masculine","Older","snow",4,"GCP",11.6308345120226,110
+"1243","Predominantly Masculine","Older","snow",5,"AWS",39.9391608391608,179
+"1244","Predominantly Masculine","Older","snow",5,"Azure",31.5445544554455,118
+"1245","Predominantly Masculine","Older","snow",5,"GCP",14.3069306930693,110
+"1246","Predominantly Masculine","Older","frost",1,"AWS",104.280818449052,179
+"1247","Predominantly Masculine","Older","frost",1,"Azure",74.4554455445545,118
+"1248","Predominantly Masculine","Older","frost",1,"GCP",42.8960396039604,110
+"1249","Predominantly Masculine","Older","frost",2,"AWS",75.5159381675522,179
+"1250","Predominantly Masculine","Older","frost",2,"Azure",53.4356435643564,118
+"1251","Predominantly Masculine","Older","frost",2,"GCP",34.3514851485149,110
+"1252","Predominantly Masculine","Older","frost",3,"AWS",58.4358239060304,179
+"1253","Predominantly Masculine","Older","frost",3,"Azure",38.5049504950495,118
+"1254","Predominantly Masculine","Older","frost",3,"GCP",25.970297029703,110
+"1255","Predominantly Masculine","Older","frost",4,"AWS",52.4918649759713,179
+"1256","Predominantly Masculine","Older","frost",4,"Azure",40.5346534653465,118
+"1257","Predominantly Masculine","Older","frost",4,"GCP",21.7623762376238,110
+"1258","Predominantly Masculine","Older","frost",5,"AWS",42.4717510084342,179
+"1259","Predominantly Masculine","Older","frost",5,"Azure",26.009900990099,118
+"1260","Predominantly Masculine","Older","frost",5,"GCP",16.6089108910891,110
+"1261","Predominantly Masculine","Older","fog",1,"AWS",112.846427335041,179
+"1262","Predominantly Masculine","Older","fog",1,"Azure",80.5346534653465,118
+"1263","Predominantly Masculine","Older","fog",1,"GCP",47.4059405940594,110
+"1264","Predominantly Masculine","Older","fog",2,"AWS",103.296335244233,179
+"1265","Predominantly Masculine","Older","fog",2,"Azure",73.5049504950495,118
+"1266","Predominantly Masculine","Older","fog",2,"GCP",45.3960396039604,110
+"1267","Predominantly Masculine","Older","fog",3,"AWS",90.9435816744088,179
+"1268","Predominantly Masculine","Older","fog",3,"Azure",72.3762376237624,118
+"1269","Predominantly Masculine","Older","fog",3,"GCP",33.7443069306931,110
+"1270","Predominantly Masculine","Older","fog",4,"AWS",92.7360303761817,179
+"1271","Predominantly Masculine","Older","fog",4,"Azure",71.3762376237624,118
+"1272","Predominantly Masculine","Older","fog",4,"GCP",30.1512651265127,110
+"1273","Predominantly Masculine","Older","fog",5,"AWS",83.2941407978925,179
+"1274","Predominantly Masculine","Older","fog",5,"Azure",60.3366336633663,118
+"1275","Predominantly Masculine","Older","fog",5,"GCP",27.4884488448845,110
+"1276","Predominantly Masculine","Older","brightness",1,"AWS",160.777771733217,179
+"1277","Predominantly Masculine","Older","brightness",1,"Azure",107.910891089109,118
+"1278","Predominantly Masculine","Older","brightness",1,"GCP",91.1089108910891,110
+"1279","Predominantly Masculine","Older","brightness",2,"AWS",147.65923035532,179
+"1280","Predominantly Masculine","Older","brightness",2,"Azure",98.4554455445545,118
+"1281","Predominantly Masculine","Older","brightness",2,"GCP",79.5,110
+"1282","Predominantly Masculine","Older","brightness",3,"AWS",130.260869922988,179
+"1283","Predominantly Masculine","Older","brightness",3,"Azure",87.4554455445545,118
+"1284","Predominantly Masculine","Older","brightness",3,"GCP",70.9108910891089,110
+"1285","Predominantly Masculine","Older","brightness",4,"AWS",128.1577347773,179
+"1286","Predominantly Masculine","Older","brightness",4,"Azure",72.3762376237624,118
+"1287","Predominantly Masculine","Older","brightness",4,"GCP",55.9059405940594,110
+"1288","Predominantly Masculine","Older","brightness",5,"AWS",100.50235356869,179
+"1289","Predominantly Masculine","Older","brightness",5,"Azure",68.1595159515952,118
+"1290","Predominantly Masculine","Older","brightness",5,"GCP",42.2997799779978,110
+"1291","Predominantly Masculine","Older","contrast",1,"AWS",110.380045935628,179
+"1292","Predominantly Masculine","Older","contrast",1,"Azure",80.5346534653465,118
+"1293","Predominantly Masculine","Older","contrast",1,"GCP",52.5049504950495,110
+"1294","Predominantly Masculine","Older","contrast",2,"AWS",94.2012778577752,179
+"1295","Predominantly Masculine","Older","contrast",2,"Azure",70.5049504950495,118
+"1296","Predominantly Masculine","Older","contrast",2,"GCP",35.3366336633663,110
+"1297","Predominantly Masculine","Older","contrast",3,"AWS",72.2479377166097,179
+"1298","Predominantly Masculine","Older","contrast",3,"Azure",60.9445544554455,118
+"1299","Predominantly Masculine","Older","contrast",3,"GCP",24.230198019802,110
+"1300","Predominantly Masculine","Older","contrast",4,"AWS",44.9445713802149,179
+"1301","Predominantly Masculine","Older","contrast",4,"Azure",33.3217821782178,118
+"1302","Predominantly Masculine","Older","contrast",4,"GCP",10,110
+"1303","Predominantly Masculine","Older","contrast",5,"AWS",24.3762376237624,179
+"1304","Predominantly Masculine","Older","contrast",5,"Azure",24,118
+"1305","Predominantly Masculine","Older","contrast",5,"GCP",3,110
+"1306","Predominantly Masculine","Older","elastic-transform",1,"AWS",49,179
+"1307","Predominantly Masculine","Older","elastic-transform",1,"Azure",44,118
+"1308","Predominantly Masculine","Older","elastic-transform",1,"GCP",30,110
+"1309","Predominantly Masculine","Older","elastic-transform",2,"AWS",25.5049504950495,179
+"1310","Predominantly Masculine","Older","elastic-transform",2,"Azure",29,118
+"1311","Predominantly Masculine","Older","elastic-transform",2,"GCP",20,110
+"1312","Predominantly Masculine","Older","elastic-transform",3,"AWS",99.2963875907042,179
+"1313","Predominantly Masculine","Older","elastic-transform",3,"Azure",83.1287128712871,118
+"1314","Predominantly Masculine","Older","elastic-transform",3,"GCP",60.5695426685526,110
+"1315","Predominantly Masculine","Older","elastic-transform",4,"AWS",90.9079717746211,179
+"1316","Predominantly Masculine","Older","elastic-transform",4,"Azure",80.3102310231023,118
+"1317","Predominantly Masculine","Older","elastic-transform",4,"GCP",56.480198019802,110
+"1318","Predominantly Masculine","Older","elastic-transform",5,"AWS",60.3762376237624,179
+"1319","Predominantly Masculine","Older","elastic-transform",5,"Azure",59,118
+"1320","Predominantly Masculine","Older","elastic-transform",5,"GCP",43.6831683168317,110
+"1321","Predominantly Masculine","Older","pixelate",1,"AWS",143.296204620462,179
+"1322","Predominantly Masculine","Older","pixelate",1,"Azure",107.910891089109,118
+"1323","Predominantly Masculine","Older","pixelate",1,"GCP",83.2086280056577,110
+"1324","Predominantly Masculine","Older","pixelate",2,"AWS",132.44401440144,179
+"1325","Predominantly Masculine","Older","pixelate",2,"Azure",99.7986798679868,118
+"1326","Predominantly Masculine","Older","pixelate",2,"GCP",68.7579757975798,110
+"1327","Predominantly Masculine","Older","pixelate",3,"AWS",102.410848777185,179
+"1328","Predominantly Masculine","Older","pixelate",3,"Azure",88.3894389438944,118
+"1329","Predominantly Masculine","Older","pixelate",3,"GCP",59.1868811881188,110
+"1330","Predominantly Masculine","Older","pixelate",4,"AWS",78.4059405940594,179
+"1331","Predominantly Masculine","Older","pixelate",4,"Azure",77.7574257425743,118
+"1332","Predominantly Masculine","Older","pixelate",4,"GCP",43.5049504950495,110
+"1333","Predominantly Masculine","Older","pixelate",5,"AWS",33,179
+"1334","Predominantly Masculine","Older","pixelate",5,"Azure",52,118
+"1335","Predominantly Masculine","Older","pixelate",5,"GCP",27,110
+"1336","Predominantly Masculine","Older","jpeg-compression",1,"AWS",135.661746174617,179
+"1337","Predominantly Masculine","Older","jpeg-compression",1,"Azure",91.6237623762376,118
+"1338","Predominantly Masculine","Older","jpeg-compression",1,"GCP",81.6138613861386,110
+"1339","Predominantly Masculine","Older","jpeg-compression",2,"AWS",126.360952294336,179
+"1340","Predominantly Masculine","Older","jpeg-compression",2,"Azure",83.4158415841584,118
+"1341","Predominantly Masculine","Older","jpeg-compression",2,"GCP",79.6138613861386,110
+"1342","Predominantly Masculine","Older","jpeg-compression",3,"AWS",116.332584412287,179
+"1343","Predominantly Masculine","Older","jpeg-compression",3,"Azure",80.3056930693069,118
+"1344","Predominantly Masculine","Older","jpeg-compression",3,"GCP",73.2442244224422,110
+"1345","Predominantly Masculine","Older","jpeg-compression",4,"AWS",95.5873830240167,179
+"1346","Predominantly Masculine","Older","jpeg-compression",4,"Azure",66.9306930693069,118
+"1347","Predominantly Masculine","Older","jpeg-compression",4,"GCP",63.8069306930693,110
+"1348","Predominantly Masculine","Older","jpeg-compression",5,"AWS",69.4399904059885,179
+"1349","Predominantly Masculine","Older","jpeg-compression",5,"Azure",65.4438943894389,118
+"1350","Predominantly Masculine","Older","jpeg-compression",5,"GCP",54.6239038189533,110
+"1351","Unknown","Young","gaussian-noise",1,"AWS",207.19801980198,269
+"1352","Unknown","Young","gaussian-noise",1,"Azure",153.336633663366,204
+"1353","Unknown","Young","gaussian-noise",1,"GCP",130.336633663366,169
+"1354","Unknown","Young","gaussian-noise",2,"AWS",180.19801980198,269
+"1355","Unknown","Young","gaussian-noise",2,"Azure",128.178217821782,204
+"1356","Unknown","Young","gaussian-noise",2,"GCP",117.004950495049,169
+"1357","Unknown","Young","gaussian-noise",3,"AWS",148.69801980198,269
+"1358","Unknown","Young","gaussian-noise",3,"Azure",95.1113861386139,204
+"1359","Unknown","Young","gaussian-noise",3,"GCP",91.7294554455446,169
+"1360","Unknown","Young","gaussian-noise",4,"AWS",109.351485148515,269
+"1361","Unknown","Young","gaussian-noise",4,"Azure",72.990099009901,204
+"1362","Unknown","Young","gaussian-noise",4,"GCP",79.2854785478548,169
+"1363","Unknown","Young","gaussian-noise",5,"AWS",76.8910891089109,269
+"1364","Unknown","Young","gaussian-noise",5,"Azure",42.0792079207921,204
+"1365","Unknown","Young","gaussian-noise",5,"GCP",49.009900990099,169
+"1366","Unknown","Young","shot-noise",1,"AWS",209.267326732673,269
+"1367","Unknown","Young","shot-noise",1,"Azure",164.613861386139,204
+"1368","Unknown","Young","shot-noise",1,"GCP",133.009900990099,169
+"1369","Unknown","Young","shot-noise",2,"AWS",185.767326732673,269
+"1370","Unknown","Young","shot-noise",2,"Azure",139.455445544554,204
+"1371","Unknown","Young","shot-noise",2,"GCP",120.021534653465,169
+"1372","Unknown","Young","shot-noise",3,"AWS",149.049504950495,269
+"1373","Unknown","Young","shot-noise",3,"Azure",110.455445544554,204
+"1374","Unknown","Young","shot-noise",3,"GCP",103.315594059406,169
+"1375","Unknown","Young","shot-noise",4,"AWS",105.915841584158,269
+"1376","Unknown","Young","shot-noise",4,"Azure",66.3663366336634,204
+"1377","Unknown","Young","shot-noise",4,"GCP",76.1138613861386,169
+"1378","Unknown","Young","shot-noise",5,"AWS",80.5594059405941,269
+"1379","Unknown","Young","shot-noise",5,"Azure",49.2871287128713,204
+"1380","Unknown","Young","shot-noise",5,"GCP",53.509900990099,169
+"1381","Unknown","Young","impulse-noise",1,"AWS",200.267326732673,269
+"1382","Unknown","Young","impulse-noise",1,"Azure",147.732673267327,204
+"1383","Unknown","Young","impulse-noise",1,"GCP",129.068316831683,169
+"1384","Unknown","Young","impulse-noise",2,"AWS",168.128712871287,269
+"1385","Unknown","Young","impulse-noise",2,"Azure",124.029702970297,204
+"1386","Unknown","Young","impulse-noise",2,"GCP",106.881188118812,169
+"1387","Unknown","Young","impulse-noise",3,"AWS",152.128712871287,269
+"1388","Unknown","Young","impulse-noise",3,"Azure",103.950495049505,204
+"1389","Unknown","Young","impulse-noise",3,"GCP",99.6864686468647,169
+"1390","Unknown","Young","impulse-noise",4,"AWS",110.346534653465,269
+"1391","Unknown","Young","impulse-noise",4,"Azure",74.5841584158416,204
+"1392","Unknown","Young","impulse-noise",4,"GCP",70.9488448844885,169
+"1393","Unknown","Young","impulse-noise",5,"AWS",69.0891089108911,269
+"1394","Unknown","Young","impulse-noise",5,"Azure",49,204
+"1395","Unknown","Young","impulse-noise",5,"GCP",50.5148514851485,169
+"1396","Unknown","Young","defocus-blur",1,"AWS",224.524752475248,269
+"1397","Unknown","Young","defocus-blur",1,"Azure",175.039603960396,204
+"1398","Unknown","Young","defocus-blur",1,"GCP",116.23102310231,169
+"1399","Unknown","Young","defocus-blur",2,"AWS",204.524752475248,269
+"1400","Unknown","Young","defocus-blur",2,"Azure",169.534653465347,204
+"1401","Unknown","Young","defocus-blur",2,"GCP",98.1966053748232,169
+"1402","Unknown","Young","defocus-blur",3,"AWS",173.267326732673,269
+"1403","Unknown","Young","defocus-blur",3,"Azure",148.662376237624,204
+"1404","Unknown","Young","defocus-blur",3,"GCP",76.6798679867987,169
+"1405","Unknown","Young","defocus-blur",4,"AWS",145.851485148515,269
+"1406","Unknown","Young","defocus-blur",4,"Azure",126.912305516266,204
+"1407","Unknown","Young","defocus-blur",4,"GCP",61.5049504950495,169
+"1408","Unknown","Young","defocus-blur",5,"AWS",129.020902090209,269
+"1409","Unknown","Young","defocus-blur",5,"Azure",115.172277227723,204
+"1410","Unknown","Young","defocus-blur",5,"GCP",57.5049504950495,169
+"1411","Unknown","Young","glass-blur",1,"AWS",245.524752475248,269
+"1412","Unknown","Young","glass-blur",1,"Azure",190.623762376238,204
+"1413","Unknown","Young","glass-blur",1,"GCP",144.178217821782,169
+"1414","Unknown","Young","glass-blur",2,"AWS",231.524752475248,269
+"1415","Unknown","Young","glass-blur",2,"Azure",186.623762376238,204
+"1416","Unknown","Young","glass-blur",2,"GCP",125.821782178218,169
+"1417","Unknown","Young","glass-blur",3,"AWS",228.524752475248,269
+"1418","Unknown","Young","glass-blur",3,"Azure",184.544554455446,204
+"1419","Unknown","Young","glass-blur",3,"GCP",120.821782178218,169
+"1420","Unknown","Young","glass-blur",4,"AWS",223.524752475248,269
+"1421","Unknown","Young","glass-blur",4,"Azure",175.742574257426,204
+"1422","Unknown","Young","glass-blur",4,"GCP",119.658415841584,169
+"1423","Unknown","Young","glass-blur",5,"AWS",206.128712871287,269
+"1424","Unknown","Young","glass-blur",5,"Azure",168.534653465347,204
+"1425","Unknown","Young","glass-blur",5,"GCP",102.196605374823,169
+"1426","Unknown","Young","motion-blur",1,"AWS",222.19801980198,269
+"1427","Unknown","Young","motion-blur",1,"Azure",176.613861386139,204
+"1428","Unknown","Young","motion-blur",1,"GCP",125.356435643564,169
+"1429","Unknown","Young","motion-blur",2,"AWS",184.43399339934,269
+"1430","Unknown","Young","motion-blur",2,"Azure",161.455445544554,204
+"1431","Unknown","Young","motion-blur",2,"GCP",107.861386138614,169
+"1432","Unknown","Young","motion-blur",3,"AWS",137.776477647765,269
+"1433","Unknown","Young","motion-blur",3,"Azure",134.521452145215,204
+"1434","Unknown","Young","motion-blur",3,"GCP",85.9782178217822,169
+"1435","Unknown","Young","motion-blur",4,"AWS",106.955445544554,269
+"1436","Unknown","Young","motion-blur",4,"Azure",111.910891089109,204
+"1437","Unknown","Young","motion-blur",4,"GCP",73.5049504950495,169
+"1438","Unknown","Young","motion-blur",5,"AWS",91.3366336633663,269
+"1439","Unknown","Young","motion-blur",5,"Azure",91.9108910891089,204
+"1440","Unknown","Young","motion-blur",5,"GCP",60.009900990099,169
+"1441","Unknown","Young","zoom-blur",1,"AWS",78.0420792079208,269
+"1442","Unknown","Young","zoom-blur",1,"Azure",72.6105610561056,204
+"1443","Unknown","Young","zoom-blur",1,"GCP",51.6138613861386,169
+"1444","Unknown","Young","zoom-blur",2,"AWS",58.0792079207921,269
+"1445","Unknown","Young","zoom-blur",2,"Azure",52.1584158415842,204
+"1446","Unknown","Young","zoom-blur",2,"GCP",35.1089108910891,169
+"1447","Unknown","Young","zoom-blur",3,"AWS",50.0792079207921,269
+"1448","Unknown","Young","zoom-blur",3,"Azure",43.1584158415842,204
+"1449","Unknown","Young","zoom-blur",3,"GCP",30,169
+"1450","Unknown","Young","zoom-blur",4,"AWS",41.0792079207921,269
+"1451","Unknown","Young","zoom-blur",4,"Azure",36.0792079207921,204
+"1452","Unknown","Young","zoom-blur",4,"GCP",26,169
+"1453","Unknown","Young","zoom-blur",5,"AWS",34,269
+"1454","Unknown","Young","zoom-blur",5,"Azure",27,204
+"1455","Unknown","Young","zoom-blur",5,"GCP",22,169
+"1456","Unknown","Young","snow",1,"AWS",190.762376237624,269
+"1457","Unknown","Young","snow",1,"Azure",150.415841584158,204
+"1458","Unknown","Young","snow",1,"GCP",102.589108910891,169
+"1459","Unknown","Young","snow",2,"AWS",138.128712871287,269
+"1460","Unknown","Young","snow",2,"Azure",114.673267326733,204
+"1461","Unknown","Young","snow",2,"GCP",75.7029702970297,169
+"1462","Unknown","Young","snow",3,"AWS",133.851485148515,269
+"1463","Unknown","Young","snow",3,"Azure",117.10099009901,204
+"1464","Unknown","Young","snow",3,"GCP",54.1089108910891,169
+"1465","Unknown","Young","snow",4,"AWS",100.636633663366,269
+"1466","Unknown","Young","snow",4,"Azure",94.1980198019802,204
+"1467","Unknown","Young","snow",4,"GCP",38.6930693069307,169
+"1468","Unknown","Young","snow",5,"AWS",115.693069306931,269
+"1469","Unknown","Young","snow",5,"Azure",97.8935643564356,204
+"1470","Unknown","Young","snow",5,"GCP",45.7871287128713,169
+"1471","Unknown","Young","frost",1,"AWS",207.346534653465,269
+"1472","Unknown","Young","frost",1,"Azure",158.613861386139,204
+"1473","Unknown","Young","frost",1,"GCP",114.405940594059,169
+"1474","Unknown","Young","frost",2,"AWS",162.772277227723,269
+"1475","Unknown","Young","frost",2,"Azure",128.829398324448,204
+"1476","Unknown","Young","frost",2,"GCP",79.4059405940594,169
+"1477","Unknown","Young","frost",3,"AWS",136.61798679868,269
+"1478","Unknown","Young","frost",3,"Azure",108.257425742574,204
+"1479","Unknown","Young","frost",3,"GCP",58.5275813295615,169
+"1480","Unknown","Young","frost",4,"AWS",135.29702970297,269
+"1481","Unknown","Young","frost",4,"Azure",97.029702970297,204
+"1482","Unknown","Young","frost",4,"GCP",52.6265912305516,169
+"1483","Unknown","Young","frost",5,"AWS",111.554455445545,269
+"1484","Unknown","Young","frost",5,"Azure",85.1782178217822,204
+"1485","Unknown","Young","frost",5,"GCP",42.6798679867987,169
+"1486","Unknown","Young","fog",1,"AWS",216.19801980198,269
+"1487","Unknown","Young","fog",1,"Azure",165.039603960396,204
+"1488","Unknown","Young","fog",1,"GCP",104.628712871287,169
+"1489","Unknown","Young","fog",2,"AWS",211.19801980198,269
+"1490","Unknown","Young","fog",2,"Azure",160.534653465347,204
+"1491","Unknown","Young","fog",2,"GCP",98.3663366336634,169
+"1492","Unknown","Young","fog",3,"AWS",196.19801980198,269
+"1493","Unknown","Young","fog",3,"Azure",150.039603960396,204
+"1494","Unknown","Young","fog",3,"GCP",87.890099009901,169
+"1495","Unknown","Young","fog",4,"AWS",195.69801980198,269
+"1496","Unknown","Young","fog",4,"Azure",148.455445544554,204
+"1497","Unknown","Young","fog",4,"GCP",81.3861386138614,169
+"1498","Unknown","Young","fog",5,"AWS",183.19801980198,269
+"1499","Unknown","Young","fog",5,"Azure",138.455445544554,204
+"1500","Unknown","Young","fog",5,"GCP",67.009900990099,169
+"1501","Unknown","Young","brightness",1,"AWS",248.673267326733,269
+"1502","Unknown","Young","brightness",1,"Azure",192.257425742574,204
+"1503","Unknown","Young","brightness",1,"GCP",152.252475247525,169
+"1504","Unknown","Young","brightness",2,"AWS",240.346534653465,269
+"1505","Unknown","Young","brightness",2,"Azure",184.108910891089,204
+"1506","Unknown","Young","brightness",2,"GCP",143.50495049505,169
+"1507","Unknown","Young","brightness",3,"AWS",230.267326732673,269
+"1508","Unknown","Young","brightness",3,"Azure",177.017517136329,204
+"1509","Unknown","Young","brightness",3,"GCP",125.677667766777,169
+"1510","Unknown","Young","brightness",4,"AWS",219.267326732673,269
+"1511","Unknown","Young","brightness",4,"Azure",161.564256425643,204
+"1512","Unknown","Young","brightness",4,"GCP",116.734323432343,169
+"1513","Unknown","Young","brightness",5,"AWS",203.485148514851,269
+"1514","Unknown","Young","brightness",5,"Azure",149.46600660066,204
+"1515","Unknown","Young","brightness",5,"GCP",99.6775106082037,169
+"1516","Unknown","Young","contrast",1,"AWS",215.693069306931,269
+"1517","Unknown","Young","contrast",1,"Azure",168.118811881188,204
+"1518","Unknown","Young","contrast",1,"GCP",111.831683168317,169
+"1519","Unknown","Young","contrast",2,"AWS",199.128712871287,269
+"1520","Unknown","Young","contrast",2,"Azure",155.534653465347,204
+"1521","Unknown","Young","contrast",2,"GCP",96.8415841584158,169
+"1522","Unknown","Young","contrast",3,"AWS",167.623762376238,269
+"1523","Unknown","Young","contrast",3,"Azure",136.306930693069,204
+"1524","Unknown","Young","contrast",3,"GCP",67.8613861386139,169
+"1525","Unknown","Young","contrast",4,"AWS",107.495049504951,269
+"1526","Unknown","Young","contrast",4,"Azure",92.5742574257426,204
+"1527","Unknown","Young","contrast",4,"GCP",31,169
+"1528","Unknown","Young","contrast",5,"AWS",60.0792079207921,269
+"1529","Unknown","Young","contrast",5,"Azure",53,204
+"1530","Unknown","Young","contrast",5,"GCP",6,169
+"1531","Unknown","Young","elastic-transform",1,"AWS",86.5990099009901,269
+"1532","Unknown","Young","elastic-transform",1,"Azure",77.7128712871287,204
+"1533","Unknown","Young","elastic-transform",1,"GCP",63.1410891089109,169
+"1534","Unknown","Young","elastic-transform",2,"AWS",46.5049504950495,269
+"1535","Unknown","Young","elastic-transform",2,"Azure",49,204
+"1536","Unknown","Young","elastic-transform",2,"GCP",29.2524752475248,169
+"1537","Unknown","Young","elastic-transform",3,"AWS",181.864686468647,269
+"1538","Unknown","Young","elastic-transform",3,"Azure",164.683929931455,204
+"1539","Unknown","Young","elastic-transform",3,"GCP",115.336633663366,169
+"1540","Unknown","Young","elastic-transform",4,"AWS",171.762376237624,269
+"1541","Unknown","Young","elastic-transform",4,"Azure",142.60396039604,204
+"1542","Unknown","Young","elastic-transform",4,"GCP",106.346534653465,169
+"1543","Unknown","Young","elastic-transform",5,"AWS",114.561606160616,269
+"1544","Unknown","Young","elastic-transform",5,"Azure",115.893564356436,204
+"1545","Unknown","Young","elastic-transform",5,"GCP",83.1397139713971,169
+"1546","Unknown","Young","pixelate",1,"AWS",244.594059405941,269
+"1547","Unknown","Young","pixelate",1,"Azure",188.821782178218,204
+"1548","Unknown","Young","pixelate",1,"GCP",143.50495049505,169
+"1549","Unknown","Young","pixelate",2,"AWS",225.128712871287,269
+"1550","Unknown","Young","pixelate",2,"Azure",186.514851485149,204
+"1551","Unknown","Young","pixelate",2,"GCP",126.094059405941,169
+"1552","Unknown","Young","pixelate",3,"AWS",192.059405940594,269
+"1553","Unknown","Young","pixelate",3,"Azure",175.022086824067,204
+"1554","Unknown","Young","pixelate",3,"GCP",121.146534653465,169
+"1555","Unknown","Young","pixelate",4,"AWS",131.267326732673,269
+"1556","Unknown","Young","pixelate",4,"Azure",144.581188118812,204
+"1557","Unknown","Young","pixelate",4,"GCP",90.9108910891089,169
+"1558","Unknown","Young","pixelate",5,"AWS",65.3366336633663,269
+"1559","Unknown","Young","pixelate",5,"Azure",98.9108910891089,204
+"1560","Unknown","Young","pixelate",5,"GCP",53.5049504950495,169
+"1561","Unknown","Young","jpeg-compression",1,"AWS",239.346534653465,269
+"1562","Unknown","Young","jpeg-compression",1,"Azure",184.009900990099,204
+"1563","Unknown","Young","jpeg-compression",1,"GCP",148.09900990099,169
+"1564","Unknown","Young","jpeg-compression",2,"AWS",234.841584158416,269
+"1565","Unknown","Young","jpeg-compression",2,"Azure",177.064356435644,204
+"1566","Unknown","Young","jpeg-compression",2,"GCP",139.579207920792,169
+"1567","Unknown","Young","jpeg-compression",3,"AWS",214.693069306931,269
+"1568","Unknown","Young","jpeg-compression",3,"Azure",168.613861386139,204
+"1569","Unknown","Young","jpeg-compression",3,"GCP",134.084158415842,169
+"1570","Unknown","Young","jpeg-compression",4,"AWS",194.19801980198,269
+"1571","Unknown","Young","jpeg-compression",4,"Azure",154.265803503427,204
+"1572","Unknown","Young","jpeg-compression",4,"GCP",122.009900990099,169
+"1573","Unknown","Young","jpeg-compression",5,"AWS",154.693069306931,269
+"1574","Unknown","Young","jpeg-compression",5,"Azure",137.178217821782,204
+"1575","Unknown","Young","jpeg-compression",5,"GCP",111.80701320132,169
+"1576","Unknown","Middle","gaussian-noise",1,"AWS",15,18
+"1577","Unknown","Middle","gaussian-noise",1,"Azure",13,13
+"1578","Unknown","Middle","gaussian-noise",1,"GCP",10,12
+"1579","Unknown","Middle","gaussian-noise",2,"AWS",15,18
+"1580","Unknown","Middle","gaussian-noise",2,"Azure",13,13
+"1581","Unknown","Middle","gaussian-noise",2,"GCP",10,12
+"1582","Unknown","Middle","gaussian-noise",3,"AWS",14,18
+"1583","Unknown","Middle","gaussian-noise",3,"Azure",10,13
+"1584","Unknown","Middle","gaussian-noise",3,"GCP",10,12
+"1585","Unknown","Middle","gaussian-noise",4,"AWS",11,18
+"1586","Unknown","Middle","gaussian-noise",4,"Azure",9,13
+"1587","Unknown","Middle","gaussian-noise",4,"GCP",9,12
+"1588","Unknown","Middle","gaussian-noise",5,"AWS",8,18
+"1589","Unknown","Middle","gaussian-noise",5,"Azure",6,13
+"1590","Unknown","Middle","gaussian-noise",5,"GCP",7,12
+"1591","Unknown","Middle","shot-noise",1,"AWS",16,18
+"1592","Unknown","Middle","shot-noise",1,"Azure",13,13
+"1593","Unknown","Middle","shot-noise",1,"GCP",10,12
+"1594","Unknown","Middle","shot-noise",2,"AWS",15,18
+"1595","Unknown","Middle","shot-noise",2,"Azure",11,13
+"1596","Unknown","Middle","shot-noise",2,"GCP",9,12
+"1597","Unknown","Middle","shot-noise",3,"AWS",12,18
+"1598","Unknown","Middle","shot-noise",3,"Azure",11,13
+"1599","Unknown","Middle","shot-noise",3,"GCP",10,12
+"1600","Unknown","Middle","shot-noise",4,"AWS",11,18
+"1601","Unknown","Middle","shot-noise",4,"Azure",9,13
+"1602","Unknown","Middle","shot-noise",4,"GCP",9,12
+"1603","Unknown","Middle","shot-noise",5,"AWS",8.33333333333333,18
+"1604","Unknown","Middle","shot-noise",5,"Azure",5,13
+"1605","Unknown","Middle","shot-noise",5,"GCP",9,12
+"1606","Unknown","Middle","impulse-noise",1,"AWS",15,18
+"1607","Unknown","Middle","impulse-noise",1,"Azure",13,13
+"1608","Unknown","Middle","impulse-noise",1,"GCP",10,12
+"1609","Unknown","Middle","impulse-noise",2,"AWS",12,18
+"1610","Unknown","Middle","impulse-noise",2,"Azure",11,13
+"1611","Unknown","Middle","impulse-noise",2,"GCP",10,12
+"1612","Unknown","Middle","impulse-noise",3,"AWS",13,18
+"1613","Unknown","Middle","impulse-noise",3,"Azure",10,13
+"1614","Unknown","Middle","impulse-noise",3,"GCP",10,12
+"1615","Unknown","Middle","impulse-noise",4,"AWS",11,18
+"1616","Unknown","Middle","impulse-noise",4,"Azure",8,13
+"1617","Unknown","Middle","impulse-noise",4,"GCP",9,12
+"1618","Unknown","Middle","impulse-noise",5,"AWS",9,18
+"1619","Unknown","Middle","impulse-noise",5,"Azure",5,13
+"1620","Unknown","Middle","impulse-noise",5,"GCP",7,12
+"1621","Unknown","Middle","defocus-blur",1,"AWS",18,18
+"1622","Unknown","Middle","defocus-blur",1,"Azure",13,13
+"1623","Unknown","Middle","defocus-blur",1,"GCP",10,12
+"1624","Unknown","Middle","defocus-blur",2,"AWS",18,18
+"1625","Unknown","Middle","defocus-blur",2,"Azure",13,13
+"1626","Unknown","Middle","defocus-blur",2,"GCP",10,12
+"1627","Unknown","Middle","defocus-blur",3,"AWS",13,18
+"1628","Unknown","Middle","defocus-blur",3,"Azure",13,13
+"1629","Unknown","Middle","defocus-blur",3,"GCP",9,12
+"1630","Unknown","Middle","defocus-blur",4,"AWS",13,18
+"1631","Unknown","Middle","defocus-blur",4,"Azure",13,13
+"1632","Unknown","Middle","defocus-blur",4,"GCP",9,12
+"1633","Unknown","Middle","defocus-blur",5,"AWS",13,18
+"1634","Unknown","Middle","defocus-blur",5,"Azure",13,13
+"1635","Unknown","Middle","defocus-blur",5,"GCP",9,12
+"1636","Unknown","Middle","glass-blur",1,"AWS",17,18
+"1637","Unknown","Middle","glass-blur",1,"Azure",13,13
+"1638","Unknown","Middle","glass-blur",1,"GCP",11,12
+"1639","Unknown","Middle","glass-blur",2,"AWS",16,18
+"1640","Unknown","Middle","glass-blur",2,"Azure",13,13
+"1641","Unknown","Middle","glass-blur",2,"GCP",10,12
+"1642","Unknown","Middle","glass-blur",3,"AWS",17,18
+"1643","Unknown","Middle","glass-blur",3,"Azure",13,13
+"1644","Unknown","Middle","glass-blur",3,"GCP",10,12
+"1645","Unknown","Middle","glass-blur",4,"AWS",17,18
+"1646","Unknown","Middle","glass-blur",4,"Azure",13,13
+"1647","Unknown","Middle","glass-blur",4,"GCP",10,12
+"1648","Unknown","Middle","glass-blur",5,"AWS",17,18
+"1649","Unknown","Middle","glass-blur",5,"Azure",13,13
+"1650","Unknown","Middle","glass-blur",5,"GCP",10,12
+"1651","Unknown","Middle","motion-blur",1,"AWS",15,18
+"1652","Unknown","Middle","motion-blur",1,"Azure",13,13
+"1653","Unknown","Middle","motion-blur",1,"GCP",10,12
+"1654","Unknown","Middle","motion-blur",2,"AWS",14,18
+"1655","Unknown","Middle","motion-blur",2,"Azure",13,13
+"1656","Unknown","Middle","motion-blur",2,"GCP",10,12
+"1657","Unknown","Middle","motion-blur",3,"AWS",13,18
+"1658","Unknown","Middle","motion-blur",3,"Azure",13,13
+"1659","Unknown","Middle","motion-blur",3,"GCP",10,12
+"1660","Unknown","Middle","motion-blur",4,"AWS",11,18
+"1661","Unknown","Middle","motion-blur",4,"Azure",11,13
+"1662","Unknown","Middle","motion-blur",4,"GCP",7,12
+"1663","Unknown","Middle","motion-blur",5,"AWS",11,18
+"1664","Unknown","Middle","motion-blur",5,"Azure",11,13
+"1665","Unknown","Middle","motion-blur",5,"GCP",6,12
+"1666","Unknown","Middle","zoom-blur",1,"AWS",9,18
+"1667","Unknown","Middle","zoom-blur",1,"Azure",9,13
+"1668","Unknown","Middle","zoom-blur",1,"GCP",8,12
+"1669","Unknown","Middle","zoom-blur",2,"AWS",8,18
+"1670","Unknown","Middle","zoom-blur",2,"Azure",9,13
+"1671","Unknown","Middle","zoom-blur",2,"GCP",7,12
+"1672","Unknown","Middle","zoom-blur",3,"AWS",7,18
+"1673","Unknown","Middle","zoom-blur",3,"Azure",7,13
+"1674","Unknown","Middle","zoom-blur",3,"GCP",7,12
+"1675","Unknown","Middle","zoom-blur",4,"AWS",3,18
+"1676","Unknown","Middle","zoom-blur",4,"Azure",6,13
+"1677","Unknown","Middle","zoom-blur",4,"GCP",6,12
+"1678","Unknown","Middle","zoom-blur",5,"AWS",4,18
+"1679","Unknown","Middle","zoom-blur",5,"Azure",5,13
+"1680","Unknown","Middle","zoom-blur",5,"GCP",2,12
+"1681","Unknown","Middle","snow",1,"AWS",13,18
+"1682","Unknown","Middle","snow",1,"Azure",13,13
+"1683","Unknown","Middle","snow",1,"GCP",9,12
+"1684","Unknown","Middle","snow",2,"AWS",14,18
+"1685","Unknown","Middle","snow",2,"Azure",11,13
+"1686","Unknown","Middle","snow",2,"GCP",9,12
+"1687","Unknown","Middle","snow",3,"AWS",10,18
+"1688","Unknown","Middle","snow",3,"Azure",8,13
+"1689","Unknown","Middle","snow",3,"GCP",6,12
+"1690","Unknown","Middle","snow",4,"AWS",11,18
+"1691","Unknown","Middle","snow",4,"Azure",8,13
+"1692","Unknown","Middle","snow",4,"GCP",6,12
+"1693","Unknown","Middle","snow",5,"AWS",10,18
+"1694","Unknown","Middle","snow",5,"Azure",9,13
+"1695","Unknown","Middle","snow",5,"GCP",6,12
+"1696","Unknown","Middle","frost",1,"AWS",14,18
+"1697","Unknown","Middle","frost",1,"Azure",13,13
+"1698","Unknown","Middle","frost",1,"GCP",9,12
+"1699","Unknown","Middle","frost",2,"AWS",12,18
+"1700","Unknown","Middle","frost",2,"Azure",12,13
+"1701","Unknown","Middle","frost",2,"GCP",9,12
+"1702","Unknown","Middle","frost",3,"AWS",10,18
+"1703","Unknown","Middle","frost",3,"Azure",8,13
+"1704","Unknown","Middle","frost",3,"GCP",4,12
+"1705","Unknown","Middle","frost",4,"AWS",10,18
+"1706","Unknown","Middle","frost",4,"Azure",9,13
+"1707","Unknown","Middle","frost",4,"GCP",6,12
+"1708","Unknown","Middle","frost",5,"AWS",8,18
+"1709","Unknown","Middle","frost",5,"Azure",8,13
+"1710","Unknown","Middle","frost",5,"GCP",3,12
+"1711","Unknown","Middle","fog",1,"AWS",15,18
+"1712","Unknown","Middle","fog",1,"Azure",13,13
+"1713","Unknown","Middle","fog",1,"GCP",8,12
+"1714","Unknown","Middle","fog",2,"AWS",16,18
+"1715","Unknown","Middle","fog",2,"Azure",13,13
+"1716","Unknown","Middle","fog",2,"GCP",9,12
+"1717","Unknown","Middle","fog",3,"AWS",16,18
+"1718","Unknown","Middle","fog",3,"Azure",13,13
+"1719","Unknown","Middle","fog",3,"GCP",8,12
+"1720","Unknown","Middle","fog",4,"AWS",15,18
+"1721","Unknown","Middle","fog",4,"Azure",13,13
+"1722","Unknown","Middle","fog",4,"GCP",7,12
+"1723","Unknown","Middle","fog",5,"AWS",14,18
+"1724","Unknown","Middle","fog",5,"Azure",12,13
+"1725","Unknown","Middle","fog",5,"GCP",8,12
+"1726","Unknown","Middle","brightness",1,"AWS",18,18
+"1727","Unknown","Middle","brightness",1,"Azure",13,13
+"1728","Unknown","Middle","brightness",1,"GCP",12,12
+"1729","Unknown","Middle","brightness",2,"AWS",17,18
+"1730","Unknown","Middle","brightness",2,"Azure",13,13
+"1731","Unknown","Middle","brightness",2,"GCP",12,12
+"1732","Unknown","Middle","brightness",3,"AWS",16,18
+"1733","Unknown","Middle","brightness",3,"Azure",13,13
+"1734","Unknown","Middle","brightness",3,"GCP",10,12
+"1735","Unknown","Middle","brightness",4,"AWS",16,18
+"1736","Unknown","Middle","brightness",4,"Azure",13,13
+"1737","Unknown","Middle","brightness",4,"GCP",8,12
+"1738","Unknown","Middle","brightness",5,"AWS",16,18
+"1739","Unknown","Middle","brightness",5,"Azure",13,13
+"1740","Unknown","Middle","brightness",5,"GCP",7,12
+"1741","Unknown","Middle","contrast",1,"AWS",17,18
+"1742","Unknown","Middle","contrast",1,"Azure",13,13
+"1743","Unknown","Middle","contrast",1,"GCP",10,12
+"1744","Unknown","Middle","contrast",2,"AWS",14,18
+"1745","Unknown","Middle","contrast",2,"Azure",13,13
+"1746","Unknown","Middle","contrast",2,"GCP",10,12
+"1747","Unknown","Middle","contrast",3,"AWS",14,18
+"1748","Unknown","Middle","contrast",3,"Azure",13,13
+"1749","Unknown","Middle","contrast",3,"GCP",7,12
+"1750","Unknown","Middle","contrast",4,"AWS",11,18
+"1751","Unknown","Middle","contrast",4,"Azure",9,13
+"1752","Unknown","Middle","contrast",4,"GCP",4,12
+"1753","Unknown","Middle","contrast",5,"AWS",4,18
+"1754","Unknown","Middle","contrast",5,"Azure",7,13
+"1755","Unknown","Middle","contrast",5,"GCP",0,12
+"1756","Unknown","Middle","elastic-transform",1,"AWS",10,18
+"1757","Unknown","Middle","elastic-transform",1,"Azure",9,13
+"1758","Unknown","Middle","elastic-transform",1,"GCP",7,12
+"1759","Unknown","Middle","elastic-transform",2,"AWS",4,18
+"1760","Unknown","Middle","elastic-transform",2,"Azure",3,13
+"1761","Unknown","Middle","elastic-transform",2,"GCP",4,12
+"1762","Unknown","Middle","elastic-transform",3,"AWS",16,18
+"1763","Unknown","Middle","elastic-transform",3,"Azure",13,13
+"1764","Unknown","Middle","elastic-transform",3,"GCP",11,12
+"1765","Unknown","Middle","elastic-transform",4,"AWS",15,18
+"1766","Unknown","Middle","elastic-transform",4,"Azure",12,13
+"1767","Unknown","Middle","elastic-transform",4,"GCP",9,12
+"1768","Unknown","Middle","elastic-transform",5,"AWS",13,18
+"1769","Unknown","Middle","elastic-transform",5,"Azure",12,13
+"1770","Unknown","Middle","elastic-transform",5,"GCP",8,12
+"1771","Unknown","Middle","pixelate",1,"AWS",17,18
+"1772","Unknown","Middle","pixelate",1,"Azure",13,13
+"1773","Unknown","Middle","pixelate",1,"GCP",11,12
+"1774","Unknown","Middle","pixelate",2,"AWS",17,18
+"1775","Unknown","Middle","pixelate",2,"Azure",13,13
+"1776","Unknown","Middle","pixelate",2,"GCP",12,12
+"1777","Unknown","Middle","pixelate",3,"AWS",14,18
+"1778","Unknown","Middle","pixelate",3,"Azure",13,13
+"1779","Unknown","Middle","pixelate",3,"GCP",11,12
+"1780","Unknown","Middle","pixelate",4,"AWS",12,18
+"1781","Unknown","Middle","pixelate",4,"Azure",13,13
+"1782","Unknown","Middle","pixelate",4,"GCP",10,12
+"1783","Unknown","Middle","pixelate",5,"AWS",5.5,18
+"1784","Unknown","Middle","pixelate",5,"Azure",12,13
+"1785","Unknown","Middle","pixelate",5,"GCP",8,12
+"1786","Unknown","Middle","jpeg-compression",1,"AWS",17,18
+"1787","Unknown","Middle","jpeg-compression",1,"Azure",13,13
+"1788","Unknown","Middle","jpeg-compression",1,"GCP",12,12
+"1789","Unknown","Middle","jpeg-compression",2,"AWS",17,18
+"1790","Unknown","Middle","jpeg-compression",2,"Azure",13,13
+"1791","Unknown","Middle","jpeg-compression",2,"GCP",12,12
+"1792","Unknown","Middle","jpeg-compression",3,"AWS",18,18
+"1793","Unknown","Middle","jpeg-compression",3,"Azure",13,13
+"1794","Unknown","Middle","jpeg-compression",3,"GCP",11,12
+"1795","Unknown","Middle","jpeg-compression",4,"AWS",14,18
+"1796","Unknown","Middle","jpeg-compression",4,"Azure",13,13
+"1797","Unknown","Middle","jpeg-compression",4,"GCP",10,12
+"1798","Unknown","Middle","jpeg-compression",5,"AWS",11,18
+"1799","Unknown","Middle","jpeg-compression",5,"Azure",12,13
+"1800","Unknown","Middle","jpeg-compression",5,"GCP",9,12
+"1801","Unknown","Older","gaussian-noise",1,"AWS",692.122190082107,907
+"1802","Unknown","Older","gaussian-noise",1,"Azure",581.760831836509,757
+"1803","Unknown","Older","gaussian-noise",1,"GCP",339.002573471633,493
+"1804","Unknown","Older","gaussian-noise",2,"AWS",616.812792740047,907
+"1805","Unknown","Older","gaussian-noise",2,"Azure",471.643869189875,757
+"1806","Unknown","Older","gaussian-noise",2,"GCP",292.619035832155,492
+"1807","Unknown","Older","gaussian-noise",3,"AWS",527.375539460677,907
+"1808","Unknown","Older","gaussian-noise",3,"Azure",363.79464932214,757
+"1809","Unknown","Older","gaussian-noise",3,"GCP",237.974002043061,492
+"1810","Unknown","Older","gaussian-noise",4,"AWS",419.70402268757,907
+"1811","Unknown","Older","gaussian-noise",4,"Azure",249.723094110653,757
+"1812","Unknown","Older","gaussian-noise",4,"GCP",199.074795693855,492
+"1813","Unknown","Older","gaussian-noise",5,"AWS",292.318120700364,907
+"1814","Unknown","Older","gaussian-noise",5,"Azure",139.5,756
+"1815","Unknown","Older","gaussian-noise",5,"GCP",128.497206506365,492
+"1816","Unknown","Older","shot-noise",1,"AWS",707.609048676941,907
+"1817","Unknown","Older","shot-noise",1,"Azure",584.536907020662,757
+"1818","Unknown","Older","shot-noise",1,"GCP",349.295976740531,493
+"1819","Unknown","Older","shot-noise",2,"AWS",628.991687425117,907
+"1820","Unknown","Older","shot-noise",2,"Azure",493.021609303787,757
+"1821","Unknown","Older","shot-noise",2,"GCP",289.91588873173,492
+"1822","Unknown","Older","shot-noise",3,"AWS",529.621528519028,907
+"1823","Unknown","Older","shot-noise",3,"Azure",364.16503712029,757
+"1824","Unknown","Older","shot-noise",3,"GCP",249.126269055477,492
+"1825","Unknown","Older","shot-noise",4,"AWS",397.330233189842,907
+"1826","Unknown","Older","shot-noise",4,"Azure",232.13071012964,757
+"1827","Unknown","Older","shot-noise",4,"GCP",185.648000157159,492
+"1828","Unknown","Older","shot-noise",5,"AWS",296.670727533532,907
+"1829","Unknown","Older","shot-noise",5,"Azure",133.551155115512,756
+"1830","Unknown","Older","shot-noise",5,"GCP",135.156518151815,492
+"1831","Unknown","Older","impulse-noise",1,"AWS",643.935047700812,907
+"1832","Unknown","Older","impulse-noise",1,"Azure",570.564119098519,757
+"1833","Unknown","Older","impulse-noise",1,"GCP",307.821078893604,492
+"1834","Unknown","Older","impulse-noise",2,"AWS",574.783115362769,907
+"1835","Unknown","Older","impulse-noise",2,"Azure",459.55999776529,757
+"1836","Unknown","Older","impulse-noise",2,"GCP",270.498958824454,492
+"1837","Unknown","Older","impulse-noise",3,"AWS",517.215889418354,907
+"1838","Unknown","Older","impulse-noise",3,"Azure",384.862409359595,757
+"1839","Unknown","Older","impulse-noise",3,"GCP",233.658431557441,492
+"1840","Unknown","Older","impulse-noise",4,"AWS",410.883070716652,907
+"1841","Unknown","Older","impulse-noise",4,"Azure",255.929823654007,757
+"1842","Unknown","Older","impulse-noise",4,"GCP",196.031514222851,492
+"1843","Unknown","Older","impulse-noise",5,"AWS",291.284739534206,907
+"1844","Unknown","Older","impulse-noise",5,"Azure",145.808580858086,757
+"1845","Unknown","Older","impulse-noise",5,"GCP",132.193870815653,492
+"1846","Unknown","Older","defocus-blur",1,"AWS",696.256157511032,907
+"1847","Unknown","Older","defocus-blur",1,"Azure",648.767099121521,757
+"1848","Unknown","Older","defocus-blur",1,"GCP",319.484468804023,493
+"1849","Unknown","Older","defocus-blur",2,"AWS",637.158920397849,907
+"1850","Unknown","Older","defocus-blur",2,"Azure",598.500759161667,757
+"1851","Unknown","Older","defocus-blur",2,"GCP",267.967055634135,493
+"1852","Unknown","Older","defocus-blur",3,"AWS",545.495795623455,907
+"1853","Unknown","Older","defocus-blur",3,"Azure",501.74722055041,757
+"1854","Unknown","Older","defocus-blur",3,"GCP",191.220851013673,493
+"1855","Unknown","Older","defocus-blur",4,"AWS",475.921699538514,907
+"1856","Unknown","Older","defocus-blur",4,"Azure",438.951006955745,757
+"1857","Unknown","Older","defocus-blur",4,"GCP",157.060588558856,493
+"1858","Unknown","Older","defocus-blur",5,"AWS",418.420509550955,907
+"1859","Unknown","Older","defocus-blur",5,"Azure",371.727827124066,757
+"1860","Unknown","Older","defocus-blur",5,"GCP",148.966336633663,493
+"1861","Unknown","Older","glass-blur",1,"AWS",783.103179938932,907
+"1862","Unknown","Older","glass-blur",1,"Azure",701.833713884819,757
+"1863","Unknown","Older","glass-blur",1,"GCP",373.914772905862,493
+"1864","Unknown","Older","glass-blur",2,"AWS",745.791378709059,907
+"1865","Unknown","Older","glass-blur",2,"Azure",678.943549608866,757
+"1866","Unknown","Older","glass-blur",2,"GCP",353.767692126355,493
+"1867","Unknown","Older","glass-blur",3,"AWS",711.034808494827,907
+"1868","Unknown","Older","glass-blur",3,"Azure",656.418007146831,757
+"1869","Unknown","Older","glass-blur",3,"GCP",326.001603017445,493
+"1870","Unknown","Older","glass-blur",4,"AWS",697.089736007916,907
+"1871","Unknown","Older","glass-blur",4,"Azure",651.685200995485,757
+"1872","Unknown","Older","glass-blur",4,"GCP",316.52875216093,493
+"1873","Unknown","Older","glass-blur",5,"AWS",634.156431044454,907
+"1874","Unknown","Older","glass-blur",5,"Azure",601.985735373866,757
+"1875","Unknown","Older","glass-blur",5,"GCP",275.252604903347,493
+"1876","Unknown","Older","motion-blur",1,"AWS",685.973470697389,907
+"1877","Unknown","Older","motion-blur",1,"Azure",651.292890211261,757
+"1878","Unknown","Older","motion-blur",1,"GCP",344.160250667924,493
+"1879","Unknown","Older","motion-blur",2,"AWS",565.042797923179,907
+"1880","Unknown","Older","motion-blur",2,"Azure",554.414653084536,757
+"1881","Unknown","Older","motion-blur",2,"GCP",289.532622190791,493
+"1882","Unknown","Older","motion-blur",3,"AWS",452.823666273586,907
+"1883","Unknown","Older","motion-blur",3,"Azure",435.779833594984,757
+"1884","Unknown","Older","motion-blur",3,"GCP",224.814285714286,493
+"1885","Unknown","Older","motion-blur",4,"AWS",353.182887455412,907
+"1886","Unknown","Older","motion-blur",4,"Azure",334.337016915977,757
+"1887","Unknown","Older","motion-blur",4,"GCP",169.956836397926,493
+"1888","Unknown","Older","motion-blur",5,"AWS",308.560066006601,907
+"1889","Unknown","Older","motion-blur",5,"Azure",282.089627534182,757
+"1890","Unknown","Older","motion-blur",5,"GCP",141.051375137514,493
+"1891","Unknown","Older","zoom-blur",1,"AWS",262.723619178688,907
+"1892","Unknown","Older","zoom-blur",1,"Azure",216.684535596417,757
+"1893","Unknown","Older","zoom-blur",1,"GCP",124.303630363036,493
+"1894","Unknown","Older","zoom-blur",2,"AWS",177.003300330033,907
+"1895","Unknown","Older","zoom-blur",2,"Azure",148.864466446645,757
+"1896","Unknown","Older","zoom-blur",2,"GCP",97.779702970297,493
+"1897","Unknown","Older","zoom-blur",3,"AWS",144.869935564985,907
+"1898","Unknown","Older","zoom-blur",3,"Azure",112.937623762376,757
+"1899","Unknown","Older","zoom-blur",3,"GCP",72.2029702970297,493
+"1900","Unknown","Older","zoom-blur",4,"AWS",97.8759075907591,907
+"1901","Unknown","Older","zoom-blur",4,"Azure",84.3663366336634,757
+"1902","Unknown","Older","zoom-blur",4,"GCP",59.6732673267327,493
+"1903","Unknown","Older","zoom-blur",5,"AWS",78.2085808580858,907
+"1904","Unknown","Older","zoom-blur",5,"Azure",59.7227722772277,757
+"1905","Unknown","Older","zoom-blur",5,"GCP",42.7920792079208,493
+"1906","Unknown","Older","snow",1,"AWS",631.29334755607,907
+"1907","Unknown","Older","snow",1,"Azure",591.359267300356,757
+"1908","Unknown","Older","snow",1,"GCP",265.032288228823,493
+"1909","Unknown","Older","snow",2,"AWS",513.382591147348,907
+"1910","Unknown","Older","snow",2,"Azure",438.145643937827,757
+"1911","Unknown","Older","snow",2,"GCP",195.670379537954,493
+"1912","Unknown","Older","snow",3,"AWS",488.490018938253,907
+"1913","Unknown","Older","snow",3,"Azure",447.327626759987,757
+"1914","Unknown","Older","snow",3,"GCP",158.942071349992,493
+"1915","Unknown","Older","snow",4,"AWS",401.500792660562,907
+"1916","Unknown","Older","snow",4,"Azure",358.388358720487,757
+"1917","Unknown","Older","snow",4,"GCP",104.805476976269,493
+"1918","Unknown","Older","snow",5,"AWS",430.171590667133,907
+"1919","Unknown","Older","snow",5,"Azure",362.297427390823,757
+"1920","Unknown","Older","snow",5,"GCP",120.652101995914,493
+"1921","Unknown","Older","frost",1,"AWS",696.094033928339,907
+"1922","Unknown","Older","frost",1,"Azure",596.322883167263,757
+"1923","Unknown","Older","frost",1,"GCP",322.584036617948,493
+"1924","Unknown","Older","frost",2,"AWS",569.650394244879,907
+"1925","Unknown","Older","frost",2,"Azure",478.396632971568,757
+"1926","Unknown","Older","frost",2,"GCP",225.557024988213,493
+"1927","Unknown","Older","frost",3,"AWS",486.22582268387,907
+"1928","Unknown","Older","frost",3,"Azure",404.479420880342,757
+"1929","Unknown","Older","frost",3,"GCP",169.689195348106,493
+"1930","Unknown","Older","frost",4,"AWS",448.370423636058,907
+"1931","Unknown","Older","frost",4,"Azure",396.301193057768,757
+"1932","Unknown","Older","frost",4,"GCP",155.059567028131,493
+"1933","Unknown","Older","frost",5,"AWS",401.676917361734,907
+"1934","Unknown","Older","frost",5,"Azure",345.057466959286,757
+"1935","Unknown","Older","frost",5,"GCP",121.635490334748,493
+"1936","Unknown","Older","fog",1,"AWS",734.953058701156,907
+"1937","Unknown","Older","fog",1,"Azure",639.607176998821,757
+"1938","Unknown","Older","fog",1,"GCP",289.498349834984,493
+"1939","Unknown","Older","fog",2,"AWS",696.851939318751,907
+"1940","Unknown","Older","fog",2,"Azure",611.712902290687,757
+"1941","Unknown","Older","fog",2,"GCP",272.603331761748,493
+"1942","Unknown","Older","fog",3,"AWS",677.664548265021,907
+"1943","Unknown","Older","fog",3,"Azure",585.346670185765,757
+"1944","Unknown","Older","fog",3,"GCP",247.363118811881,493
+"1945","Unknown","Older","fog",4,"AWS",672.5414131279,907
+"1946","Unknown","Older","fog",4,"Azure",594.724845377395,757
+"1947","Unknown","Older","fog",4,"GCP",237.273200534339,493
+"1948","Unknown","Older","fog",5,"AWS",646.28730525988,907
+"1949","Unknown","Older","fog",5,"Azure",551.789401207816,757
+"1950","Unknown","Older","fog",5,"GCP",208.782967939651,493
+"1951","Unknown","Older","brightness",1,"AWS",837.494544301218,907
+"1952","Unknown","Older","brightness",1,"Azure",717.773463313654,757
+"1953","Unknown","Older","brightness",1,"GCP",407.876551940908,493
+"1954","Unknown","Older","brightness",2,"AWS",808.969613886012,907
+"1955","Unknown","Older","brightness",2,"Azure",693.056254161263,757
+"1956","Unknown","Older","brightness",2,"GCP",379.704082193934,493
+"1957","Unknown","Older","brightness",3,"AWS",765.264276772089,907
+"1958","Unknown","Older","brightness",3,"Azure",670.4727671634,757
+"1959","Unknown","Older","brightness",3,"GCP",342.206887474462,493
+"1960","Unknown","Older","brightness",4,"AWS",722.570171587385,907
+"1961","Unknown","Older","brightness",4,"Azure",633.331198514588,757
+"1962","Unknown","Older","brightness",4,"GCP",296.608262611975,493
+"1963","Unknown","Older","brightness",5,"AWS",686.123623828785,907
+"1964","Unknown","Older","brightness",5,"Azure",577.191571441702,757
+"1965","Unknown","Older","brightness",5,"GCP",265.580641992771,493
+"1966","Unknown","Older","contrast",1,"AWS",727.727371405581,907
+"1967","Unknown","Older","contrast",1,"Azure",642.917425228706,757
+"1968","Unknown","Older","contrast",1,"GCP",291.955700927236,493
+"1969","Unknown","Older","contrast",2,"AWS",676.173553160576,907
+"1970","Unknown","Older","contrast",2,"Azure",604.163219812547,757
+"1971","Unknown","Older","contrast",2,"GCP",259.715609775263,493
+"1972","Unknown","Older","contrast",3,"AWS",607.721665521028,907
+"1973","Unknown","Older","contrast",3,"Azure",530.139841415414,757
+"1974","Unknown","Older","contrast",3,"GCP",195.353547854785,493
+"1975","Unknown","Older","contrast",4,"AWS",456.783789151378,907
+"1976","Unknown","Older","contrast",4,"Azure",383.701880188019,757
+"1977","Unknown","Older","contrast",4,"GCP",90.8439415370108,493
+"1978","Unknown","Older","contrast",5,"AWS",231.500571210967,907
+"1979","Unknown","Older","contrast",5,"Azure",193.89603960396,757
+"1980","Unknown","Older","contrast",5,"GCP",7.35643564356436,493
+"1981","Unknown","Older","elastic-transform",1,"AWS",267.207048424141,907
+"1982","Unknown","Older","elastic-transform",1,"Azure",272.715346534653,757
+"1983","Unknown","Older","elastic-transform",1,"GCP",144.301131541726,493
+"1984","Unknown","Older","elastic-transform",2,"AWS",116.372950174436,907
+"1985","Unknown","Older","elastic-transform",2,"Azure",106.174752475248,757
+"1986","Unknown","Older","elastic-transform",2,"GCP",68.4609853842527,493
+"1987","Unknown","Older","elastic-transform",3,"AWS",552.053198208993,907
+"1988","Unknown","Older","elastic-transform",3,"Azure",535.618254756481,757
+"1989","Unknown","Older","elastic-transform",3,"GCP",305.808168316832,493
+"1990","Unknown","Older","elastic-transform",4,"AWS",499.885688988274,907
+"1991","Unknown","Older","elastic-transform",4,"Azure",490.72368908504,757
+"1992","Unknown","Older","elastic-transform",4,"GCP",270.94545811724,493
+"1993","Unknown","Older","elastic-transform",5,"AWS",350.879093416122,907
+"1994","Unknown","Older","elastic-transform",5,"Azure",376.99240153391,757
+"1995","Unknown","Older","elastic-transform",5,"GCP",198.825927235581,493
+"1996","Unknown","Older","pixelate",1,"AWS",801.719157905407,907
+"1997","Unknown","Older","pixelate",1,"Azure",713.115550753636,757
+"1998","Unknown","Older","pixelate",1,"GCP",401.689749332076,493
+"1999","Unknown","Older","pixelate",2,"AWS",731.144882459594,907
+"2000","Unknown","Older","pixelate",2,"Azure",671.334036103101,757
+"2001","Unknown","Older","pixelate",2,"GCP",362.262034417727,493
+"2002","Unknown","Older","pixelate",3,"AWS",617.909932270564,907
+"2003","Unknown","Older","pixelate",3,"Azure",618.911947714289,757
+"2004","Unknown","Older","pixelate",3,"GCP",316.146137828069,493
+"2005","Unknown","Older","pixelate",4,"AWS",430.618858786232,907
+"2006","Unknown","Older","pixelate",4,"Azure",503.950608522391,757
+"2007","Unknown","Older","pixelate",4,"GCP",236.576748389125,493
+"2008","Unknown","Older","pixelate",5,"AWS",183,907
+"2009","Unknown","Older","pixelate",5,"Azure",307.602640264026,757
+"2010","Unknown","Older","pixelate",5,"GCP",114.326402640264,493
+"2011","Unknown","Older","jpeg-compression",1,"AWS",784.591353694429,907
+"2012","Unknown","Older","jpeg-compression",1,"Azure",672.599948984284,757
+"2013","Unknown","Older","jpeg-compression",1,"GCP",384.942373880245,493
+"2014","Unknown","Older","jpeg-compression",2,"AWS",747.407976459361,907
+"2015","Unknown","Older","jpeg-compression",2,"Azure",655.702707007243,757
+"2016","Unknown","Older","jpeg-compression",2,"GCP",379.597108282257,493
+"2017","Unknown","Older","jpeg-compression",3,"AWS",719.46398280234,907
+"2018","Unknown","Older","jpeg-compression",3,"Azure",622.876964748225,757
+"2019","Unknown","Older","jpeg-compression",3,"GCP",370.532508250825,493
+"2020","Unknown","Older","jpeg-compression",4,"AWS",636.196616489952,907
+"2021","Unknown","Older","jpeg-compression",4,"Azure",579.70628482844,757
+"2022","Unknown","Older","jpeg-compression",4,"GCP",330.43131384567,493
+"2023","Unknown","Older","jpeg-compression",5,"AWS",538.247719158312,907
+"2024","Unknown","Older","jpeg-compression",5,"Azure",514.50915541891,757
+"2025","Unknown","Older","jpeg-compression",5,"GCP",290.308812666981,493
+"2026","Unknown","Unknown","gaussian-noise",1,"AWS",1292.55445544554,1372
+"2027","Unknown","Unknown","gaussian-noise",1,"Azure",1180.10891089109,1317
+"2028","Unknown","Unknown","gaussian-noise",1,"GCP",1192.71947194719,1281
+"2029","Unknown","Unknown","gaussian-noise",2,"AWS",1246.65346534653,1372
+"2030","Unknown","Unknown","gaussian-noise",2,"Azure",1104.41089108911,1317
+"2031","Unknown","Unknown","gaussian-noise",2,"GCP",1140.9702970297,1281
+"2032","Unknown","Unknown","gaussian-noise",3,"AWS",1170.81683168317,1372
+"2033","Unknown","Unknown","gaussian-noise",3,"Azure",961.70297029703,1317
+"2034","Unknown","Unknown","gaussian-noise",3,"GCP",1070.86633663366,1281
+"2035","Unknown","Unknown","gaussian-noise",4,"AWS",1070.35396039604,1372
+"2036","Unknown","Unknown","gaussian-noise",4,"Azure",767.871287128713,1317
+"2037","Unknown","Unknown","gaussian-noise",4,"GCP",950.361386138614,1281
+"2038","Unknown","Unknown","gaussian-noise",5,"AWS",792.79702970297,1372
+"2039","Unknown","Unknown","gaussian-noise",5,"Azure",478.029702970297,1317
+"2040","Unknown","Unknown","gaussian-noise",5,"GCP",686.186468646865,1281
+"2041","Unknown","Unknown","shot-noise",1,"AWS",1300.89603960396,1372
+"2042","Unknown","Unknown","shot-noise",1,"Azure",1191.63531353135,1317
+"2043","Unknown","Unknown","shot-noise",1,"GCP",1205.89504950495,1281
+"2044","Unknown","Unknown","shot-noise",2,"AWS",1243.07425742574,1372
+"2045","Unknown","Unknown","shot-noise",2,"Azure",1085.41584158416,1317
+"2046","Unknown","Unknown","shot-noise",2,"GCP",1136.71122112211,1281
+"2047","Unknown","Unknown","shot-noise",3,"AWS",1173.04257425743,1372
+"2048","Unknown","Unknown","shot-noise",3,"Azure",943.207920792079,1317
+"2049","Unknown","Unknown","shot-noise",3,"GCP",1055.19801980198,1281
+"2050","Unknown","Unknown","shot-noise",4,"AWS",1020.66171617162,1372
+"2051","Unknown","Unknown","shot-noise",4,"Azure",695.871287128713,1317
+"2052","Unknown","Unknown","shot-noise",4,"GCP",878.534653465347,1281
+"2053","Unknown","Unknown","shot-noise",5,"AWS",829.946369636964,1372
+"2054","Unknown","Unknown","shot-noise",5,"Azure",503.534653465347,1317
+"2055","Unknown","Unknown","shot-noise",5,"GCP",673.029702970297,1281
+"2056","Unknown","Unknown","impulse-noise",1,"AWS",1269.13861386139,1372
+"2057","Unknown","Unknown","impulse-noise",1,"Azure",1181.26237623762,1317
+"2058","Unknown","Unknown","impulse-noise",1,"GCP",1182.42079207921,1281
+"2059","Unknown","Unknown","impulse-noise",2,"AWS",1227.76567656766,1372
+"2060","Unknown","Unknown","impulse-noise",2,"Azure",1077.56270627063,1317
+"2061","Unknown","Unknown","impulse-noise",2,"GCP",1129.67821782178,1281
+"2062","Unknown","Unknown","impulse-noise",3,"AWS",1179.57425742574,1372
+"2063","Unknown","Unknown","impulse-noise",3,"Azure",1000.20792079208,1317
+"2064","Unknown","Unknown","impulse-noise",3,"GCP",1095.5297029703,1281
+"2065","Unknown","Unknown","impulse-noise",4,"AWS",1044.73432343234,1372
+"2066","Unknown","Unknown","impulse-noise",4,"Azure",784.371287128713,1317
+"2067","Unknown","Unknown","impulse-noise",4,"GCP",955.024752475248,1281
+"2068","Unknown","Unknown","impulse-noise",5,"AWS",852.709570957096,1372
+"2069","Unknown","Unknown","impulse-noise",5,"Azure",546.534653465347,1317
+"2070","Unknown","Unknown","impulse-noise",5,"GCP",703.524752475248,1281
+"2071","Unknown","Unknown","defocus-blur",1,"AWS",1321.72772277228,1372
+"2072","Unknown","Unknown","defocus-blur",1,"Azure",1270.12376237624,1317
+"2073","Unknown","Unknown","defocus-blur",1,"GCP",1203.73267326733,1281
+"2074","Unknown","Unknown","defocus-blur",2,"AWS",1304.74158415842,1372
+"2075","Unknown","Unknown","defocus-blur",2,"Azure",1246.36468646865,1317
+"2076","Unknown","Unknown","defocus-blur",2,"GCP",1157.42079207921,1281
+"2077","Unknown","Unknown","defocus-blur",3,"AWS",1254.43399339934,1372
+"2078","Unknown","Unknown","defocus-blur",3,"Azure",1159.86303630363,1317
+"2079","Unknown","Unknown","defocus-blur",3,"GCP",1066.57425742574,1281
+"2080","Unknown","Unknown","defocus-blur",4,"AWS",1189.32178217822,1372
+"2081","Unknown","Unknown","defocus-blur",4,"Azure",1095.18811881188,1317
+"2082","Unknown","Unknown","defocus-blur",4,"GCP",987.683168316832,1281
+"2083","Unknown","Unknown","defocus-blur",5,"AWS",1127.89438943894,1372
+"2084","Unknown","Unknown","defocus-blur",5,"Azure",1036.78465346535,1317
+"2085","Unknown","Unknown","defocus-blur",5,"GCP",884.678217821782,1281
+"2086","Unknown","Unknown","glass-blur",1,"AWS",1347.52722772277,1372
+"2087","Unknown","Unknown","glass-blur",1,"Azure",1297.17326732673,1317
+"2088","Unknown","Unknown","glass-blur",1,"GCP",1240.01485148515,1281
+"2089","Unknown","Unknown","glass-blur",2,"AWS",1337.4801980198,1372
+"2090","Unknown","Unknown","glass-blur",2,"Azure",1289.51485148515,1317
+"2091","Unknown","Unknown","glass-blur",2,"GCP",1224.90594059406,1281
+"2092","Unknown","Unknown","glass-blur",3,"AWS",1332.40099009901,1372
+"2093","Unknown","Unknown","glass-blur",3,"Azure",1283.5297029703,1317
+"2094","Unknown","Unknown","glass-blur",3,"GCP",1220.84455445545,1281
+"2095","Unknown","Unknown","glass-blur",4,"AWS",1330.13366336634,1372
+"2096","Unknown","Unknown","glass-blur",4,"Azure",1272.83168316832,1317
+"2097","Unknown","Unknown","glass-blur",4,"GCP",1206.30693069307,1281
+"2098","Unknown","Unknown","glass-blur",5,"AWS",1311.92079207921,1372
+"2099","Unknown","Unknown","glass-blur",5,"Azure",1251.13366336634,1317
+"2100","Unknown","Unknown","glass-blur",5,"GCP",1169.09900990099,1281
+"2101","Unknown","Unknown","motion-blur",1,"AWS",1328.29207920792,1372
+"2102","Unknown","Unknown","motion-blur",1,"Azure",1278.0198019802,1317
+"2103","Unknown","Unknown","motion-blur",1,"GCP",1214.40099009901,1281
+"2104","Unknown","Unknown","motion-blur",2,"AWS",1284.6303630363,1372
+"2105","Unknown","Unknown","motion-blur",2,"Azure",1234.93069306931,1317
+"2106","Unknown","Unknown","motion-blur",2,"GCP",1173.87128712871,1281
+"2107","Unknown","Unknown","motion-blur",3,"AWS",1190.62871287129,1372
+"2108","Unknown","Unknown","motion-blur",3,"Azure",1120.0396039604,1317
+"2109","Unknown","Unknown","motion-blur",3,"GCP",1089.0198019802,1281
+"2110","Unknown","Unknown","motion-blur",4,"AWS",1060.20792079208,1372
+"2111","Unknown","Unknown","motion-blur",4,"Azure",1009.69801980198,1317
+"2112","Unknown","Unknown","motion-blur",4,"GCP",981.188118811881,1281
+"2113","Unknown","Unknown","motion-blur",5,"AWS",981.960396039604,1372
+"2114","Unknown","Unknown","motion-blur",5,"Azure",901.945544554455,1317
+"2115","Unknown","Unknown","motion-blur",5,"GCP",861.356435643564,1281
+"2116","Unknown","Unknown","zoom-blur",1,"AWS",877.861386138614,1372
+"2117","Unknown","Unknown","zoom-blur",1,"Azure",771.792079207921,1317
+"2118","Unknown","Unknown","zoom-blur",1,"GCP",826.930693069307,1281
+"2119","Unknown","Unknown","zoom-blur",2,"AWS",684.346534653465,1372
+"2120","Unknown","Unknown","zoom-blur",2,"Azure",555.029702970297,1317
+"2121","Unknown","Unknown","zoom-blur",2,"GCP",696.356435643564,1281
+"2122","Unknown","Unknown","zoom-blur",3,"AWS",596.009900990099,1372
+"2123","Unknown","Unknown","zoom-blur",3,"Azure",474.019801980198,1317
+"2124","Unknown","Unknown","zoom-blur",3,"GCP",571.356435643564,1281
+"2125","Unknown","Unknown","zoom-blur",4,"AWS",429.009900990099,1372
+"2126","Unknown","Unknown","zoom-blur",4,"Azure",346.514851485149,1317
+"2127","Unknown","Unknown","zoom-blur",4,"GCP",463.009900990099,1281
+"2128","Unknown","Unknown","zoom-blur",5,"AWS",383.009900990099,1372
+"2129","Unknown","Unknown","zoom-blur",5,"Azure",285.514851485149,1317
+"2130","Unknown","Unknown","zoom-blur",5,"GCP",364.009900990099,1281
+"2131","Unknown","Unknown","snow",1,"AWS",1210.0297029703,1372
+"2132","Unknown","Unknown","snow",1,"Azure",1185.87623762376,1317
+"2133","Unknown","Unknown","snow",1,"GCP",1084.11881188119,1281
+"2134","Unknown","Unknown","snow",2,"AWS",1105.46534653465,1372
+"2135","Unknown","Unknown","snow",2,"Azure",1056.31683168317,1317
+"2136","Unknown","Unknown","snow",2,"GCP",955.029702970297,1281
+"2137","Unknown","Unknown","snow",3,"AWS",1035.45214521452,1372
+"2138","Unknown","Unknown","snow",3,"Azure",1045.60396039604,1317
+"2139","Unknown","Unknown","snow",3,"GCP",803.029702970297,1281
+"2140","Unknown","Unknown","snow",4,"AWS",893.465346534653,1372
+"2141","Unknown","Unknown","snow",4,"Azure",911.415841584158,1317
+"2142","Unknown","Unknown","snow",4,"GCP",551.019801980198,1281
+"2143","Unknown","Unknown","snow",5,"AWS",973.075907590759,1372
+"2144","Unknown","Unknown","snow",5,"Azure",922.915841584158,1317
+"2145","Unknown","Unknown","snow",5,"GCP",720.514851485148,1281
+"2146","Unknown","Unknown","frost",1,"AWS",1267.64851485149,1372
+"2147","Unknown","Unknown","frost",1,"Azure",1203.0297029703,1317
+"2148","Unknown","Unknown","frost",1,"GCP",1128.00330033003,1281
+"2149","Unknown","Unknown","frost",2,"AWS",1113.80693069307,1372
+"2150","Unknown","Unknown","frost",2,"Azure",1076.05280528053,1317
+"2151","Unknown","Unknown","frost",2,"GCP",908.821782178218,1281
+"2152","Unknown","Unknown","frost",3,"AWS",972.290429042904,1372
+"2153","Unknown","Unknown","frost",3,"Azure",959.252475247525,1317
+"2154","Unknown","Unknown","frost",3,"GCP",705.524752475248,1281
+"2155","Unknown","Unknown","frost",4,"AWS",947.475247524752,1372
+"2156","Unknown","Unknown","frost",4,"Azure",928.311881188119,1317
+"2157","Unknown","Unknown","frost",4,"GCP",665.752475247525,1281
+"2158","Unknown","Unknown","frost",5,"AWS",840.087458745875,1372
+"2159","Unknown","Unknown","frost",5,"Azure",849.584158415842,1317
+"2160","Unknown","Unknown","frost",5,"GCP",537.019801980198,1281
+"2161","Unknown","Unknown","fog",1,"AWS",1324.88118811881,1372
+"2162","Unknown","Unknown","fog",1,"Azure",1259.87128712871,1317
+"2163","Unknown","Unknown","fog",1,"GCP",1118.0495049505,1281
+"2164","Unknown","Unknown","fog",2,"AWS",1310.05940594059,1372
+"2165","Unknown","Unknown","fog",2,"Azure",1234.5297029703,1317
+"2166","Unknown","Unknown","fog",2,"GCP",1065.06930693069,1281
+"2167","Unknown","Unknown","fog",3,"AWS",1286.72277227723,1372
+"2168","Unknown","Unknown","fog",3,"Azure",1219.36633663366,1317
+"2169","Unknown","Unknown","fog",3,"GCP",1009.28712871287,1281
+"2170","Unknown","Unknown","fog",4,"AWS",1289.22772277228,1372
+"2171","Unknown","Unknown","fog",4,"Azure",1210.88613861386,1317
+"2172","Unknown","Unknown","fog",4,"GCP",986.212871287129,1281
+"2173","Unknown","Unknown","fog",5,"AWS",1255.13861386139,1372
+"2174","Unknown","Unknown","fog",5,"Azure",1166.80693069307,1317
+"2175","Unknown","Unknown","fog",5,"GCP",896.252475247525,1281
+"2176","Unknown","Unknown","brightness",1,"AWS",1355.79207920792,1372
+"2177","Unknown","Unknown","brightness",1,"Azure",1297.88778877888,1317
+"2178","Unknown","Unknown","brightness",1,"GCP",1257.87128712871,1281
+"2179","Unknown","Unknown","brightness",2,"AWS",1344.5396039604,1372
+"2180","Unknown","Unknown","brightness",2,"Azure",1289.52475247525,1317
+"2181","Unknown","Unknown","brightness",2,"GCP",1230.68481848185,1281
+"2182","Unknown","Unknown","brightness",3,"AWS",1332.80198019802,1372
+"2183","Unknown","Unknown","brightness",3,"Azure",1271.69306930693,1317
+"2184","Unknown","Unknown","brightness",3,"GCP",1188.14059405941,1281
+"2185","Unknown","Unknown","brightness",4,"AWS",1314.25907590759,1372
+"2186","Unknown","Unknown","brightness",4,"Azure",1253.06600660066,1317
+"2187","Unknown","Unknown","brightness",4,"GCP",1150.01320132013,1281
+"2188","Unknown","Unknown","brightness",5,"AWS",1305.89108910891,1372
+"2189","Unknown","Unknown","brightness",5,"Azure",1216.91749174917,1317
+"2190","Unknown","Unknown","brightness",5,"GCP",1066.38613861386,1281
+"2191","Unknown","Unknown","contrast",1,"AWS",1322.39603960396,1372
+"2192","Unknown","Unknown","contrast",1,"Azure",1252.69306930693,1317
+"2193","Unknown","Unknown","contrast",1,"GCP",1130.68069306931,1281
+"2194","Unknown","Unknown","contrast",2,"AWS",1302.47524752475,1372
+"2195","Unknown","Unknown","contrast",2,"Azure",1217.36138613861,1317
+"2196","Unknown","Unknown","contrast",2,"GCP",1037.66089108911,1281
+"2197","Unknown","Unknown","contrast",3,"AWS",1244.89603960396,1372
+"2198","Unknown","Unknown","contrast",3,"Azure",1147.01485148515,1317
+"2199","Unknown","Unknown","contrast",3,"GCP",900.90099009901,1281
+"2200","Unknown","Unknown","contrast",4,"AWS",1040.9801980198,1372
+"2201","Unknown","Unknown","contrast",4,"Azure",958.20297029703,1317
+"2202","Unknown","Unknown","contrast",4,"GCP",413.019801980198,1281
+"2203","Unknown","Unknown","contrast",5,"AWS",620.36303630363,1372
+"2204","Unknown","Unknown","contrast",5,"Azure",544.866336633663,1317
+"2205","Unknown","Unknown","contrast",5,"GCP",44,1281
+"2206","Unknown","Unknown","elastic-transform",1,"AWS",766.871287128713,1372
+"2207","Unknown","Unknown","elastic-transform",1,"Azure",757.356435643564,1317
+"2208","Unknown","Unknown","elastic-transform",1,"GCP",857.574257425743,1281
+"2209","Unknown","Unknown","elastic-transform",2,"AWS",373.524752475248,1372
+"2210","Unknown","Unknown","elastic-transform",2,"Azure",388.019801980198,1317
+"2211","Unknown","Unknown","elastic-transform",2,"GCP",505.514851485149,1281
+"2212","Unknown","Unknown","elastic-transform",3,"AWS",1268.82772277228,1372
+"2213","Unknown","Unknown","elastic-transform",3,"Azure",1236.7095709571,1317
+"2214","Unknown","Unknown","elastic-transform",3,"GCP",1205.85148514851,1281
+"2215","Unknown","Unknown","elastic-transform",4,"AWS",1249.14851485149,1372
+"2216","Unknown","Unknown","elastic-transform",4,"Azure",1216.0396039604,1317
+"2217","Unknown","Unknown","elastic-transform",4,"GCP",1169.27227722772,1281
+"2218","Unknown","Unknown","elastic-transform",5,"AWS",1120.80198019802,1372
+"2219","Unknown","Unknown","elastic-transform",5,"Azure",1100.87128712871,1317
+"2220","Unknown","Unknown","elastic-transform",5,"GCP",1090.52475247525,1281
+"2221","Unknown","Unknown","pixelate",1,"AWS",1347.70297029703,1372
+"2222","Unknown","Unknown","pixelate",1,"Azure",1303.50495049505,1317
+"2223","Unknown","Unknown","pixelate",1,"GCP",1247.58415841584,1281
+"2224","Unknown","Unknown","pixelate",2,"AWS",1329.38613861386,1372
+"2225","Unknown","Unknown","pixelate",2,"Azure",1292.0099009901,1317
+"2226","Unknown","Unknown","pixelate",2,"GCP",1229.12004950495,1281
+"2227","Unknown","Unknown","pixelate",3,"AWS",1281.94851485149,1372
+"2228","Unknown","Unknown","pixelate",3,"Azure",1266.78217821782,1317
+"2229","Unknown","Unknown","pixelate",3,"GCP",1188.38118811881,1281
+"2230","Unknown","Unknown","pixelate",4,"AWS",1155.63861386139,1372
+"2231","Unknown","Unknown","pixelate",4,"Azure",1177.26237623762,1317
+"2232","Unknown","Unknown","pixelate",4,"GCP",1106.67326732673,1281
+"2233","Unknown","Unknown","pixelate",5,"AWS",653.524752475248,1372
+"2234","Unknown","Unknown","pixelate",5,"Azure",941.376237623762,1317
+"2235","Unknown","Unknown","pixelate",5,"GCP",828.351485148515,1281
+"2236","Unknown","Unknown","jpeg-compression",1,"AWS",1342.12871287129,1372
+"2237","Unknown","Unknown","jpeg-compression",1,"Azure",1286.82673267327,1317
+"2238","Unknown","Unknown","jpeg-compression",1,"GCP",1249.45120226308,1281
+"2239","Unknown","Unknown","jpeg-compression",2,"AWS",1322.64356435644,1372
+"2240","Unknown","Unknown","jpeg-compression",2,"Azure",1261.65346534653,1317
+"2241","Unknown","Unknown","jpeg-compression",2,"GCP",1235.62326732673,1281
+"2242","Unknown","Unknown","jpeg-compression",3,"AWS",1314.80198019802,1372
+"2243","Unknown","Unknown","jpeg-compression",3,"Azure",1246.85643564356,1317
+"2244","Unknown","Unknown","jpeg-compression",3,"GCP",1231.15099009901,1281
+"2245","Unknown","Unknown","jpeg-compression",4,"AWS",1266.9900990099,1372
+"2246","Unknown","Unknown","jpeg-compression",4,"Azure",1192.10891089109,1317
+"2247","Unknown","Unknown","jpeg-compression",4,"GCP",1192.80198019802,1281
+"2248","Unknown","Unknown","jpeg-compression",5,"AWS",1184,1372
+"2249","Unknown","Unknown","jpeg-compression",5,"Azure",1137.04290429043,1317
+"2250","Unknown","Unknown","jpeg-compression",5,"GCP",1155.89603960396,1281
