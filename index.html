@@ -1,196 +1,127 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" path1tent=
-        "width=device-width,initial-scale=1.0">
-</head>
-
-<body>
-    <script src=
-        "https://d3js.org/d3.v4.min.js">
-    </script>
     <!-- Load c3.css -->
-    <link href="./c3-0.7.20/c3.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.20/c3.css"
+      integrity="sha512-GQSxWe9Cj4o4EduO7zO9HjULmD4olIjiQqZ7VJuwBxZlkWaUFGCxRkn39jYnD2xZBtEilm0m4WBG7YEmQuMs5Q=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./styles.css" />
 
     <!-- Load d3.js and c3.js -->
-    <script src="./c3-0.7.20/c3.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"
+      integrity="sha512-RJJ1NNC88QhN7dwpCY8rm/6OxI+YdQP48DrLGe/eSAd+n+s1PXwQkkpzzAgoJe4cZFW2GALQoxox61gSY2yQfg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+      defer
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.20/c3.min.js"
+      integrity="sha512-+IpCthlNahOuERYUSnKFjzjdKXIbJ/7Dd6xvUp+7bEw0Jp2dg6tluyxLs+zq9BMzZgrLv8886T4cBSqnKiVgUw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+      defer
+    ></script>
 
-    <div id="chart"></div>
-    Age<label class="switch">
-      <input type="checkbox" class="age">
-      <span class="slider"></span>
-    </label><br>
-    Gender<label class="switch">
-      <input type="checkbox" class="gender">
-      <span class="slider"></span>
-    </label><br>
-    Service<label class="switch">
-      <input type="checkbox" class="service">
-      <span class="slider"></span>
-    </label><br>
-    Corruption<label class="switch">
-      <input type="checkbox" class="corruption">
-      <span class="slider"></span>
-    </label><br>
-    Severity<label class="switch">
-      <input type="checkbox" class="severity">
-      <span class="slider"></span>
-    </label><br>
-    <button onclick="updateView();">Update</button>
+    <!-- Bootstrap 5 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+      defer
+    ></script>
 
+    <!-- Generate the plots -->
+    <script src="./script.js" defer></script>
+  </head>
 
-    <script>
-    var utk_data = null;
-    var utk_header = null;
-    var chart = null;
+  <body>
+    <div class="container">
+      <h1>
+        Result Exploration of ""
+        <!-- to be filled in with paper title -->
+      </h1>
+      <div class="row">
+        <div class="col-sm-12 col-md-8" id="chart"></div>
+        <div class="col-sm-12 col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Breakdowns</h5>
+              <h6 class="card-subtitle mb-2 text-muted">
+                Click different checkboxes to see breakdowns across the selected
+                intersection
+              </h6>
 
-    $(document).ready(function() {
-      $('.gender').attr('checked', true);
-      $('.service').attr('checked', true);
-      $.ajax({
-        url: 'web_utk_ap075.csv',
-        dataType: 'text',
-      }).done(load_utk_succes);
-    });
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input class="form-check-input" type="checkbox" id="age" />
+                </div>
+                <label class="form-control" for="age">Age</label>
+              </div>
 
-    $.ajax({
-      url: 'web_utk_ap075.csv',
-      dataType: 'text',
-    }).done(load_utk_succes);
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="gender"
+                    checked
+                  />
+                </div>
+                <label class="form-control" for="gender">Gender</label>
+              </div>
 
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="service"
+                    checked
+                  />
+                </div>
+                <label class="form-control" for="service">Service</label>
+              </div>
 
-    var utk = {
-      'Corruption': ["gaussian-noise","shot-noise","impulse-noise",
-                                                    "defocus-blur","glass-blur","motion-blur","zoom-blur",
-                                                    "snow","frost","fog","brightness",
-                                                    "contrast","elastic-transform","pixelate","jpeg-compression"],
-      'Service': ['AWS', 'Azure', 'GCP'],
-      'Age': ['0-18','19-45','45-64','65+'],
-      'Gender': ['Female', 'Male'],
-      'Severity': ['1','2','3','4','5'],
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="corruption"
+                  />
+                </div>
+                <label class="form-control" for="corruption">Corruption</label>
+              </div>
 
-    }
-
-
-    function load_utk_succes(data) {
-      utk_data = data.replaceAll('"','').split(/\r?\n|\r/);
-      utk_header = utk_data[0].split(',');
-      create_utk_plot();
-    }
-
-    function process_buttons(){
-      // get what buttons are turned on
-      age_checked = $('.age').is(":checked");
-      gender_checked = $('.gender').is(":checked");
-      service_checked = $('.service').is(":checked");
-      corruption_checked = $('.corruption').is(":checked");
-      severity_checked = $('.severity').is(":checked");
-      return [age_checked, gender_checked, service_checked, corruption_checked, severity_checked];
-    }
-
-    function get_x_axis_utk(age_checked, gender_checked, service_checked, corruption_checked, severity_checked){
-      // determine what the x axis will be
-      if (age_checked) {
-        return ['Age', utk['Age'].length]
-      }
-      if (gender_checked){
-        return ['Gender', utk['Gender'].length]
-      }
-      if (service_checked) {
-        return ['Service', utk['Service'].length]
-      }
-      if (corruption_checked){
-        return ['Corruption', utk['Corruption'].length]
-      }
-      if (severity_checked) {
-        return ['Severity', utk['Severity'].length]
-      }
-      return ['',1]
-    }
-
-    function create_utk_plot() {
-      var ds = utk;
-      var ds_header = utk_header;
-      [age_checked, gender_checked, service_checked, corruption_checked, severity_checked] = process_buttons();
-      [x_axis,x_length] = get_x_axis_utk(age_checked, gender_checked, service_checked, corruption_checked, severity_checked);
-
-      var columns = []
-      if (age_checked & x_axis != 'Age') {
-        columns.push('Age')
-      }
-      if (gender_checked & x_axis != 'Gender'){
-        columns.push('Gender')
-      }
-      if (service_checked & x_axis != 'Service') {
-        columns.push('Service')
-      }
-      if (corruption_checked & x_axis != 'Corruption'){
-        columns.push('Corruption')
-      }
-      if (severity_checked & x_axis != 'Severity') {
-        columns.push('Severity')
-      }
-      array_of_names = columns.map(function(item, index){return ds[item]})
-      if (array_of_names.length === 0){
-        array_of_names = [['data']]
-      }
-      lines = array_of_names.reduce((a, b) => a.reduce((r, v) => r.concat(b.map(w => [].concat(v, w))), []));
-      console.log(lines, array_of_names);
-      data = {}
-      for (var i=0; i<lines.length; i++){
-        console.log(lines[i])
-        data[lines[i]] = {'metric': Array(x_length).fill([0]).flat(), 'count': Array(x_length).fill([0]).flat()}
-      }
-      console.log(data);
-      for (var singleRow = 1; singleRow < utk_data.length-1; singleRow++) {
-        var rowCells = utk_data[singleRow].split(',');
-        var colnames = []
-        for (var i=0; i<columns.length;i++){
-          colnames.push(rowCells[ds_header.indexOf(columns[i])]);
-        };
-        if (colnames.length === 0) {
-          colnames = ['data']
-        }
-        if (x_axis != ''){
-          var xi = ds_header.indexOf(x_axis);
-          var x = ds[x_axis].indexOf(rowCells[xi]);
-          data[colnames.join(',')]['metric'][x] += parseFloat(rowCells[6])
-          data[colnames.join(',')]['count'][x] += parseFloat(rowCells[7])
-        } else {
-          data['data']['metric'][0] += parseFloat(rowCells[6])
-          data['data']['count'][0] += parseFloat(rowCells[7])
-        }
-      };
-      console.log(data)
-
-      var out_array = [];
-      $.each(data, function(key,val){
-          out_array.push( [key].concat(val['metric'].map(function(item, index) {return item / val['count'][index];})))
-      });
-      chart = c3.generate({
-          bindto: '#chart',
-          data: {
-            columns: out_array
-          },
-          axis: {
-              x: {
-                  type: 'category',
-                  categories: ds[x_axis]
-              }
-          }
-      });
-    };
-
-    function updateView() {
-      chart.destroy();
-      create_utk_plot();
-    }
-
-
-    </script>
-</body>
-
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="severity"
+                  />
+                </div>
+                <label class="form-control" for="severity">Severity</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>

@@ -1,0 +1,16 @@
+.c3-line {
+    stroke-width: 2px;
+}
+
+.c3-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.domain {
+    stroke-width: 1.2px;
+}
+
+.tick {
+    font-size: 14px;
+}
