@@ -1,9 +1,6 @@
-let utk_data, utk_header
-let miap_data, miap_header
-let ccd_data, ccd_header
-let adience_data, adience_header
+let all_data = {}
 
-let utk = {
+let common = {
   Corruption: [
     "gaussian-noise",
     "shot-noise",
@@ -22,106 +19,67 @@ let utk = {
     "jpeg-compression",
   ],
   Service: ["AWS", "Azure", "GCP"],
+  Severity: ["1", "2", "3", "4", "5"],
+}
+
+let utk = {
   Age: ["0-18", "19-45", "45-64", "65+"],
   Gender: ["Female", "Male"],
-  Severity: ["1", "2", "3", "4", "5"],
 }
 
 let miap = {
-  Corruption: [
-    "gaussian-noise",
-    "shot-noise",
-    "impulse-noise",
-    "defocus-blur",
-    "glass-blur",
-    "motion-blur",
-    "zoom-blur",
-    "snow",
-    "frost",
-    "fog",
-    "brightness",
-    "contrast",
-    "elastic-transform",
-    "pixelate",
-    "jpeg-compression",
-  ],
-  Service: ["AWS", "Azure", "GCP"],
   Age: ["Young", "Middle", "Older", "Unknown"],
   Gender: ["Predominantly Feminine", "Predominantly Masculine", "Unknown"],
-  Severity: ["1", "2", "3", "4", "5"],
 }
 
 let ccd = {
-  Corruption: [
-    "gaussian-noise",
-    "shot-noise",
-    "impulse-noise",
-    "defocus-blur",
-    "glass-blur",
-    "motion-blur",
-    "zoom-blur",
-    "snow",
-    "frost",
-    "fog",
-    "brightness",
-    "contrast",
-    "elastic-transform",
-    "pixelate",
-    "jpeg-compression",
-  ],
-  Service: ["AWS", "Azure", "GCP"],
   Age: ["0-18", "19-45", "45-64", "65+"],
   Gender: ["Feminine", "Masculine", "Other"],
-  Severity: ["1", "2", "3", "4", "5"],
 }
 
 let adience = {
-  Corruption: [
-    "gaussian-noise",
-    "shot-noise",
-    "impulse-noise",
-    "defocus-blur",
-    "glass-blur",
-    "motion-blur",
-    "zoom-blur",
-    "snow",
-    "frost",
-    "fog",
-    "brightness",
-    "contrast",
-    "elastic-transform",
-    "pixelate",
-    "jpeg-compression",
-  ],
-  Service: ["AWS", "Azure", "GCP"],
-  Age: ["0-2", "3-7", "8-14", "15-24", "25-35", "36-45", "46-59","60+"],
+  Age: ["0-2", "3-7", "8-14", "15-24", "25-35", "36-45", "46-59", "60+"],
   Gender: ["Female", "Male"],
-  Severity: ["1", "2", "3", "4", "5"],
 }
 
-
-function load_utk(data) {
-  utk_data = data.replaceAll('"', "").split(/\r?\n|\r/)
-  utk_header = utk_data[0].split(",")
-  create_plot('utk', utk_data, utk_header)
+let metadata = {
+  adience: {
+    column_names: { ...common, ...adience },
+    chart_name: "#adience_chart",
+    chart_title: "Adience",
+    metric_idx: 6,
+    count_idx: 7,
+  },
+  ccd: {
+    column_names: { ...common, ...ccd },
+    chart_name: "#ccd_chart",
+    chart_title: "CCD",
+    metric_idx: 8,
+    count_idx: 9,
+  },
+  miap: {
+    column_names: { ...common, ...miap },
+    chart_name: "#miap_chart",
+    chart_title: "MIAP",
+    metric_idx: 6,
+    count_idx: 7,
+  },
+  utk: {
+    column_names: { ...common, ...utk },
+    chart_name: "#utk_chart",
+    chart_title: "UTKFace",
+    metric_idx: 6,
+    count_idx: 7,
+  },
 }
 
-function load_miap(data) {
-  miap_data = data.replaceAll('"', "").split(/\r?\n|\r/)
-  miap_header = miap_data[0].split(",")
-  create_plot('miap', miap_data, miap_header)
-}
-
-function load_ccd(data) {
-  ccd_data = data.replaceAll('"', "").split(/\r?\n|\r/)
-  ccd_header = ccd_data[0].split(",")
-  create_plot('ccd', ccd_data, ccd_header)
-}
-
-function load_adience(data) {
-  adience_data = data.replaceAll('"', "").split(/\r?\n|\r/)
-  adience_header = adience_data[0].split(",")
-  create_plot('adience', adience_data, adience_header)
+function load_dataset_builder(dataset) {
+  function load_dataset(data) {
+    all_data[dataset] = { data: data.replaceAll('"', "").split(/\r?\n|\r/) }
+    all_data[dataset]["header"] = all_data[dataset]["data"][0].split(",")
+    create_plot(dataset)
+  }
+  return load_dataset
 }
 
 function process_buttons() {
@@ -131,7 +89,8 @@ function process_buttons() {
   )
 }
 
-function get_x_axis(metadata,
+function get_x_axis(
+  metadata,
   age_checked,
   gender_checked,
   service_checked,
@@ -147,46 +106,14 @@ function get_x_axis(metadata,
   return ["", 1]
 }
 
-let metadata = {
-  'adience': {
-    'column_names': adience,
-    'chart_name': '#adience_chart',
-    'chart_title': 'Adeice',
-    'metric_idx': 6,
-    'count_idx': 7,
-  },
-  'ccd': {
-    'column_names': ccd,
-    'chart_name': '#ccd_chart',
-    'chart_title': 'CCD',
-    'metric_idx': 8,
-    'count_idx': 9,
-  },
-  'miap': {
-    'column_names': miap,
-    'chart_name': '#miap_chart',
-    'chart_title': 'MIAP',
-    'metric_idx': 6,
-    'count_idx': 7,
-  },
-  'utk': {
-    'column_names': utk,
-    'chart_name': '#utk_chart',
-    'chart_title': 'UTKFace',
-    'metric_idx': 6,
-    'count_idx': 7,
-  }
-}
-
-function create_plot(dataset, data, header) {
-
-  let ds = metadata[dataset]['column_names']
-  let ds_header = header
-  let ds_data = data
-  let chart_name = metadata[dataset]['chart_name']
-  let chart_title = metadata[dataset]['chart_title']
-  let metric_idx = metadata[dataset]['metric_idx']
-  let count_idx = metadata[dataset]['count_idx']
+function create_plot(dataset) {
+  let ds = metadata[dataset]["column_names"]
+  let ds_header = all_data[dataset]["header"]
+  let ds_data = all_data[dataset]["data"]
+  let chart_name = metadata[dataset]["chart_name"]
+  let chart_title = metadata[dataset]["chart_title"]
+  let metric_idx = metadata[dataset]["metric_idx"]
+  let count_idx = metadata[dataset]["count_idx"]
 
   let [
     age_checked,
@@ -260,7 +187,7 @@ function create_plot(dataset, data, header) {
     )
   })
 
-  c3.generate({
+  all_data[dataset]["chart"] = c3.generate({
     bindto: chart_name,
     data: {
       columns: out_array,
@@ -282,31 +209,17 @@ function create_plot(dataset, data, header) {
 }
 
 function updateView() {
-  document.getElementById('utk_chart').innerHTML = ''
-  document.getElementById('miap_chart').innerHTML = ''
-  document.getElementById('ccd_chart').innerHTML = ''
-  document.getElementById('adience_chart').innerHTML = ''
-  create_plot('utk', utk_data, utk_header)
-  create_plot('miap', miap_data, miap_header)
-  create_plot('ccd', ccd_data, ccd_header)
-  create_plot('adience', adience_data, adience_header)
+  Object.keys(metadata).forEach((dataset) => {
+    all_data[dataset]["chart"].destroy()
+    create_plot(dataset)
+  })
 }
 
-fetch("./data/web_utk_ap.csv")
-  .then((resp) => resp.text())
-  .then(load_utk);
-
-fetch("./data/web_miap_ap.csv")
-  .then((resp) => resp.text())
-  .then(load_miap);
-
-fetch("./data/web_ccd_ap.csv")
-  .then((resp) => resp.text())
-  .then(load_ccd);
-
-fetch("./data/web_adience_ap.csv")
-  .then((resp) => resp.text())
-  .then(load_adience);
+Object.keys(metadata).forEach((dataset) => {
+  fetch(`./data/web_${dataset}_ap.csv`)
+    .then((resp) => resp.text())
+    .then(load_dataset_builder(dataset))
+})
 
 document.querySelectorAll("input[type='checkbox']").forEach((checkbox) => {
   checkbox.addEventListener("click", updateView)

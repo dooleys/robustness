@@ -50,13 +50,13 @@
   </head>
 
   <body>
-    <div class="container">
+    <div class="container-fluid d-flex flex-column vh-100 overflow-hidden">
       <h1>
         Result Exploration of ""
         <!-- to be filled in with paper title -->
       </h1>
-      <div class="">
-        <div class="col-sm-12 col-md-4 leftcol fixed">
+      <div class="row overflow-hidden">
+        <div class="col-sm-12 col-md-4">
           <div class="card">
             <div class="card-body">
               <h5 class="card-title">Breakdowns</h5>
@@ -120,11 +120,11 @@
             </div>
           </div>
         </div>
-        <div class="rightcol scrollit">
-          <div class="col-sm-12 col-md-8" id="adience_chart"></div>
-          <div class="col-sm-12 col-md-8" id="ccd_chart"></div>
-          <div class="col-sm-12 col-md-8" id="miap_chart"></div>
-          <div class="col-sm-12 col-md-8" id="utk_chart"></div>
+        <div class="col-sm-12 col-md-8 mh-100 overflow-auto">
+          <div id="adience_chart"></div>
+          <div id="ccd_chart"></div>
+          <div id="miap_chart"></div>
+          <div id="utk_chart"></div>
         </div>
       </div>
     </div>

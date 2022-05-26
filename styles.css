@@ -14,19 +14,3 @@
 .tick {
     font-size: 14px;
 }
-
-
-.leftcol {
-  position: fixed;
-   left: 0%;
-   overflow:hidden;
-   width: 20%;
-   float: left;
-}
-
-.rightcol {
-   position: relative;
-   width: 80%
-   overflow-y: scroll;
-   float:right;
-}
