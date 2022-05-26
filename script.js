@@ -70,7 +70,7 @@ let ccd = {
     "jpeg-compression",
   ],
   Service: ["AWS", "Azure", "GCP"],
-  Age: ["0-2", "3-7", "8-14", "15-24", "25-35", "36-45", "46-59","60+"],
+  Age: ["0-18", "19-45", "45-64", "65+"],
   Gender: ["Feminine", "Masculine", "Other"],
   Severity: ["1", "2", "3", "4", "5"],
 }
@@ -94,7 +94,7 @@ let adience = {
     "jpeg-compression",
   ],
   Service: ["AWS", "Azure", "GCP"],
-  Age: ["0-18", "19-45", "45-64", "65+"],
+  Age: ["0-2", "3-7", "8-14", "15-24", "25-35", "36-45", "46-59","60+"],
   Gender: ["Female", "Male"],
   Severity: ["1", "2", "3", "4", "5"],
 }
