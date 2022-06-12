@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Bootstrap 5 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+      defer
+    ></script>
+
+    <!-- Additional styles -->
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row justify-content-center">
+        <h1 class="display-5 text-center">
+          Robustness Disparities in Face Detection
+        </h1>
+        <div class="col-12 col-sm-7">
+          <ul class="nav nav-fill">
+            <li class="nav-item">
+              <a class="nav-link" href="http://www.cs.umd.edu/~sdooley1/">
+                Samuel Dooley
+              </a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="https://www.linkedin.com/in/gzhihongwei/"
+              >
+                George Z. Wei
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.cs.umd.edu/~tomg/"
+                >Tom Goldstein</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://jpdickerson.com">
+                John P. Dickerson
+              </a>
+            </li>
+          </ul>
+          <br />
+          <img
+            src="./figures/combined.png"
+            alt="Figure showing the different corruptions used"
+            class="img-fluid mx-auto d-block"
+            style="max-width: 80%"
+          />
+          <p class="text-muted fst-italic">
+            Our benchmark consists of 5,066,312 images of the 15 types of
+            algorithmically generated corruptions produced by ImageNet-C. We use
+            data from four datasets (Adience, CCD, MIAP, and UTKFace) and
+            present examples of corruptions from each dataset here.
+          </p>
+          <h3 class="display-6 text-center">Abstract</h3>
+          <p class="fs-5">
+            Facial analysis systems have been deployed by large companies and
+            critiqued by scholars and activists for the past decade. Many
+            existing algorithmic audits examine the performance of these systems
+            on later stage elements of facial analysis systems like facial
+            recognition and age, emotion, or gender prediction; however, a core
+            component to these systems has been vastly understudied from a
+            fairness perspective: face detection. Since face detection is a
+            pre-requisite step in facial analysis systems, the bias we observe
+            in face detection will flow downstream to the other components like
+            facial recognition and emotion prediction. Additionally, no prior
+            work has focused on the robustness of these systems under various
+            perturbations and corruptions, which leaves open the question of how
+            various people are impacted by these phenomena. We present the first
+            of its kind detailed benchmark of face detection systems,
+            specifically examining the robustness to noise of commercial and
+            academic models. We use both standard and recently released academic
+            facial datasets to quantitatively analyze trends in face detection
+            robustness. Across all the datasets and systems, we generally find
+            that photos of individuals who are <em>masculine presenting</em>,
+            <em>older</em>, of <em>darker skin type</em>, or have
+            <em>dim lighting</em> are more susceptible to errors than their
+            counterparts in other identities.
+          </p>
+
+          <img
+            src="./figures/AP.png"
+            alt="Figure explaining the Average Precision metric used"
+            class="img-fluid mx-auto d-block"
+            style="max-width: 70%"
+          />
+          <p class="text-muted fst-italic">
+            Depiction of how Average Precision (AP) metric is calculated by
+            using clean image as ground truth.
+          </p>
+          <img
+            src="./figures/OR_gender_combined_AP.png"
+            alt="Figure showing the odds ratio plots for all systems on all datasets, focusing on gender (gender binary)"
+            class="img-fluid mx-auto d-block"
+          />
+          <p class="text-muted fst-italic">
+            Gender disparity plots for each dataset and model. Values below 1
+            indicate that predominantly feminine presenting subjects are biased
+            against. Values above 1 indicate that predominantly masculine
+            presenting subjects are biased against. Error bars indicate 95%
+            confidence.
+          </p>
+          <img
+            src="./figures/OR_age_combined_AP.png"
+            alt="Figure showing the odds ratio plots for all systems on all datasets, focusing on age"
+            class="img-fluid mx-auto d-block"
+          />
+          <p class="text-muted fst-italic">
+            Age disparity plots for each dataset and model. Values greater than
+            1 indicate that older subjects are biased against compared to middle
+            aged subjects. Error bars indicate 95% confidence.
+          </p>
+          <ul class="nav nav-tabs justify-content-center">
+            <li class="nav-item">
+              <a class="nav-link" href="./results">Results</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/dooleys/robustness">
+                Code
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

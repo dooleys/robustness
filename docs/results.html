@@ -51,16 +51,18 @@
 
   <body>
     <div class="container-fluid d-flex flex-column vh-100 overflow-hidden">
-      <h1>Result Exploration of "Robustness Disparities in Face Detection"</h1>
+      <h1 class="display-6 text-center">
+        Result Exploration of "Robustness Disparities in Face Detection"
+      </h1>
       <div class="row overflow-hidden">
         <div class="col-sm-12 col-md-4">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Breakdowns</h5>
-              <h6 class="card-subtitle mb-2 text-muted">
+              <h5 class="card-title display-7">Breakdowns</h5>
+              <p class="card-subtitle mb-2 text-muted fst-italic">
                 Click different checkboxes to see breakdowns across the selected
                 intersection
-              </h6>
+              </p>
 
               <div class="input-group mb-3">
                 <div class="input-group-text">
@@ -79,6 +81,28 @@
                   />
                 </div>
                 <label class="form-control" for="gender">Gender</label>
+              </div>
+
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="skintype"
+                  />
+                </div>
+                <label class="form-control" for="skintype">Skin Type</label>
+              </div>
+
+              <div class="input-group mb-3">
+                <div class="input-group-text">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="lighting"
+                  />
+                </div>
+                <label class="form-control" for="lighting">Lighting</label>
               </div>
 
               <div class="input-group mb-3">

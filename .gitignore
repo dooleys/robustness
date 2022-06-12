@@ -1,1 +1,26 @@
 .DS_Store
+
+# Ignore unnecessary folders
+*.ipynb_checkpoints/
+*__pycache__/
+*.vscode/
+
+# TinaFace ignores
+tinaface/*
+!tinaface/tinaface_infer.py
+!tinaface/tinaface.py
+
+# YOLOv5 repo
+yolov5-face/
+
+# MogFace repo
+MogFace/
+
+# Ignore where all of the results are going to be placed
+results/
+
+# Ignore the output and error logs
+output/
+
+# Ignore temporary slurm script
+temp.sh

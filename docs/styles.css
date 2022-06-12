@@ -1,0 +1,65 @@
+:root {
+    --heading: #7EA0B7;
+    --link: #6F8CA1;
+    --link-active: #597081;
+    --caption: #9EB9D1;
+    --text: #36494E;
+}
+
+.c3-line {
+    stroke-width: 2px;
+}
+
+.c3-title {
+    font-family: var(--bs-font-sans-serif);
+    font-size: 20px;
+    fill: var(--heading);
+}
+
+.domain {
+    stroke-width: 1.2px;
+    fill: var(--text);
+}
+
+.tick {
+    font-size: 14px;
+    fill: var(--text);
+}
+
+.c3-legend-item text {
+    fill: var(--text);
+}
+
+.display-7 {
+    font-size: calc(1.325rem + 1vw);
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+body {
+    padding-bottom: 50px;
+}
+
+.nav-tabs {
+    border-bottom: 0;
+}
+
+.nav-tabs .nav-link {
+    border-radius: 0.25rem;
+}
+
+[class*="display-"] {
+    color: var(--heading);
+}
+
+.nav-link {
+    color: var(--link);
+}
+
+.nav-link:active, .nav-link:hover {
+    color: var(--link-active);
+}
+
+p, .form-control {
+    color: var(--text);
+}

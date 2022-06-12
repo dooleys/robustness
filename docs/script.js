@@ -18,7 +18,7 @@ let common = {
     "pixelate",
     "jpeg-compression",
   ],
-  Service: ["AWS", "Azure", "GCP"],
+  Service: ["AWS", "Azure", "GCP", "MogFace", "TinaFace", "Yolov5"],
   Severity: ["1", "2", "3", "4", "5"],
 }
 
@@ -35,6 +35,8 @@ let miap = {
 let ccd = {
   Age: ["0-18", "19-45", "45-64", "65+"],
   Gender: ["Feminine", "Masculine", "Other"],
+  SkinType: ["Lighter", "Darker"],
+  Lighting: ["Bright", "Dim"],
 }
 
 let adience = {
@@ -84,7 +86,7 @@ function load_dataset_builder(dataset) {
 
 function process_buttons() {
   // get what buttons are turned on
-  return ["#age", "#gender", "#service", "#corruption", "#severity"].map(
+  return ["#age", "#gender", "#skintype", "#lighting", "#service", "#corruption", "#severity"].map(
     (selector) => document.querySelector(selector).checked
   )
 }
@@ -93,6 +95,8 @@ function get_x_axis(
   metadata,
   age_checked,
   gender_checked,
+  skintype_checked,
+  lighting_checked,
   service_checked,
   corruption_checked,
   severity_checked
@@ -100,6 +104,8 @@ function get_x_axis(
   // determine what the x axis will be
   if (age_checked) return ["Age", metadata["Age"].length]
   if (gender_checked) return ["Gender", metadata["Gender"].length]
+  if (skintype_checked) return ["SkinType", metadata["SkinType"].length]
+  if (lighting_checked) return ["Lighting", metadata["Lighting"].length]
   if (service_checked) return ["Service", metadata["Service"].length]
   if (corruption_checked) return ["Corruption", metadata["Corruption"].length]
   if (severity_checked) return ["Severity", metadata["Severity"].length]
@@ -118,79 +124,96 @@ function create_plot(dataset) {
   let [
     age_checked,
     gender_checked,
+    skintype_checked,
+    lighting_checked,
     service_checked,
     corruption_checked,
     severity_checked,
   ] = process_buttons()
-  let [x_axis, x_length] = get_x_axis(
-    ds,
-    age_checked,
-    gender_checked,
-    service_checked,
-    corruption_checked,
-    severity_checked
-  )
 
-  let columns = []
-  if (age_checked && x_axis !== "Age") columns.push("Age")
-  if (gender_checked && x_axis !== "Gender") columns.push("Gender")
-  if (service_checked && x_axis !== "Service") columns.push("Service")
-  if (corruption_checked && x_axis !== "Corruption") columns.push("Corruption")
-  if (severity_checked && x_axis !== "Severity") columns.push("Severity")
+  let type = '';
+  let out_array = [];
+  let x_axis, x_length;
 
-  array_of_names = columns.map((item) => ds[item])
-
-  if (array_of_names.length === 0) array_of_names = [["data"]]
-
-  lines = array_of_names.reduce((a, b) =>
-    a.reduce((r, v) => r.concat(b.map((w) => [].concat(v, w))), [])
-  )
-  // console.log(lines, array_of_names)
-  data = {}
-  for (let i = 0; i < lines.length; i++) {
-    // console.log(lines[i])
-    data[lines[i]] = {
-      metric: Array(x_length).fill([0]).flat(),
-      count: Array(x_length).fill([0]).flat(),
-    }
-  }
-  // console.log(data)
-  for (let singleRow = 1; singleRow < ds_data.length - 1; singleRow++) {
-    let rowCells = ds_data[singleRow].split(",")
-    let colnames = []
-    for (let i = 0; i < columns.length; i++) {
-      colnames.push(rowCells[ds_header.indexOf(columns[i])])
-    }
-    if (colnames.length === 0) {
-      colnames = ["data"]
-    }
-    if (x_axis !== "") {
-      let xi = ds_header.indexOf(x_axis)
-      let x = ds[x_axis].indexOf(rowCells[xi])
-      data[colnames.join(",")]["metric"][x] += parseFloat(rowCells[metric_idx])
-      data[colnames.join(",")]["count"][x] += parseFloat(rowCells[count_idx])
-    } else {
-      data["data"]["metric"][0] += parseFloat(rowCells[metric_idx])
-      data["data"]["count"][0] += parseFloat(rowCells[count_idx])
-    }
-  }
-  console.log(data)
-
-  let out_array = []
-  Object.entries(data).forEach(([key, val]) => {
-    out_array.push(
-      [key].concat(
-        val["metric"].map(function (item, index) {
-          return item / val["count"][index]
-        })
-      )
+  // make sure that the checked variables are columns in the dataset
+  if (!(dataset != 'ccd' && skintype_checked || dataset != 'ccd' && lighting_checked )) {
+    [x_axis, x_length] = get_x_axis(
+      ds,
+      age_checked,
+      gender_checked,
+      skintype_checked,
+      lighting_checked,
+      service_checked,
+      corruption_checked,
+      severity_checked
     )
-  })
+
+    let columns = []
+    if (age_checked && x_axis !== "Age") columns.push("Age")
+    if (gender_checked && x_axis !== "Gender") columns.push("Gender")
+    if (skintype_checked && x_axis !== "SkinType") columns.push("SkinType")
+    if (lighting_checked && x_axis !== "Lighting") columns.push("Lighting")
+    if (service_checked && x_axis !== "Service") columns.push("Service")
+    if (corruption_checked && x_axis !== "Corruption") columns.push("Corruption")
+    if (severity_checked && x_axis !== "Severity") columns.push("Severity")
+
+    array_of_names = columns.map((item) => ds[item])
+
+    if (array_of_names.length === 0) array_of_names = [["data"]]
+
+    lines = array_of_names.reduce((a, b) =>
+      a.reduce((r, v) => r.concat(b.map((w) => [].concat(v, w))), [])
+    )
+    // console.log(lines, array_of_names)
+    data = {}
+    for (let i = 0; i < lines.length; i++) {
+      // console.log(lines[i])
+      data[lines[i]] = {
+        metric: Array(x_length).fill([0]).flat(),
+        count: Array(x_length).fill([0]).flat(),
+      }
+    }
+    // console.log(data)
+    for (let singleRow = 1; singleRow < ds_data.length - 1; singleRow++) {
+      let rowCells = ds_data[singleRow].split(",")
+      let colnames = []
+      for (let i = 0; i < columns.length; i++) {
+        colnames.push(rowCells[ds_header.indexOf(columns[i])])
+      }
+      if (colnames.length === 0) {
+        colnames = ["data"]
+      }
+      if (x_axis !== "") {
+        let xi = ds_header.indexOf(x_axis)
+        let x = ds[x_axis].indexOf(rowCells[xi])
+        data[colnames.join(",")]["metric"][x] += parseFloat(rowCells[metric_idx])
+        data[colnames.join(",")]["count"][x] += parseFloat(rowCells[count_idx])
+      } else {
+        data["data"]["metric"][0] += parseFloat(rowCells[metric_idx])
+        data["data"]["count"][0] += parseFloat(rowCells[count_idx])
+      }
+    }
+    if (x_axis != 'Age') {
+      type = 'bar';
+    }
+    console.log(data);
+
+    Object.entries(data).forEach(([key, val]) => {
+      out_array.push(
+        [key].concat(
+          val["metric"].map(function (item, index) {
+            return item / val["count"][index]
+          })
+        )
+      )
+    })
+  }
 
   all_data[dataset]["chart"] = c3.generate({
     bindto: chart_name,
     data: {
       columns: out_array,
+      type: type,
     },
     axis: {
       x: {
