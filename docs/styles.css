@@ -40,11 +40,15 @@ body {
     padding-bottom: 50px;
 }
 
+.nav {
+    margin-bottom: 1em;
+}
+
 .nav-tabs {
     border-bottom: 0;
 }
 
-.nav-tabs .nav-link {
+.nav-tabs .robustness-link {
     border-radius: 0.25rem;
 }
 
@@ -52,11 +56,11 @@ body {
     color: var(--heading);
 }
 
-.nav-link {
+.robustness-link {
     color: var(--link);
 }
 
-.nav-link:active, .nav-link:hover {
+.robustness-link:active, .robustness-link:hover {
     color: var(--link-active);
 }
 
