@@ -58,18 +58,18 @@
               >
             </li>
           </ul>
-          <img
-            src="./figures/combined.png"
-            alt="Figure showing the different corruptions used"
-            class="img-fluid mx-auto d-block"
-            style="max-width: 80%"
-          />
-          <p class="text-muted fst-italic">
-            Our benchmark consists of 5,066,312 images of the 15 types of
-            algorithmically generated corruptions produced by ImageNet-C. We use
-            data from four datasets (Adience, CCD, MIAP, and UTKFace) and
-            present examples of corruptions from each dataset here.
-          </p>
+          <ul class="nav nav-tabs justify-content-center">
+            <li class="nav-item">
+              <a class="nav-link robustness-link" href="./results">Explore the Results</a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link robustness-link"
+                href="https://github.com/dooleys/robustness"
+                >Code</a
+              >
+            </li>
+          </ul>
           <h3 class="display-6 text-center">Abstract</h3>
           <p class="fs-5">
             Facial analysis systems have been deployed by large companies and
@@ -96,6 +96,18 @@
             counterparts in other identities.
           </p>
 
+          <img
+            src="./figures/combined.png"
+            alt="Figure showing the different corruptions used"
+            class="img-fluid mx-auto d-block"
+            style="max-width: 80%"
+          />
+          <p class="text-muted fst-italic">
+            Our benchmark consists of 5,066,312 images of the 15 types of
+            algorithmically generated corruptions produced by ImageNet-C. We use
+            data from four datasets (Adience, CCD, MIAP, and UTKFace) and
+            present examples of corruptions from each dataset here.
+          </p>
           <img
             src="./figures/AP.png"
             alt="Figure explaining the Average Precision metric used"
@@ -128,18 +140,8 @@
             1 indicate that older subjects are biased against compared to middle
             aged subjects. Error bars indicate 95% confidence.
           </p>
-          <ul class="nav nav-tabs justify-content-center">
-            <li class="nav-item">
-              <a class="nav-link robustness-link" href="./results">Results</a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link robustness-link"
-                href="https://github.com/dooleys/robustness"
-                >Code</a
-              >
-            </li>
-          </ul>
+
+
           <h3 class="display-6 text-center">Acknowledgements</h3>
           <p class="fs-5">
             This research was supported in part by ARPA-E DIFFERENTIATE Award
@@ -152,9 +154,7 @@
               >Candice Schumann</a
             >
             for answering questions related to the MIAP dataset, as well as
-            <a href="https://www.aeva.dev/" class="robustness-link"
-              >Aurelia Augusta</a
-            >,
+            Aurelia Augusta,
             <a href="https://bbrubach.github.io/" class="robustness-link"
               >Brian Brubach</a
             >,
@@ -172,7 +172,7 @@
             >,
             <a href="http://www.neeharperi.com/" class="robustness-link"
               >Neehar Peri</a
-            >,
+            >, and
             <a class="robustness-link" href="https://www.cs.umd.edu/~schumann/"
               >Candice Schumann</a
             >

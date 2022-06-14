@@ -1,26 +1,7 @@
-# Robustness Disparities in Commercial Face Detection
-
-![Overview](./assets/Overview.png)
-
-Facial detection and analysis systems have been deployed by large companies and critiqued by scholars and activists for the past decade. Critiques that focus on system performance analyze disparity of the system's output, i.e., how frequently is a face detected for different Fitzpatrick skin types or perceived genders. However, we focus on the robustness of these system outputs under noisy natural perturbations. We present the first of its kind detailed benchmark of the robustness of two such systems: Amazon Rekognition and Microsoft Azure. Using both standard and recently released academic facial datasets, we find that photos of individuals who are _older_, _masculine presenting_, of _darker skin type_, or have _dim lighting_ are more susceptible to errors than their counterparts in other identities.
-
-## About the Benchmark
-
-This benchmark uses four datasets to evaluate the robustness of Amazon AWS and Microsoft Azure’s face detection systems to natural types of noise.
-* **[Adience](https://talhassner.github.io/home/projects/Adience/Adience-data.html)**
-* **[Casual Conversations Dataset (CCD)](https://ai.facebook.com/datasets/casual-conversations-dataset/)**
-* **[Open Images V6 -- Extended; More Inclusive Annotations for People (MIAP)](https://storage.googleapis.com/openimages/web/extended.html)**
-* **[UTKFace](https://susanqq.github.io/UTKFace/)**
-
-For a subset of the images in this dataset, we created 75 corrupted versions following the [ImageNet-C](https://github.com/hendrycks/robustness) pipeline.  
-
-Subsequently, each image (1 clean + 75 corrupted images) was passed through Amazon Web Services's [Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/API_DetectFaces.html) and Microsoft [Azure](https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236) face detection APIs.
-
-## About this Repo
-
-We conducted the entire benchmark using AWS's S3 and EC2 infrastructure. The image datasets were downloaded to an S3 bucket, processed/corrupted using EC2 instances (primarily `c5.large`), and then passed through each API using EC2 instances (`i3.xlarge`) and storing responses in an S3 bucket. This process was specific to our choices, though any compute environment could be used to reproduce these results. To that end, we will include the essential code used to process the images and make the API calls, and do not include specific and superfluous data management scripts which would be idiosyncratic to the specific process we chose.
 
 # Steps
+
+These are the steps to create the corrupted images and process them with the commercial APIs.
 
 ## 1) Download the images
 
