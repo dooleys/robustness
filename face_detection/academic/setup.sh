@@ -22,9 +22,6 @@ cat << EOF
 ======================================================================
 EOF
 
-# Load supported python3 version
-module load cuda/11.1.1 gcc/7.5.0
-
 # Move into the tinaface subdirectory
 cd tinaface
 
@@ -65,7 +62,6 @@ gdown https://drive.google.com/uc?id=1VkMKWPJM0oaS8eyIVZ5flcJH70Pbi-_g
 
 # Reset for next model
 conda deactivate
-module rm cuda/11.1.1 gcc/7.5.0
 cd $MODELS_DIR
 
 cat << EOF
@@ -132,11 +128,6 @@ cat << EOF
 ======================================================================
 EOF
 
-# Load CUDA 10.2
-module load cuda/10.2.89
-# Load corresponding cuDNN version
-module load cudnn/v8.2.1
-
 # Clone its containing repo
 git clone https://github.com/idstcv/MogFace.git
 cd MogFace
@@ -168,7 +159,6 @@ gdown https://drive.google.com/uc?id=1s8LFXQ5-zsSRJKVHLFqmhow8cBn4JDCC -O weight
 cp $MODELS_DIR/mogface_infer.py .
 
 # Reset environment
-module rm cudnn/v8.2.1 cuda/10.2.89
 conda deactivate
 
 cat << EOF

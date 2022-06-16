@@ -13,7 +13,7 @@ if __name__ == "__main__":
         "--model",
         required=True,
         type=str,
-        choices={"tinaface", "scrfd", "yolov5", "mogface"},
+        choices={"tinaface", "yolov5", "mogface"},
         help="The model to perform the experiments on.",
     )
     parser.add_argument(
@@ -26,7 +26,7 @@ if __name__ == "__main__":
         "--dataset",
         required=True,
         type=str,
-        choices=["adience", "miap", "utkface"],
+        choices=["adience", "ccd", "miap", "utkface"],
         help="Which dataset to evaluate on.",
     )
     parser.add_argument(

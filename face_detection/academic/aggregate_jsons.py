@@ -9,7 +9,8 @@ from pathlib import Path
 def process_model_on_dataset(
     args: argparse.Namespace, model: str, dataset: str
 ) -> None:
-    print(("=" * 40) + f" Aggregating JSONs for <{model}> on <{dataset}> " + ("=" * 40))
+    print(("=" * 40) +
+          f" Aggregating JSONs for <{model}> on <{dataset}> " + ("=" * 40))
 
     model_dataset_file = args.results_root / f"{model}_{dataset}.json"
     aggregated_preds = []
@@ -17,7 +18,8 @@ def process_model_on_dataset(
     for i, preds_file in enumerate(
         (args.results_root / model / dataset).glob("**/*.json"), start=1
     ):
-        preds_path = str(preds_file).replace(str(args.results_root), "").lstrip("/")
+        preds_path = str(preds_file).replace(
+            str(args.results_root), "").lstrip("/")
 
         with open(preds_file, "r") as f:
             response = json.load(f)
@@ -57,7 +59,7 @@ if __name__ == "__main__":
         default=None,
         type=str,
         nargs="+",
-        help="Which datasets the models made predictions on. By default will be Adience, MIAP, and UTKFACE.",
+        help="Which datasets the models made predictions on. By default will be Adience, CCD, MIAP, and UTKFACE.",
     )
     parser.add_argument(
         "-v", "--verbose", action="store_true", help="Whether to print progress"
@@ -65,11 +67,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     args.models = args.models or ["mogface", "tinaface", "yolov5"]
-    args.datasets = args.datasets or ["adience", "miap", "utkface"]
+    args.datasets = args.datasets or ["adience", "ccd", "miap", "utkface"]
 
     if len(list(itertools.product(args.models, args.datasets))) > 1:
         processes = [
-            mp.Process(target=process_model_on_dataset, args=(args, model, dataset))
+            mp.Process(target=process_model_on_dataset,
+                       args=(args, model, dataset))
             for model, dataset in itertools.product(args.models, args.datasets)
         ]
 
