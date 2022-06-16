@@ -41,7 +41,7 @@ The `docs` folder contains the [website's](https://dooleys.github.io/robustness)
 
 # Citation
 
-```
+```bibtex
 @article{dooley2022robustness,
   title={Robustness Disparities in Face Detection},
   author={Dooley, Samuel and Wei, George Z. and Goldstein, Thomas and Dickerson, John P.},
