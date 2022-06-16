@@ -4,6 +4,8 @@
     --link-active: #597081;
     --caption: #9EB9D1;
     --text: #36494E;
+    --button: #5594D4;
+    --button-active: #4B8FD2;
 }
 
 .c3-line {
@@ -67,4 +69,16 @@ body {
 
 p, .form-control {
     color: var(--text);
+}
+
+.btn-robustness {
+    color: white;
+    background-color: var(--button) !important;
+    border-color: var(--button) !important;
+}
+
+.btn-robustness:hover {
+    color: white;
+    background-color: var(--button-active) !important;
+    border-color: var(--button-active) !important;
 }
